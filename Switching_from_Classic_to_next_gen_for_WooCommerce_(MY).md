@@ -12,7 +12,7 @@
 ## Navigation Path
 `EasyConnect -> Installed Ecommerce Apps -> Individual API -> Open App`
 
-![Navigation Path Screenshot](images/navigation-path.png)
+![Navigation Path Screenshot](Screenshot 2025-08-19 at 5.45.32 PM.png)
 
 ---
 
