@@ -20,7 +20,7 @@
 1. Go to the **Switch** section.  
 2. Toggle the switch to **Next Gen**.  
 
-![Switch Section Screenshot](images/switch-section.png)
+![Switch Section Screenshot](Pictures/WC2.PNG)
 
 ✅ Done! You’ve now switched to **Next Gen**.  
 
@@ -30,7 +30,7 @@
 1. Navigate to **Store Details** by pressing the `≡` → **Edit**.  
 2. From there, you can retrieve the **API key** for WooCommerce plugin integration.  
 
-![Retrieve API Key Screenshot](images/retrieve-api-key.png)
+![Retrieve API Key Screenshot](Pictures/WC3.PNG)
 
 ---
 
@@ -39,7 +39,7 @@ Follow the official guide here:
 
 🔗 [How to integrate EasyParcel with WooCommerce](https://helpcentre-my.easyparcel.com/support/solutions/articles/9000188606-how-to-integrate-easyparcel-with-woocommerce-)  
 
-![WooCommerce Integration Screenshot](images/woocommerce-integration.png)
+![WooCommerce Integration Screenshot](Pictures/WC4.PNG)
 
 ---
 
