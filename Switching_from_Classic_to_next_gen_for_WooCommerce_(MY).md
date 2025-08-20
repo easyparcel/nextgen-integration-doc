@@ -40,7 +40,7 @@ Follow the official guide here:
 
 🔗 [How to integrate EasyParcel with WooCommerce](https://helpcentre-my.easyparcel.com/support/solutions/articles/9000188606-how-to-integrate-easyparcel-with-woocommerce-)  
 
-![WooCommerce Integration Screenshot](Pictures/WC5.PNG)
+![WooCommerce Integration Screenshot](Pictures/WC6.PNG)
 
 ---
 
@@ -48,4 +48,4 @@ Follow the official guide here:
 - Once switched, all new settings will apply under **Next Gen**.  
 - API keys retrieved here are required for the WooCommerce plugin integration.  
 
-![Notes Screenshot](Pictures/WC6.PNG)
+![Notes Screenshot](Pictures/WC5.PNG)
