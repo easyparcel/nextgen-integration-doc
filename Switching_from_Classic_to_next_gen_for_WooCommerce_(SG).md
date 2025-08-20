@@ -12,7 +12,7 @@
 ## Navigation Path
 `EasyConnect -> Installed Ecommerce Apps -> Individual API -> Open App`
 
-![Navigation Path Screenshot](Pictures/WC3.png)
+![Navigation Path Screenshot](Pictures/WC2.PNG)
 
 ---
 
@@ -20,7 +20,7 @@
 1. Go to the **Switch** section.  
 2. Toggle the switch to **Next Gen**.  
 
-![Switch Section Screenshot](Pictures/WC4.png)
+![Switch Section Screenshot](Pictures/WC3.PNG)
 
 ✅ Done! You’ve now switched to **Next Gen**.  
 
@@ -29,11 +29,11 @@
 ## Retrieve API Key
 - Navigate to **Store Details** by pressing the `≡` → **Edit**.  
 
-![Retrieve API Key Screenshot](Pictures/WC4.png)
+![Retrieve API Key Screenshot](Pictures/WC4.PNG)
 
 - From there, you can retrieve the **API key** for WooCommerce plugin integration.  
 
-![Retrieve API Key Screenshot](Pictures/WC5.png)
+![Retrieve API Key Screenshot](Pictures/WC5.PNG)
 
 
 ---
