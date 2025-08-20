@@ -1,4 +1,4 @@
-# Switching from Classic to Next Gen for Shopify Integration (MY)
+# Switching from Classic to Next Gen for Shopify Integration (SG)
 
 ## Table of Contents
 - [Navigation Path](#navigation-path)  
