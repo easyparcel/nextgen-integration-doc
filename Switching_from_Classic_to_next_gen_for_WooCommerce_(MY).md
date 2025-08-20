@@ -28,10 +28,12 @@
 ---
 
 ## Retrieve API Key
-1. Navigate to **Store Details** by pressing the `≡` → **Edit**.  
-2. From there, you can retrieve the **API key** for WooCommerce plugin integration.  
-
+- Navigate to **Store Details** by pressing the `≡` → **Edit**.
 ![Retrieve API Key Screenshot](Pictures/WC4.PNG)
+  
+- From there, you can retrieve the **API key** for WooCommerce plugin integration.  
+
+
 
 ---
 
@@ -39,8 +41,8 @@
 Follow the official guide here:  
 
 🔗 [How to integrate EasyParcel with WooCommerce](https://helpcentre-my.easyparcel.com/support/solutions/articles/9000188606-how-to-integrate-easyparcel-with-woocommerce-)  
-
 ![WooCommerce Integration Screenshot](Pictures/WC6.PNG)
+
 
 ---
 
@@ -48,4 +50,3 @@ Follow the official guide here:
 - Once switched, all new settings will apply under **Next Gen**.  
 - API keys retrieved here are required for the WooCommerce plugin integration.  
 
-![Notes Screenshot](Pictures/WC5.PNG)
