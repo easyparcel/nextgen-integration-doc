@@ -32,18 +32,17 @@ Once switched, you may proceed to use the **API key** for your API integration.
 ![API Key Screenshot](Pictures/API4.PNG)
 
 ---
+## Notes
+- There are **no changes** to the API parameters or structure at this time.  
+- You may continue using the API as per the existing documentation.
 
-## API Documentation
 Refer to the official API documentation here:  
 
 🔗 [EasyParcel API Documentation (Malaysia)](https://developers.easyparcel.com/?c=Malaysia)  
 
-![API Documentation Screenshot](Pictures/API5.PNG)
+![Notes Screenshot](Pictures/API5.PNG)
 
 ---
 
-## Notes
-- There are **no changes** to the API parameters or structure at this time.  
-- You may continue using the API as per the existing documentation.  
+ 
 
-![Notes Screenshot](images/notes.png)
