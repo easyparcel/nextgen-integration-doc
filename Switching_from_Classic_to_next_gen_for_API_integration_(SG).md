@@ -40,7 +40,7 @@ Refer to the official API documentation here:
 
 🔗 [EasyParcel API Documentation (Singapore)](https://developers.easyparcel.com/?c=Singapore)  
 
-![Notes Screenshot](Pictures/APISG1.PNG)
+![Notes Screenshot](Pictures/APISG2.PNG)
 
 ---
 
