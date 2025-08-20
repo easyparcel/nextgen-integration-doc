@@ -12,7 +12,7 @@
 ## Navigation Path
 `EasyConnect -> Installed Ecommerce Apps -> Individual API -> Open App`
 
-![Navigation Path Screenshot](Pictures/WC2.PNG)
+![Navigation Path Screenshot](Pictures/WCSG1.PNG)
 
 ---
 
@@ -20,10 +20,10 @@
 1. Go to the **Switch** section.  
 2. Toggle the switch to **Next Gen**.  
 
-![Switch Section Screenshot](Pictures/WC3.PNG)
+![Switch Section Screenshot](Pictures/WC2.PNG)
 
 ✅ Done! You’ve now switched to **Next Gen**.  
-
+![Switch Section Screenshot](Pictures/WC3.PNG)
 ---
 
 ## Retrieve API Key
@@ -43,7 +43,7 @@ Follow the official guide here:
 
 🔗 [How to integrate EasyParcel with WooCommerce](https://helpcentre-my.easyparcel.com/support/solutions/articles/9000188606-how-to-integrate-easyparcel-with-woocommerce-)  
 
-![WooCommerce Integration Screenshot](Pictures/WC6.png)
+![WooCommerce Integration Screenshot](Pictures/WCSG6.png)
 
 ---
 
