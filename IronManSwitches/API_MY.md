@@ -1,7 +1,7 @@
 # Switching from Classic to Next Gen for API Integration (MY)
 
 ## Navigation Path
-`EasyConnect -> Installed Ecommerce Apps -> Individual API -> Open App`
+#### Login to EasyParcel website -> EasyConnect -> Installed Ecommerce Apps -> Individual API -> Open App
 
 <img width="1280" height="708" alt="image" src="https://github.com/user-attachments/assets/d6b1f431-43c6-4915-a93e-a85864a72506" />
 
