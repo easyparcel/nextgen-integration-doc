@@ -66,6 +66,6 @@ This guide will walk you through integrating NextGen EasyParcel with Shopee. Wit
 
 ## Conclusion
 
-You've successfully set up EasyParcel Shopee integration! You will now can fulfill orders after importing to EasyParcel NextGen website. [How to import and fulfill orders at EasyParcel.](https://github.com/easyparcel/nextgen-integration-doc/blob/main/AppHub/shopify/shopify_import_fulfilment.md)
+You've successfully set up EasyParcel Shopee integration! You will now can fulfill orders after importing to EasyParcel NextGen website. [How to import and fulfill orders at EasyParcel.](https://github.com/easyparcel/nextgen-integration-doc/blob/main/AppHub/shopee/shopee_fulfilment.md)
 
 If you have any questions or need further assistance, [check out our other articles](https://helpcentre-my.easyparcel.com/support/home) or reach out to our friendly support team. We're happy to help you every step of the way! 
