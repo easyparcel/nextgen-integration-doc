@@ -61,6 +61,6 @@ This guide will walk you through integrating NextGen EasyParcel with Shopify usi
 ## Conclusion
 You've successfully set up EasyParcel Shopify integration using the Import Version! You will now can fulfill orders after importing to EasyParcel NextGen website.
 
-**You may proceed to checkout our [Woocommerce Import Fulfilment Steps](https://github.com/easyparcel/nextgen-integration-doc/blob/main/AppHub/shopify/shopify_import_fulfilment.md)**
+**You may proceed to checkout our [Shopify Import Fulfilment Steps](https://github.com/easyparcel/nextgen-integration-doc/blob/main/AppHub/shopify/shopify_import_fulfilment.md)**
 
 If you have any questions or need further assistance, [check out our other articles](https://helpcentre-my.easyparcel.com/support/home) or reach out to our friendly support team. We're happy to help you every step of the way! 
