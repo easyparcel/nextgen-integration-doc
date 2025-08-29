@@ -58,7 +58,7 @@ This guide will walk you through integrating NextGen EasyParcel with Lazada. Wit
 
 ---
 ## Conclusion
-You've successfully set up EasyParcel Shopify integration using the Import Version! You will now can fulfill orders after importing to EasyParcel NextGen website.
+You've successfully set up EasyParcel Lazada integration using the Import Version! You will now can fulfill orders after importing to EasyParcel NextGen website.
 
 **You may proceed to checkout our [Lazada Import Fulfilment Steps](https://github.com/easyparcel/nextgen-integration-doc/blob/main/AppHub/lazada/lazada_import_fulfilment.md)**
 
