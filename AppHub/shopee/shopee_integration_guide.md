@@ -16,7 +16,7 @@ This guide will walk you through integrating NextGen EasyParcel with Shopee. Wit
 <img width="1258" height="416" alt="Screenshot 2025-08-28 at 5 43 26 PM" src="https://github.com/user-attachments/assets/32e4d15b-eb87-4662-9892-8dc37a4ae529" />
 
 ## Set Up Shopee Integration
-#### **Step 1:** Under EasyConnect section, click on "Add Ecommerce App", find "Shopee Import" and click on "Install App"
+#### **Step 1:** Under EasyConnect section, click on "Add Ecommerce App", find "Shopee" and click on "Install App"
 
 <img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/72a73b67-5dcb-4b02-b6e0-eeb6e5336d13" />
 
