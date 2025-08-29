@@ -12,12 +12,6 @@ Easyparcel Next Gen represents a complete reimagining of our logistics platform,
 - **Improved Scalability** - Built to handle enterprise-level operations
 - **Advanced Analytics** - Real-time insights and reporting capabilities
 
-## 📋 Table of Contents
-
-- [API Integration Guide](#api-integration-guide)
-- [App Hub applications installation](#app-hub-installation)
-- [Migration from Classic](#migration-from-classic)
-- [Support](#support)
 
 ## 🏃‍♂️ Getting Started
 
