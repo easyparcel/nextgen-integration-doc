@@ -32,6 +32,12 @@ This guide will walk you through integrating NextGen EasyParcel with Woocomemrce
 
 <img width="1280" height="636" alt="image" src="https://github.com/user-attachments/assets/fcae11ef-5784-4591-b937-e70784ec873f" />
 
+#### **Step 5:** In the store, click "Sender Address" and key in your sender details and click on the "Update" button.
+
+<img width="1280" height="655" alt="image" src="https://github.com/user-attachments/assets/31fa697c-98c3-4289-b92f-df17235b2c76" />
+
+#### Done ! You have successfully setup woocommerce import app in easyparcel.
+
 ## Conclusion
 You've successfully set up EasyParcel Woocommerce integration using the Import Version! You will now can fulfill orders after importing to EasyParcel NextGen website.
 
