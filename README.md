@@ -21,6 +21,11 @@ Before you begin, ensure you have:
 - An active Easyparcel account
 - You have switch to our Easyparcel Next Gen account
 
+<img width="1277" height="115" alt="image" src="https://github.com/user-attachments/assets/86f51dec-a372-4de6-ab85-62421964d504" />
+
+### Next gen dashboard
+<img width="1280" height="236" alt="image" src="https://github.com/user-attachments/assets/da179863-ac13-4dad-98b2-79c9225c7e3c" />
+
 ### Quick Setup
 
 ## 🔌 Next Gen API Documentation
