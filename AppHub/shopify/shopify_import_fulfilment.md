@@ -39,3 +39,28 @@ This guide will walk you through Orders Fulfilment NextGen EasyParcel with Wooco
 <img width="1280" height="664" alt="image" src="https://github.com/user-attachments/assets/0f547643-aa2b-4350-9388-649086ee8973" />
 
 ---
+
+## 💡 Best Practices
+
+### Before Fulfillment
+
+* **Verify inventory availability** before confirming fulfillment
+* **Check address accuracy** to prevent delivery failures
+* **Consider delivery timing** for time-sensitive orders
+* **Review special instructions** from customers
+
+### During Courier Selection
+
+* **Compare multiple options** when available
+* **Consider delivery speed vs. cost** based on customer needs
+* **Check service availability** for the destination
+* **Verify pickup and delivery windows**
+
+### After Fulfillment
+
+* **Print AWB immediately** to avoid delays
+* **Prepare packages** according to courier requirements
+* **Schedule pickup** if not automatic
+* **Monitor tracking** for any issues
+
+---
