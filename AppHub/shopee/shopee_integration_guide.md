@@ -63,9 +63,9 @@ This guide will walk you through integrating NextGen EasyParcel with Shopee. Wit
 <img width="1280" height="665" alt="image" src="https://github.com/user-attachments/assets/a9adb6e8-aa23-4b59-b172-2c531e64790b" />
 
 ---
-
 ## Conclusion
+You've successfully set up EasyParcel Shopify integration using the Import Version! You will now can fulfill orders after importing to EasyParcel NextGen website.
 
-You've successfully set up EasyParcel Shopee integration! You will now can fulfill orders after importing to EasyParcel NextGen website. [How to import and fulfill orders at EasyParcel.](https://github.com/easyparcel/nextgen-integration-doc/blob/main/AppHub/shopee/shopee_fulfilment.md)
+**You may proceed to checkout our [Woocommerce Import Fulfilment Steps](https://github.com/easyparcel/nextgen-integration-doc/blob/main/AppHub/shopee/shopee_fulfilment.md))**
 
 If you have any questions or need further assistance, [check out our other articles](https://helpcentre-my.easyparcel.com/support/home) or reach out to our friendly support team. We're happy to help you every step of the way! 
