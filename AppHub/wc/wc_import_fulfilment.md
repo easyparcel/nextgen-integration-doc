@@ -1,4 +1,4 @@
-# How do I import my Woocommerce orders by using EasyParcel in next Gen?
+# How do I import and fulfil my Woocommerce orders by using EasyParcel in next Gen?
 
 This guide will walk you through Orders Fulfilment NextGen EasyParcel with Woocommerce using the **Import Version** method. With this integration, you'll import orders from Woocommerce into your EasyParcel account for fulfillment.
 
