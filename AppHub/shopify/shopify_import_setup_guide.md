@@ -27,9 +27,10 @@ This guide will walk you through integrating NextGen EasyParcel with Shopify usi
 #### **Step 2:**  Key in your "Store Name" and "Store URL" and click on the "Connect" button 
 
 #### Kindly take note: 
-##### Currently only supports original url from shopify (Example : testing.myshopify.com)
+##### Currently only supports original url from shopify (Example : https://testing.myshopify.com)
 
-<img width="1280" height="655" alt="image" src="https://github.com/user-attachments/assets/c28b7cce-8e60-4584-8546-f2ff3e6f91a4" />
+<img width="1280" height="655" alt="image" src="https://github.com/user-attachments/assets/4b08d2a7-d7e7-4c6d-99c8-7f2828eb8e8f" />
+
 
 
 The shop url should be correct for successful integration.
