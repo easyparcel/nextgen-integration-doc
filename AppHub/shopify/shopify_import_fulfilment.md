@@ -30,7 +30,7 @@ This guide will walk you through Orders Fulfilment NextGen EasyParcel with Shopi
 
 #### **Step 5:** The fulfilled order will now be displayed on the Order Page
 
-<img width="1667" height="687" alt="image" src="https://github.com/user-attachments/assets/9062fb1d-1220-46e3-b77e-d1f94e03e129" />
+<img width="2914" height="1545" alt="image" src="https://github.com/user-attachments/assets/09c7f197-4151-447c-943d-0b977d30c141" />
 
 ---
 
