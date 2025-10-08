@@ -25,6 +25,14 @@ With this integration, you'll be able to bulk fulfill orders from Lazada directl
 
 <img width="2110" height="1114" alt="image" src="https://github.com/user-attachments/assets/382fbb25-aa5a-47ee-ab82-3c214d6e692a" />
 
+---
+### You may also change the courier using the pencil button
+<img width="2061" height="785" alt="image" src="https://github.com/user-attachments/assets/8d1163cf-f67d-42da-8442-c5bdf02ca772" />
+
+<img width="1046" height="452" alt="Pasted Graphic 9" src="https://github.com/user-attachments/assets/6d3d598d-0b49-40c3-b66a-cab9f9be3ec6" />
+
+
+---
 
 ## 🚚 Step 3: Choose Courier and Complete Payment
 
