@@ -33,3 +33,18 @@ With this integration, you'll be able to bulk fulfill orders from Lazada directl
 3. Click **Pay Now** to make payment for the selected orders.
 
 <img width="2098" height="1212" alt="image" src="https://github.com/user-attachments/assets/2e454380-f8e1-4c85-b7f3-ebad0b1603d7" />
+
+
+---
+
+## **Step 4:** The fulfilled order will now be displayed on the Order Page
+
+<img width="1280" height="665" alt="image" src="https://github.com/user-attachments/assets/fe7fe372-f10f-4a43-9f59-22383a05b057" />
+
+---
+
+## **Step 5:** Click on the "Details" button. Order details will be displayed on the page.
+
+<img width="1280" height="671" alt="image" src="https://github.com/user-attachments/assets/a5657386-030d-4717-a976-47cf0c008147" />
+
+---
