@@ -35,3 +35,16 @@ With this integration, you'll be able to bulk fulfill orders from Shopee directl
 
 Your Shopee orders are now successfully fulfilled in bulk using EasyParcel.
 
+---
+
+## **Step 4:** The fulfilled order will now be displayed on the Order Page
+
+<img width="1280" height="665" alt="image" src="https://github.com/user-attachments/assets/fe7fe372-f10f-4a43-9f59-22383a05b057" />
+
+---
+
+## **Step 5:** Click on the "Details" button. Order details will be displayed on the page.
+
+<img width="1280" height="671" alt="image" src="https://github.com/user-attachments/assets/a5657386-030d-4717-a976-47cf0c008147" />
+
+---
