@@ -1,1 +1,37 @@
+# How to Bulk Fulfill Shopee Orders Using EasyParcel
+
+This guide will walk you through **Orders Fulfilment NextGen EasyParcel with Shopee** using the **Import Version** method.  
+With this integration, you'll be able to bulk fulfill orders from Shopee directly in your EasyParcel account.
+
+---
+
+## 🧭 Step 1: Access Shopee Integration
+
+1. Under **EasyConnect**, click on **Installed Ecommerce Apps**.
+2. Find **Shopee** and click on the **Open App** button.
+
+*You may select the fulfilment rules to select the default courier for bulk fulfilment to either cheapest courier or specific courier.*
+
+<img width="2166" height="600" alt="image" src="https://github.com/user-attachments/assets/ae4b632d-343f-463f-aa28-d6afbb2e43da" />
+
+
+## 📅 Step 2: Import and Select Orders
+
+1. Click on **Order**.
+2. Select the **order date** and **order status**, then click on the **Search** button.
+3. The orders will be imported and displayed in the list below.
+4. Select the orders you wish to fulfill, then click the **Fulfill Selected** button.
+
+<img width="2110" height="1114" alt="image" src="https://github.com/user-attachments/assets/8a6415b1-e482-4442-a4b3-97fe30c5b808" />
+
+
+## 🚚 Step 3: Choose Courier and Complete Payment
+
+1. The courier will be automatically selected based on your chosen rule (e.g., **Cheapest Courier** or **Specific Courier**).
+2. In this example, the specific courier is **Aramex**.
+3. Click **Pay Now** to make payment for the selected orders.
+
+<img width="2098" height="1212" alt="image" src="https://github.com/user-attachments/assets/4014aefa-bfc8-4a5e-a91a-efaa6a8990ae" />
+
+Your Shopee orders are now successfully fulfilled in bulk using EasyParcel.
 
