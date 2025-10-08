@@ -4,7 +4,7 @@ This guide will walk you through Orders Fulfilment NextGen EasyParcel with Lazad
 
 ---
 
-#### **Step 1:** Under "EasyConnect", click on "Installed Ecommerce Apps", find "Shopee" and click on "Open App" button. Click on "Order", select the order date and order status and click on the "Search" button. The order will be imported and shown in the list below. Then, click the "Fulfill" button on the order you want to fulfill.
+#### **Step 1:** Under "EasyConnect", click on "Installed Ecommerce Apps", find "Lazada Import" and click on "Open App" button. Click on "Order", select the order date and order status and click on the "Search" button. The order will be imported and shown in the list below. Then, click the "Fulfill" button on the order you want to fulfill.
 
 <img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/be72a15b-540a-4137-bcc1-d2c20330b6f1" />
 
