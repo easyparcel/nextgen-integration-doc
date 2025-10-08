@@ -9,9 +9,8 @@ With this integration, you'll be able to bulk fulfill orders from Lazada directl
 
 1. Under **EasyConnect**, click on **Installed Ecommerce Apps**.
 2. Find **Lazada** and click on the **Open App** button.
-3. You may select the fulfillment rules to choose the default courier for bulk fulfillment:
-   - **Cheapest Courier**, or  
-   - **Specific Courier**.
+ *You may select the fulfilment rules to select the default courier for bulk fulfilment to either cheapest courier or specific courier.*
+
 <img width="2166" height="600" alt="image" src="https://github.com/user-attachments/assets/d7c3bc21-1d60-4d30-a9d7-bbaa9e2e763b" />
 
 
