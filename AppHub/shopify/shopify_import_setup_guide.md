@@ -29,7 +29,8 @@ This guide will walk you through integrating NextGen EasyParcel with Shopify usi
 #### Kindly take note: 
 ##### Please Key in Full URL with https (Example : https://testing.myshopify.com)
 
-<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/687efdc1-3881-4573-8827-1fed25e03004" />
+<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/b0380c5e-7a8f-4fe3-81cd-c84c04e10ccc" />
+
 
 
 
