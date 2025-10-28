@@ -35,11 +35,6 @@ This guide will walk you through integrating NextGen EasyParcel with Shopify usi
 
 The shop url should be correct for successful integration.
 
-If it contains "www" after "http://", kindly remove it. 
-
-Shopify shop url usually will end with ".myshopify.com",
-
-To get the original url that ends with ".myshopify.com" from their shopify admin panel -> "Settings" -> "Domains".
 
 ---
 
