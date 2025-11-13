@@ -24,7 +24,22 @@ This guide will walk you through integrating NextGen EasyParcel with Woocomemrce
 <img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/5e5ad044-88e2-4edc-b654-2b7a09c08b24" />
 
 #### **Step 3:** Key in your "Consumer Key" and "Consumer Secret" and click on the "Submit" button.
-  1. Please refer to steps 3 to 5 under section 'Set Up WooCommerce Integration' at this link: [Get WooCommerce Consumer and Secret Key](https://github.com/easyparcel/classic-integration-doc/blob/main/my/wc/wc_import_integration_setup.md#get-woocommerce-consumer-and-scecret-key) for instructions on how to create the consumer key and consumer secret.
+
+  1. Go to your WooCommerce Settings, click the 'Advanced' tab, click 'REST API', then click 'Add Key'.
+
+<img width="1899" height="824" alt="image" src="https://github.com/user-attachments/assets/2e7d18eb-ef4e-4793-8b77-ea7c1eb4f887" />
+
+  2. Add a description for the key, change the permissions to "Read/Write" and click 'Generate API Key'.
+
+<img width="1893" height="822" alt="image" src="https://github.com/user-attachments/assets/9a497a76-7968-478e-99bd-c0e396b8c844" />
+
+
+  3.Once the 'Consumer Key' and 'Consumer Secret' are created, you may copy and paste them into your EasyParcel account.
+
+<img width="1897" height="825" alt="image" src="https://github.com/user-attachments/assets/9eaf326d-f0ed-4a89-a580-61ee73f0ad2b" />
+
+
+There, you may go back to easyparcel protal to fill in 'Consumer Key' and 'Consumer Secret' and press  submit
 
   <img width="1280" height="636" alt="image" src="https://github.com/user-attachments/assets/cbd16948-6719-41bc-9c20-e64451775c33" />
 
