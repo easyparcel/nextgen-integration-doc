@@ -24,7 +24,7 @@ This guide will walk you through integrating NextGen EasyParcel with Woocomemrce
 <img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/5e5ad044-88e2-4edc-b654-2b7a09c08b24" />
 
 #### **Step 3:** Key in your "Consumer Key" and "Consumer Secret" and click on the "Submit" button.
-  1. Please refer to steps 3 to 5 under section 1.1: 'Set Up WooCommerce Integration' at this link for instructions on how to create the consumer key and consumer secret.
+  1. Please refer to steps 3 to 5 under section 'Set Up WooCommerce Integration' at this link: [Get WooCommerce Consumer and Secret Key](https://github.com/easyparcel/classic-integration-doc/blob/main/my/wc/wc_import_integration_setup.md#get-woocommerce-consumer-and-scecret-key) for instructions on how to create the consumer key and consumer secret.
 
   <img width="1280" height="636" alt="image" src="https://github.com/user-attachments/assets/cbd16948-6719-41bc-9c20-e64451775c33" />
 
