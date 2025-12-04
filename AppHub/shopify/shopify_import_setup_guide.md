@@ -20,6 +20,8 @@ This guide will walk you through integrating NextGen EasyParcel with Shopify usi
 ## Set Up Shopify Import Integration
 #### **Step 1:** Under EasyConnect section, click on "Add Ecommerce App", find "Shopify Import" and click on "Install App"
 
+
+
 <img width="1280" height="631" alt="image" src="https://github.com/user-attachments/assets/6e3732c0-590e-4103-80c4-af82d0540643" />
 
 ---
@@ -27,9 +29,9 @@ This guide will walk you through integrating NextGen EasyParcel with Shopify usi
 #### **Step 2:**  Key in your "Store Name" and "Store URL" and click on the "Connect" button 
 
 #### Kindly take note: 
-##### Please Key in Full URL with https (Example : https://testing.myshopify.com)
+##### Please Key in URL without https:// (Example : testing.myshopify.com)
 
-<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/b0380c5e-7a8f-4fe3-81cd-c84c04e10ccc" />
+<img width="1728" height="1020" alt="image" src="https://github.com/user-attachments/assets/2690e6e1-c421-4cb8-b339-4900e86581d3" />
 
 
 
