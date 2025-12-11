@@ -27,8 +27,8 @@
 ![EasyParcel Shopify Step 8](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify8.png)
 
 #### Step 10: Go to your Shopify admin panel, click 'Settings', click 'Checkout', then under 'Shipping address phone number', choose 'Required' to ensure your customer's contact number is captured by EasyParcel's Shopify app.
+**Note:** Failure to adhere to these steps may result in the buyer's contact number not being captured by the EasyParcel app. Consequently, when the order is imported into EasyParcel, it may indicate a failed import due to an empty receiver_contact field. Additionally, for app versions, successful order fulfillment may occur, but no AWB (Air Waybill) will be generated or provided to the customer due to the receiver_contact field being empty.
 ![EasyParcel Shopify Step 9](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify9.png)
 ![EasyParcel Shopify Step 10](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify10.png)
 ![EasyParcel Shopify Step 11](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify11.png)
 
-**Note:** Failure to adhere to these steps may result in the buyer's contact number not being captured by the EasyParcel app. Consequently, when the order is imported into EasyParcel, it may indicate a failed import due to an empty receiver_contact field. Additionally, for app versions, successful order fulfillment may occur, but no AWB (Air Waybill) will be generated or provided to the customer due to the receiver_contact field being empty.
