@@ -6,13 +6,13 @@
 ![EasyParcel Shopify Step 1](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step1.png)
 
 #### Step 3: Click 'Add Ecommerce App'. Find 'Shopify', and then click 'Install App'.
-![EasyParcel Shopify Step 2](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step2.png)
+![EasyParcel Shopify Step 2](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify2.png)
 
 #### Step 4: Fill in the 'Store name' and 'Store URL'. After that, click 'Add'.
-![EasyParcel Shopify Step 3](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step3.png)
+![EasyParcel Shopify Step 3](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify3.png)
 
 #### Step 5: Your store API key/Integration ID will be generated. Copy it to integrate with your store.
-![EasyParcel Shopify Step 4](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step4.png)
+![EasyParcel Shopify Step 4](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify4.png)
 
 #### Step 6: Go to your Shopify admin panel, click on 'Apps', search for "EasyParcel - Delivery Made Easy", and click 'Install'.
 ![EasyParcel Shopify Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify5.png)
