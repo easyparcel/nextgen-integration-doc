@@ -6,13 +6,13 @@
 ![EasyParcel WooCommerce Step 1](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step1.png)
 
 #### Step 3: Click 'Add Ecommerce App'. Find the 'Woocommerce'. After that, click 'Install App'.
-![EasyParcel WooCommerce Step 2](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step2.png)
+![EasyParcel WooCommerce Step 2](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce2.png)
 
 #### Step 4: Fill in the 'Store name' and 'Store URL'. After that, click 'Add'.
-![EasyParcel WooCommerce Step 3](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step3.png)
+![EasyParcel WooCommerce Step 3](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce3.png)
 
 #### Step 5: Your store API key/Integration ID will be generated. Copy it to integrate with your store.
-![EasyParcel WooCommerce Step 4](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step4.png)
+![EasyParcel WooCommerce Step 4](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce4.png)
 
 #### Step 6: Go to your WooCommerce admin panel, click 'Plugin'. Search for EasyParcel in the "Search Plugins" field. Click 'Install Now'.
 ![EasyParcel WooCommerce Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce5.png)
