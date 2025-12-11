@@ -1,32 +1,32 @@
 # EasyParcel Shopify NextGen Integration - Plugin Version
 
-## Step 1: Login to your EasyParcel account.
+#### Step 1: Login to your EasyParcel account.
 
-## Step 2: Click 'EasyConnect'.
+#### Step 2: Click 'EasyConnect'.
 ![EasyParcel Shopify Step 1](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify1.png)
 
-## Step 3: Click 'Add Ecommerce App'. Find 'Shopify', and then click 'Install App'.
+#### Step 3: Click 'Add Ecommerce App'. Find 'Shopify', and then click 'Install App'.
 ![EasyParcel Shopify Step 2](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify2.png)
 
-## Step 4: Fill in the 'Store name' and 'Store URL'. After that, click 'Add'.
+#### Step 4: Fill in the 'Store name' and 'Store URL'. After that, click 'Add'.
 ![EasyParcel Shopify Step 3](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify3.png)
 
-## Step 5: Your store API key/Integration ID will be generated. Copy it to integrate with your store.
+#### Step 5: Your store API key/Integration ID will be generated. Copy it to integrate with your store.
 ![EasyParcel Shopify Step 4](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify4.png)
 
-## Step 6: Go to your Shopify admin panel, click on 'Apps', search for "EasyParcel - Delivery Made Easy", and click 'Install'.
+#### Step 6: Go to your Shopify admin panel, click on 'Apps', search for "EasyParcel - Delivery Made Easy", and click 'Install'.
 ![EasyParcel Shopify Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify5.png)
 
-## Step 7: You'll be redirected to the EasyParcel settings under the 'Getting Started' tab. Read through the instructions and click 'Start Setup'.
+#### Step 7: You'll be redirected to the EasyParcel settings under the 'Getting Started' tab. Read through the instructions and click 'Start Setup'.
 ![EasyParcel Shopify Step 6](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify6.png)
 
-## Step 8: You'll be brought to the 'Shipping Setting' tab to fill in your details. Choose which country you'd like to ship from and insert your integration ID (which you obtained in Step 5). Copy the integration ID to paste into the 'Shipping Setting' tab.
+#### Step 8: You'll be brought to the 'Shipping Setting' tab to fill in your details. Choose which country you'd like to ship from and insert your integration ID (which you obtained in Step 5). Copy the integration ID to paste into the 'Shipping Setting' tab.
 ![EasyParcel Shopify Step 7](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify7.png)
 
-## Step 9: Please review the auto-filled 'Sender's Details' to ensure accuracy. If any information needs editing, make the necessary adjustments. Once you have verified the details, click 'Save' to store the information.
+#### Step 9: Please review the auto-filled 'Sender's Details' to ensure accuracy. If any information needs editing, make the necessary adjustments. Once you have verified the details, click 'Save' to store the information.
 ![EasyParcel Shopify Step 8](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify8.png)
 
-## Step 10: Go to your Shopify admin panel, click 'Settings', click 'Checkout', then under 'Shipping address phone number', choose 'Required' to ensure your customer's contact number is captured by EasyParcel's Shopify app.
+#### Step 10: Go to your Shopify admin panel, click 'Settings', click 'Checkout', then under 'Shipping address phone number', choose 'Required' to ensure your customer's contact number is captured by EasyParcel's Shopify app.
 ![EasyParcel Shopify Step 9](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify9.png)
 ![EasyParcel Shopify Step 10](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify10.png)
 ![EasyParcel Shopify Step 11](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify11.png)
