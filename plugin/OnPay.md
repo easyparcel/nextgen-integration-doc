@@ -14,8 +14,7 @@
 #### Step 5: Your store API key / Integration ID will be generated. Copy it for integration with your store.
 ![EasyParcel OnPay Step 4](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/op3.png)
 
-#### Step 6: Login to your OnPay account → click **Tetapan** → **Integrasi Pihak Ketiga**.  
-Enter your API Key / Integration ID.
+#### Step 6: Login to your OnPay account → click **Tetapan** → **Integrasi Pihak Ketiga**. Enter your API Key / Integration ID.
 ![EasyParcel OnPay Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/op4.png)
 
 #### Step 7: Fill in the necessary details such as name, contact number, address, and other required fields.
@@ -25,8 +24,7 @@ Enter your API Key / Integration ID.
 **Note:** Ensure your order has shipping enabled and complete shipping details before checkout.
 ![EasyParcel OnPay Step 7](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/op6.png)
 
-#### Step 9: Click on the EasyParcel button. You will see a list of courier options.  
-Select your preferred courier and click **Tempah**.
+#### Step 9: Click on the EasyParcel button. You will see a list of courier options. Select your preferred courier and click **Tempah**.
 ![EasyParcel OnPay Step 8](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/op7.png)
 
 #### Step 10: Once the order is successfully made, click **Muat Turun Air Waybill** to download the AWB.
