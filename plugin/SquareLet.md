@@ -15,7 +15,7 @@
 ![EasyParcel SquareLet Step 4](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/sl4.png)
 
 #### Step 6: Login to your Squarelet account > go to Courier Settings page and turn “Add EasyParcel into the courier list” ON.
-![EasyParcel SquareLet Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/sl7.png)
+![EasyParcel SquareLet Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/sl6.png)
 
 #### Step 7: Fill in your API key, your shop’s address and click “Save”. Your integration is completed.
 ![EasyParcel SquareLet Step 6](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/sl7.png)
