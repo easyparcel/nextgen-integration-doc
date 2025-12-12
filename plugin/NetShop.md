@@ -5,7 +5,7 @@
 #### Step 2: Click **EasyConnect**.
 ![EasyParcel NetShop Step 1](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step1.png)
 
-#### Step 3: Click **Add Ecommerce App**. Search for **SquareLet**, then click **Install App**.
+#### Step 3: Click **Add Ecommerce App**. Search for **NetShop**, then click **Install App**.
 ![EasyParcel NetShop Step 2](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/nt2.png)
 
 #### Step 4: Fill in the **Store name** and **Store URL**, then click **Add**.
