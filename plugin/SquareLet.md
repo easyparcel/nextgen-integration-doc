@@ -5,7 +5,7 @@
 #### Step 2: Click **EasyConnect**.
 ![EasyParcel SquareLet Step 1](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/step1.png)
 
-#### Step 3: Click **Add Ecommerce App**. Search for **SquareLet**, then click **Install App**.
+#### Step 3: Click **Add Ecommerce App**. Search for **'SquareLet'**, then click **Install App**.
 ![EasyParcel SquareLet Step 2](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/sl2.png)
 
 #### Step 4: Fill in the **Store name** and **Store URL**, then click **Add**.
