@@ -1,4 +1,4 @@
-# EasyParcel BizApp NextGen Integration – Plugin Version
+# EasyParcel 91App NextGen Integration – Plugin Version
 
 #### Step 1: Login to your EasyParcel account.
 
