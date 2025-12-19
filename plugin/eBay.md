@@ -15,4 +15,4 @@
 ![EasyParcel eBay Step 4](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/eb3.png)
 
 #### Step 6: Login into your eBay account.
-![EasyParcel eBay Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/eb5.png)
+![EasyParcel eBay Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/eb4.png)
