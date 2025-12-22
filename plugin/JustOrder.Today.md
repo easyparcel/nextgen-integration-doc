@@ -15,7 +15,10 @@
 ![EasyParcel JustOrder.Today Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/jot3.png)
 
 #### Step 6: Login JustOrder.Today account > click on your shop.
+![EasyParcel JustOrder.Today Step 6](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/jot4.png)
 
 #### Step 7: Click “Shipments”.
+![EasyParcel JustOrder.Today Step 7](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/jot5.png)
 
 #### Step 8: In the “EasyParcel” tab, check the “Enable EasyParcel” checkbox and fill up all the details. Key in your API Key/Integration ID. Click “Save”.
+![EasyParcel JustOrder.Today Step 8](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/jot6.png)
