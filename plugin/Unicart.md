@@ -30,7 +30,7 @@
 ##### Enable Status to display EasyParcel option on your UniCart’s Checkout page.
 <img width="586" height="563" alt="unicart5" src="https://github.com/user-attachments/assets/1af8f3c2-a5fc-46a4-8d93-2c5f3d61753c" />
 
-#### Step 8: Fill in the API Key in order to get the courier service for “drop-off”
+#### Step 8: Fill in the API Key that copy at Step 5 in order to get the courier service for “drop-off”
 <img width="356" height="84" alt="unicart6" src="https://github.com/user-attachments/assets/97cbcd80-34d3-41bd-a5cf-0332a8492311" />
 
 #### Step 9: Click Install button.
