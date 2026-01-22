@@ -1,4 +1,4 @@
-<img width="1280" height="713" alt="Screenshot 2026-01-22 at 4 03 13 PM" src="https://github.com/user-attachments/assets/4f7c7c63-6701-4ebe-91d5-f924a6dc79e5" /># EasyParcel Shopify NextGen Integration - Import version 
+# EasyParcel Shopify NextGen Integration - Import version 
 
 ---
 
