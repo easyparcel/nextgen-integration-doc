@@ -15,15 +15,19 @@ This guide will walk you through integrating NextGen EasyParcel with Woocomemrce
 
 ## Set Up Woocommerce Import Integration
 
-#### **Step 1:** Under EasyConnect section, click on "Add Ecommerce App", find "Woocommerce Import" and click on "Install App"
+#### **Step 1:** Under EasyConnect section, click on "Add Ecommerce App", find "Woocommerce" and click on "Install App"
 
-<img width="1280" height="633" alt="image" src="https://github.com/user-attachments/assets/3f9ebe31-9f30-4db4-9593-851ce4fab4d9" />
+<img width="1280" height="517" alt="Screenshot 2026-01-22 at 3 38 07 PM" src="https://github.com/user-attachments/assets/8959ff6b-0ecb-42a7-8266-aa6bb1dcadfb" />
 
-#### **Step 2:** Key in your "Store Name" and "Store URL" and click on the "Connect" button.
+#### **Step 2:** Select 'Import Version'.
+
+<img width="1280" height="710" alt="Screenshot 2026-01-22 at 3 35 14 PM" src="https://github.com/user-attachments/assets/322b42ae-dcca-4a26-83c0-8772ec3abec1" />
+
+#### **Step 3:** Key in your "Store Name" and "Store URL" and click on the "Connect" button.
 
 <img width="1280" height="657" alt="image" src="https://github.com/user-attachments/assets/5e5ad044-88e2-4edc-b654-2b7a09c08b24" />
 
-#### **Step 3:** Key in your "Consumer Key" and "Consumer Secret" and click on the "Submit" button.
+#### **Step 4:** Key in your "Consumer Key" and "Consumer Secret" and click on the "Submit" button.
 
   1. Go to your WooCommerce Settings, click the 'Advanced' tab, click 'REST API', then click 'Add Key'.
 
@@ -43,11 +47,11 @@ There, you may go back to easyparcel protal to fill in 'Consumer Key' and 'Consu
 
   <img width="1280" height="636" alt="image" src="https://github.com/user-attachments/assets/cbd16948-6719-41bc-9c20-e64451775c33" />
 
-#### **Step 4:** Under "EasyConnect", click on "Installed Ecommerce Apps", find "WooCommerce Import" you may find your woocommerce app successfully install.
+#### **Step 5:** Under "EasyConnect", click on "Installed Ecommerce Apps", find "WooCommerce Import" you may find your woocommerce app successfully install.
 
 <img width="1280" height="636" alt="image" src="https://github.com/user-attachments/assets/fcae11ef-5784-4591-b937-e70784ec873f" />
 
-#### **Step 5:** In the store, click "Sender Address" and key in your sender details and click on the "Update" button.
+#### **Step 6:** In the store, click "Sender Address" and key in your sender details and click on the "Update" button.
 
 <img width="1280" height="655" alt="image" src="https://github.com/user-attachments/assets/31fa697c-98c3-4289-b92f-df17235b2c76" />
 
