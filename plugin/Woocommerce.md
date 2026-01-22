@@ -8,19 +8,22 @@
 #### Step 3: Click 'Add Ecommerce App'. Find the 'Woocommerce'. After that, click 'Install App'.
 ![EasyParcel WooCommerce Step 2](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce2.png)
 
-#### Step 4: Fill in the 'Store name' and 'Store URL'. After that, click 'Add'.
+#### Step 4: Select 'Seamless Version'.
+<img width="1280" height="712" alt="Screenshot 2026-01-22 at 3 16 38 PM" src="https://github.com/user-attachments/assets/1685e277-3769-4fe1-bbe4-e6d3598947a6" />
+
+#### Step 5: Fill in the 'Store name' and 'Store URL'. After that, click 'Add'.
 ![EasyParcel WooCommerce Step 3](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce3.png)
 
-#### Step 5: Your store API key/Integration ID will be generated. Copy it to integrate with your store.
+#### Step 6: Your store API key/Integration ID will be generated. Copy it to integrate with your store.
 ![EasyParcel WooCommerce Step 4](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce4.png)
 
-#### Step 6: Go to your WooCommerce admin panel, click 'Plugin'. Search for EasyParcel in the "Search Plugins" field. Click 'Install Now'.
+#### Step 7: Go to your WooCommerce admin panel, click 'Plugin'. Search for EasyParcel in the "Search Plugins" field. Click 'Install Now'.
 ![EasyParcel WooCommerce Step 5](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce5.png)
 
-#### Step 7: Click 'Activate Plugin'.
+#### Step 8: Click 'Activate Plugin'.
 ![EasyParcel WooCommerce Step 6](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce6.png)
 
-#### Step 8: Go to your WooCommerce settings, click the 'Shipping' tab, then click 'EasyParcel Shipping'. Fill in your details and click 'Save changes'.
+#### Step 9: Go to your WooCommerce settings, click the 'Shipping' tab, then click 'EasyParcel Shipping'. Fill in your details and click 'Save changes'.
 **Note:** After filling out your address details, you may want to recheck it again to confirm the information, as quote rates will be based on the address you provided here.
 **Note:** The API key copied from EasyParcel will be placed as the Integration ID here.
 ![EasyParcel WooCommerce Step 7](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce7.png)
