@@ -1,4 +1,4 @@
-# EasyParcel Shopify NextGen Integration - Import version 
+<img width="1280" height="713" alt="Screenshot 2026-01-22 at 4 03 13 PM" src="https://github.com/user-attachments/assets/4f7c7c63-6701-4ebe-91d5-f924a6dc79e5" /># EasyParcel Shopify NextGen Integration - Import version 
 
 ---
 
@@ -13,7 +13,7 @@ This guide will walk you through integrating NextGen EasyParcel with Shopify usi
 
 **Step 2: After login, find and click on the Switch to NextGen (Beta).** 
 
-<img width="1258" height="416" alt="Screenshot 2025-08-28 at 5 43 26 PM" src="https://github.com/user-attachments/assets/32e4d15b-eb87-4662-9892-8dc37a4ae529" />
+
 
 
 
@@ -26,7 +26,7 @@ This guide will walk you through integrating NextGen EasyParcel with Shopify usi
 
 #### Step 2: Select 'Import Version'.
 
-<img width="1280" height="711" alt="Screenshot 2026-01-22 at 3 54 15 PM" src="https://github.com/user-attachments/assets/867d2b7c-02cd-4c87-a0f2-a4a237d474a6" />
+<img width="1280" height="713" alt="Screenshot 2026-01-22 at 4 03 13 PM" src="https://github.com/user-attachments/assets/2285efcf-97d8-4c77-b0a9-4788936007be" />
 
 #### **Step 3:**  Key in your "Store Name" and "Store URL" and click on the "Connect" button 
 
