@@ -26,7 +26,7 @@
 
 #### 2. From there, you can retrieve the **API key** for Easy Store app integration.  
 
-<img width="1280" height="732" alt="image" src="https://github.com/user-attachments/assets/c3476980-8cce-4624-8630-bd143f3c7152" />
+<img width="1280" height="732" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/f90a01c6bda1517c6dfcd5d462c0ca6bb344c561/Pictures/EasyStore5.png" />
 
 ---
 
@@ -35,7 +35,7 @@ Follow the official guide here:
 
 🔗 [How to integrate EasyParcel with Easy Store](https://github.com/easyparcel/nextgen-integration-doc/blob/04074745a8c45a59092af3d7a43167f19b8d6c87/plugin/EasyStore.md)  
 
-<img width="1280" height="1033" alt="image" src="https://github.com/user-attachments/assets/6450d98f-4aef-410a-a66a-30be1023fb69" />
+<img width="1280" height="1033" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/f90a01c6bda1517c6dfcd5d462c0ca6bb344c561/Pictures/EasyStore6.png" />
 
 ---
 
