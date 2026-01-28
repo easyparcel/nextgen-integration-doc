@@ -11,7 +11,7 @@
 1. Go to the **Switch** section.  
 2. Toggle the switch to **Next Gen**.  
 
-<img width="1280" height="778" alt="image" src="https://github.com/user-attachments/assets/d7e1489f-5ee3-4aab-aa39-b124a9182a85" />
+<img width="1280" height="778" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/92fc065d9394f98e3ef2a0b569787e426d5b1ef6/Pictures/EasyStore3.png" />
 
 ### ✅ Done! You’ve now switched to **Next Gen**.  
 
