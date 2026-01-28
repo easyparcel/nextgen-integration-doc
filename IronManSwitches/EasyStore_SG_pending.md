@@ -1,36 +1,44 @@
-# Switching from Classic to Next Gen for EasyStore Integration (SG)
+# Switching from Classic to Next Gen for Easy Store Integration (SG)
 
 ## Navigation Path
-#### Login to EasyParcel website -> EasyConnect -> Installed Ecommerce Apps -> EasyStore -> Open App
+#### Login to EasyParcel website -> EasyConnect -> Installed Ecommerce Apps -> Easy Store -> Open App
 
-<img width="1280" height="708" alt="image" src="https://github.com/user-attachments/assets/e0c9b3fa-42ac-4ae4-864d-1688bbe6f3a1" />
+<img width="1280" height="701" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/03c8702b964de529a950490fb6af4a81e54fe574/Pictures/EasyStore2.png" />
 
 ---
 
 ## Steps to Switch
-1. Scroll to the **Version** section at the bottom.  
+1. Go to the **Switch** section.  
 2. Toggle the switch to **Next Gen**.  
 
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5ce8889d-293c-4f43-afcd-ef81ca510008" />
+<img width="1280" height="778" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/92fc065d9394f98e3ef2a0b569787e426d5b1ef6/Pictures/EasyStore3.png" />
 
 ### ✅ Done! You’ve now switched to **Next Gen**.  
 
-<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/5faa9511-b357-45bf-8d64-70af559c295e" />
+<img width="1280" height="772" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/eed95477142c593c82c9d0f4852a3f92255e5240/Pictures/EasyStore4.png" />
 
 ---
 
-## Using the API Key
-Once switched, you may proceed to use the **API key** for your API integration.  
+## Steps to Retrieve API Key
+#### 1. Navigate to **Store Details** by pressing the `≡` → **Edit**.
 
-<img width="1280" height="708" alt="image" src="https://github.com/user-attachments/assets/8f817280-67d9-4cbb-a0a6-e472ed93396b" />
+<img width="716" height="304" alt="image" src="https://github.com/user-attachments/assets/c523de5a-0f04-4e0f-86ee-a80b01b8d68d" />
+
+#### 2. From there, you can retrieve the **API key** for Easy Store app integration.  
+
+<img width="1280" height="732" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/f90a01c6bda1517c6dfcd5d462c0ca6bb344c561/Pictures/EasyStore5.png" />
 
 ---
+
+## Proceed with Easy Store App Integration
+Follow the official guide here:  
+
+🔗 [How to integrate EasyParcel with Easy Store](https://github.com/easyparcel/nextgen-integration-doc/blob/04074745a8c45a59092af3d7a43167f19b8d6c87/plugin/EasyStore.md)  
+
+<img width="1280" height="1033" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/f90a01c6bda1517c6dfcd5d462c0ca6bb344c561/Pictures/EasyStore6.png" />
+
+---
+
 ## Notes
-- There are **no changes** to the API parameters or structure at this time.  
-- You may continue using the API as per the existing documentation.
-
-Refer to the official API documentation here:  
-
-🔗 [EasyParcel API Documentation (Singapore)](https://developers.easyparcel.com/?c=Singapore)  
-
-<img width="990" height="850" alt="image" src="https://github.com/user-attachments/assets/42c43587-111f-4559-9984-71a18dc34849" />
+- Once switched, all new settings will apply under **Next Gen**.  
+- API keys retrieved here are required for the Easy Store app integration.  
