@@ -33,7 +33,7 @@
 ## Proceed with Easy Store App Integration
 Follow the official guide here:  
 
-🔗 [How to integrate EasyParcel with Easy Store](https://helpcentre-my.easyparcel.com/support/solutions/articles/9000188739-how-to-integrate-easyparcel-with-shopify)  
+🔗 [How to integrate EasyParcel with Easy Store](https://github.com/easyparcel/nextgen-integration-doc/blob/04074745a8c45a59092af3d7a43167f19b8d6c87/plugin/EasyStore.md)  
 
 <img width="1280" height="1033" alt="image" src="https://github.com/user-attachments/assets/6450d98f-4aef-410a-a66a-30be1023fb69" />
 
