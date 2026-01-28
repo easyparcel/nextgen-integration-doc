@@ -33,7 +33,7 @@
 ## Proceed with Shoppegram App Integration
 Follow the official guide here:  
 
-🔗 [How to integrate EasyParcel with Shoppegram]([https://github.com/easyparcel/nextgen-integration-doc/blob/04074745a8c45a59092af3d7a43167f19b8d6c87/plugin/EasyStore.md](https://github.com/easyparcel/nextgen-integration-doc/blob/a0b817a898f9fa73e2812f00f71ca0652c09ee00/plugin/Shoppegram.md))  
+🔗 [How to integrate EasyParcel with Shoppegram](https://github.com/easyparcel/nextgen-integration-doc/blob/main/plugin/Shoppegram.md)  
 
 <img width="1280" height="1033" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/a0b817a898f9fa73e2812f00f71ca0652c09ee00/Pictures/Shoppegram9.png" />
 
