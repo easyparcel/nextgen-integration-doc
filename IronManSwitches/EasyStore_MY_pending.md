@@ -3,7 +3,7 @@
 ## Navigation Path
 #### Login to EasyParcel website -> EasyConnect -> Installed Ecommerce Apps -> Easy Store -> Open App
 
-<img width="1280" height="701" alt="image" src="https://github.com/user-attachments/assets/6c699a2f-ce49-423b-85a4-9c41d245298d" />
+<img width="1280" height="701" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/03c8702b964de529a950490fb6af4a81e54fe574/Pictures/EasyStore2.png" />
 
 ---
 
