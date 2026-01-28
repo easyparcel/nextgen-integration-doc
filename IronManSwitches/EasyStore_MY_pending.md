@@ -15,7 +15,7 @@
 
 ### ✅ Done! You’ve now switched to **Next Gen**.  
 
-<img width="1280" height="772" alt="image" src="https://github.com/user-attachments/assets/e04e6973-6d27-4c75-956a-e32e618469c5" />
+<img width="1280" height="772" alt="image" src="https://github.com/easyparcel/nextgen-integration-doc/blob/eed95477142c593c82c9d0f4852a3f92255e5240/Pictures/EasyStore4.png" />
 
 ---
 
