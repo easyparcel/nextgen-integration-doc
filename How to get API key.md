@@ -9,5 +9,5 @@
 3. Fill in **Name, Contact Number and Email Address**
 <img width="1243" height="492" alt="Pasted Graphic" src="https://github.com/easyparcel/nextgen-integration-doc/blob/00689fd6af7d1676662d136e8b7078aa1075d629/Pictures/API20.png" />
 
-3. there you may get your api key
+4. there you may get your api key
 <img width="1243" height="492" alt="Pasted Graphic" src="https://github.com/easyparcel/nextgen-integration-doc/blob/007be8922b423500fff3d92604a6b873f059b34c/Pictures/API3.png" />
