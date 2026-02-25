@@ -1,4 +1,10 @@
-# Switching from Classic to NextGen for your e-commerce store integration
+# Switching Your E-Commerce Store Integration from Classic to NextGen
+
+Welcome to becoming a NextGen user.  
+
+After switching your EasyParcel account from the Classic version to NextGen, your existing integration key will still be tied to the Classic version. This means orders created using the old integration key will continue to be recorded in your Classic account.
+
+To prevent this from happening, please follow this guideline to update your integration key to the NextGen version (latest version).
 
 ## Navigation Path
 #### Login to EasyParcel website -> EasyConnect -> Installed Ecommerce Apps -> Select your ecommerce store -> Open App
