@@ -21,7 +21,7 @@
 #### Step 7: Back to Step 4, click 'Add definition'. Repeat Step 5 and Step 6 to create 'height' and 'length'. 
 <img width="1273" height="648" alt="Screenshot 2026-02-25 at 10 22 54 AM" src="https://github.com/user-attachments/assets/3ccdccc1-1491-4371-b0e3-60df463965e2" />
 
-#### Step 8: After completed creating 'width', 'height' and 'length', go back to home page and go to 'Products', click a specific item. 
+#### Step 8: After completed creating 'width', 'height' and 'length', go back to home page and go to 'Products'. Select a specific item in order to set its product dimension by entering values in the width, height, and length fields that created just now.
 <img width="1263" height="612" alt="Screenshot 2026-02-25 at 10 15 54 AM" src="https://github.com/user-attachments/assets/b5a7cb26-3202-4cc7-b79c-855351b9d5a9" />
 
 #### Step 9: Scroll down until you find the “Variant metafields” section. Please fill in all three fields.
@@ -31,5 +31,5 @@
 #### Step 10: After filling all fields, save them.
 <img width="1265" height="648" alt="Screenshot 2026-02-25 at 10 48 28 AM" src="https://github.com/user-attachments/assets/06014ab2-a1b4-480d-85ad-194033112f93" />
 
-#### Note: If you do not set the dimensions on Shopify, EasyParcel portal will automatically assign the default dimensions (10 cm for width, height, and length) when you want to proceed with fulfillment after you import the orders to EasyParcel portal. You may need to manually update the dimensions afterward if necessary.
+#### Note: If you do not set the dimensions on Shopify, EasyParcel portal will automatically assign the default dimensions (10 cm for width, height, and length) when you want to proceed with fulfillment after you import the orders to EasyParcel portal. You may need to manually update the dimensions if necessary.
 <img width="1280" height="714" alt="Screenshot 2026-02-25 at 10 58 28 AM" src="https://github.com/user-attachments/assets/50b51f5b-5ab0-4ba6-a148-7316bd6a4c65" />
