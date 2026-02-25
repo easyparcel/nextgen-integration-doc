@@ -1,4 +1,4 @@
-# Switching Your E-Commerce Store Integration from Classic to NextGen
+# Switching Your E-Commerce Store Integration from Classic to NextGen Version
 
 Welcome to becoming a NextGen user.  
 
