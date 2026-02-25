@@ -1,6 +1,6 @@
 # Set the product dimension on Shopify
 
-#### Step 1: Login to your shopify
+#### Step 1: Login to your Shopify.
 
 #### Step 2: Click 'Settings'.
 <img width="1271" height="639" alt="Screenshot 2026-02-25 at 9 58 24 AM" src="https://github.com/user-attachments/assets/7f427bae-6595-499d-8f00-78cce2070b8c" />
