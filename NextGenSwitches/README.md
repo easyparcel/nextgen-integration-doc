@@ -22,6 +22,6 @@ This guide explains how to switch your e-commerce store integration from the Cla
 **Ready to get started?** 🚀
 
 Choose your path:
-- [Individual API Switches](https://github.com/easyparcel/nextgen-integration-doc/blob/4dab0ffd64da2debfd658fd4655686108079e22b/NextGenSwitches/API_MY.md)
 - [E-Commerce Store Switches](https://github.com/easyparcel/nextgen-integration-doc/blob/4dab0ffd64da2debfd658fd4655686108079e22b/NextGenSwitches/General.md)  
+- [Individual API Switches](https://github.com/easyparcel/nextgen-integration-doc/blob/4dab0ffd64da2debfd658fd4655686108079e22b/NextGenSwitches/API_MY.md)
 
