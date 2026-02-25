@@ -13,7 +13,7 @@
 
 #### Step 5: Enter “width” in the Name field and select “Dimension” as the type.
 #### Note: The Name field must be exactly “width”, “height”, or “length”. Our system can only detect these specific names.
-<img width="1271" height="641" alt="Screenshot 2026-02-25 at 10 06 29 AM" src="https://github.com/user-attachments/assets/6983b894-b6e7-4674-a745-9e8e048e9461" />
+<img width="1271" height="641" alt="Screenshot 2026-02-25 at 10 06 29 AM" src="https://github.com/user-attachments/assets/6ab49fdd-b45c-45f6-bbd6-64034d9535e1" />
 
 #### Step 6: Click 'Save'. 
 <img width="1280" height="713" alt="Screenshot 2026-02-25 at 10 11 11 AM" src="https://github.com/user-attachments/assets/f7e7f7a0-c073-486c-9376-a69947a75561" />
