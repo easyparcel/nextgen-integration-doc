@@ -2,7 +2,7 @@
 This folder showing you how to integrate your own business with EasyParcel nextGen version(lastest).
 
 ## To understand what is plugin version(Seamless) 
-The seamless version integrates directly with your WooCommerce store, allowing you to book and manage shipments right from your website. This version provides real-time shipping rates and automated order fulfillment.
+The seamless version integrates directly with your own E-Commerce store, allowing you to book and manage shipments right from your website. This version provides real-time shipping rates and automated order fulfillment.
 
 ---
 
