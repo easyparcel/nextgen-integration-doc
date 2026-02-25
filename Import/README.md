@@ -1,13 +1,7 @@
-# Welcome to Easyparcel AppHub(Import)
-The import version allows you to import orders from your E-Commerce store into your EasyParcel account for fulfillment. With this version, you'll manage orders through the EasyParcel platform after importing them.
+# Welcome to Easyparcel Import Version
+This guide provides step-by-step instructions on how to set up your e-commerce store integration and import your orders into EasyParcel for processing.
 
-### Here you may find guides and documentations and other app related info regarding easyparcel App hub
+## To under what is Import Version
+The Import Version allows you to import orders from your e-commerce store into your EasyParcel account for fulfillment. With this setup, you will manage and process orders directly on the EasyParcel platform after they are imported.
 
-## List of Apps from App Hub
-
-
-- [Woocommerce](./wc)
-- [Shopify](./shopify)
-- [Lazada](./lazada)
-- [Shopee](./shopee)
 
