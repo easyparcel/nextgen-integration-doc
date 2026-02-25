@@ -11,8 +11,8 @@
 #### Step 4: After that, click 'Add Definition'.
 <img width="1274" height="650" alt="Screenshot 2026-02-25 at 10 04 13 AM" src="https://github.com/user-attachments/assets/548fee4d-c275-4b7b-ab67-6295d9508076" />
 
-#### Step 5: Fill in the 'Name' with 'width'. And select 'Dimension' as the type.
-#### Note: The 'Name' must be filled in with 'width', 'height', or 'length'. Our system can only detect with these specific names.
+#### Step 5: Enter “width” in the Name field and select “Dimension” as the type.
+#### Note: The Name field must be exactly “width”, “height”, or “length”. Our system can only detect these specific names.
 <img width="1271" height="641" alt="Screenshot 2026-02-25 at 10 06 29 AM" src="https://github.com/user-attachments/assets/6983b894-b6e7-4674-a745-9e8e048e9461" />
 
 #### Step 6: Click 'Save'. 
