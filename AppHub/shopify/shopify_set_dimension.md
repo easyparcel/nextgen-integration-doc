@@ -19,10 +19,10 @@
 <img width="1280" height="713" alt="Screenshot 2026-02-25 at 10 11 11 AM" src="https://github.com/user-attachments/assets/f7e7f7a0-c073-486c-9376-a69947a75561" />
 
 #### Step 7: Back to Step 4, click 'Add definition'. Repeat Step 5 and Step 6 to create 'height' and 'length'. 
-<img width="1263" height="612" alt="Screenshot 2026-02-25 at 10 15 54 AM" src="https://github.com/user-attachments/assets/b5a7cb26-3202-4cc7-b79c-855351b9d5a9" />
+<img width="1273" height="648" alt="Screenshot 2026-02-25 at 10 22 54 AM" src="https://github.com/user-attachments/assets/3ccdccc1-1491-4371-b0e3-60df463965e2" />
 
 #### Step 8: After completed creating 'width', 'height' and 'length', go back to home page and go to 'Products', click a specific item. 
-<img width="1273" height="648" alt="Screenshot 2026-02-25 at 10 22 54 AM" src="https://github.com/user-attachments/assets/3ccdccc1-1491-4371-b0e3-60df463965e2" />
+<img width="1263" height="612" alt="Screenshot 2026-02-25 at 10 15 54 AM" src="https://github.com/user-attachments/assets/b5a7cb26-3202-4cc7-b79c-855351b9d5a9" />
 
 #### Step 9: Scroll down until you find the “Variant metafields” section. Please fill in all three fields.
 #### Note: We recommend setting the measurement unit to cm, but other units are also acceptable. EasyParcel system will automatically convert the measurement to cm.
