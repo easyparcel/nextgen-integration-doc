@@ -1,4 +1,4 @@
-# Switching your Individual API Integration from Classic to Next Gen version
+# Switching your Individual API Integration from Classic to Next Gen Version
 Welcome to becoming a NextGen user.  
 
 After switching your EasyParcel account from the Classic version to NextGen, your existing integration key will still be tied to the Classic version. This means orders created using the old integration key will continue to be recorded in your Classic account.
