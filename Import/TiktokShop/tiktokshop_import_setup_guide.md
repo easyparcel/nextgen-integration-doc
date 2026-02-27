@@ -7,8 +7,38 @@ This guide will walk you through integrating NextGen EasyParcel with TikTok Shop
 
 ---
 
+## Requirements
 
-### Integrate your TikTok Shop store in EasyParcel website
+Before integrating your TikTok Shop store with EasyParcel, please ensure the following requirements are met:
+
+### 1. Seller Shipping / Seller Own Fleet (SOF) Must Be Enabled
+
+Your TikTok Shop must enable **Seller Shipping (Self-Arrange Shipping)**.
+
+If your shop is using **Platform Shipping**, TikTok will manage the logistics and shipping label generation. In this case:
+
+- Order details may be masked or restricted.
+- External tracking numbers may not be allowed.
+- Orders cannot be fulfilled through EasyParcel.
+
+As mentioned in <a href="https://www.example.com](https://seller-my.tiktok.com/university/essay?default_language=en&identity=1&is_new_connect=0&is_new_user=0&knowledge_id=6586309880317697&anchor_link=EB2100D3" target="_blank">How to apply SOF in TikTok Shop</a>, Seller Own Fleet (SOF) is available for invitation only
+
+---
+
+### 2. Orders Must Be Shipped by Seller
+
+Only orders that are set to **Shipped by Seller** are eligible for fulfillment via EasyParcel.
+
+This is required because:
+
+- EasyParcel requires access to the buyer’s full (unmasked) shipping information.
+- You must be allowed to manually update the tracking number back to TikTok Shop.
+- Tracking synchronization depends on seller-managed shipping.
+
+---
+
+
+## Integrate your TikTok Shop store in EasyParcel website
 **Step 1:** [Log in to your EasyParcel account](https://account.easyparcel.com/login?client_id=c575e8cd-aa46-46db-8308-e18d25bb76c6&redirect_uri=https%3A%2F%2Fapp.easyparcel.com%2Feasyaccount%2Fcallback&state=eyJjbGllbnRfaWQiOiI1M2FmYmQzMS05OGI2LTQ3ODctOWYzOC1kMDY5ZGRkN2RiM2QiLCJyZWRpcmVjdF91cmkiOiJodHRwczovL2FwcC5lYXN5cGFyY2VsLmNvbS9sb2dpbi9vYXV0aC9jYWxsYmFjayIsInN0YXRlIjoie30iLCJjb3VudHJ5IjoibXkiLCJsYW5nIjoiZW4ifQ%3D%3D&country=my)
 
 **Step 2:** After login, click on **Add Ecommerce App** under **EasyConnect** section, find **TikTok Shop** and click on **Install App**
@@ -38,7 +68,7 @@ This guide will walk you through integrating NextGen EasyParcel with TikTok Shop
 
 ---
 
-### Setup Integrated App
+## Setup Integrated App
 **Step 1:** Under **EasyConnect**, click on **Installed Ecommerce Apps**, find **TikTok Shop** you may find your Wix app successfully install.
 <img width="1405" height="522" alt="Screenshot 2026-02-05 at 11 56 47 AM" src="https://github.com/user-attachments/assets/ad9b3978-8862-463e-9412-097cdf0f7aca" />
 
