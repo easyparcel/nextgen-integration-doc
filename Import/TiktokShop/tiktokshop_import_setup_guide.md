@@ -21,7 +21,10 @@ If your shop is using **Platform Shipping**, TikTok will manage the logistics an
 - External tracking numbers may not be allowed.
 - Orders cannot be fulfilled through EasyParcel.
 
-As mentioned in <a href="https://www.example.com](https://seller-my.tiktok.com/university/essay?default_language=en&identity=1&is_new_connect=0&is_new_user=0&knowledge_id=6586309880317697&anchor_link=EB2100D3" target="_blank">How to apply SOF in TikTok Shop</a>, Seller Own Fleet (SOF) is available for invitation only
+As mentioned in 
+<a href="https://seller-my.tiktok.com/university/essay?default_language=en&identity=1&is_new_connect=0&is_new_user=0&knowledge_id=6586309880317697&anchor_link=EB2100D3" target="_blank">
+How to apply SOF in TikTok Shop
+</a>, Seller Own Fleet (SOF) is available for invitation only.
 
 ---
 
