@@ -7,7 +7,11 @@ This guide will walk you through Orders Fulfilment NextGen EasyParcel with TikTo
 #### **Step 1:** Under "EasyConnect", click on "Installed Ecommerce Apps", find "TikTok Shop" and click on "Open App" button. Click on "Order", select the order date and order status and click on the "Search" button. The order will be imported and shown in the list below. Then, click the "Fulfill" button on the order you want to fulfill.
 <img width="1440" height="713" alt="Screenshot 2026-02-20 at 3 05 17 PM" src="https://github.com/user-attachments/assets/36500c92-2fb9-4cb6-a44a-d3d009b60dc0" />
 
-
+**Note**: To receive complete and unmasked order details, the order should not be in following status:
+* UNPAID
+* ON_HOLD
+* CANCELLED
+* 30 days after COMPLETED
 
 ---
 
