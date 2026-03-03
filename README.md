@@ -13,8 +13,7 @@ Easyparcel Next Gen represents a complete reimagining of our logistics platform,
 - **Advanced Analytics** - Real-time insights and reporting capabilities
 
 
-## 🏃‍♂️ Getting Started
-
+## For Classic user that want to change into NextGen
 ### Prerequisites
 
 Before you begin, ensure you have:
@@ -30,27 +29,7 @@ Before you begin, ensure you have:
 
 ## 🔌 Next Gen API Documentation
 
-### [NextGen OpenApi Documentation](https://github.com/easyparcel/OpenAPI)
-
-## 🏪 App Hub Apps Installation
-
-The App Hub allows you to integration with various Ecommerce platform with Easyparcel's enjoy easyparcel features and fulfilment.
-
-### Installing Apps
-
-1. **Access the App Hub**
-   - Log into your Next Gen dashboard
-   - Navigate to "Apps" → "Hub"
-
-2. **Browse Available Apps**
-   - Filter by ecommerce platform (Woocommerce, Shopify, Lazada, etc.)
-
-3. **Configure the App**
-   - Follow the app-specific setup guide
-   - Configure permissions and settings
-   - Test the integration
-
-### Check out [App Hub Guides and Documentation](https://github.com/easyparcel/nextgen-integration-doc/tree/main/AppHub)
+### [NextGen OpenApi Documentation](https://easyparcel.github.io/OpenAPI/)
 
 ---
 
@@ -76,6 +55,6 @@ We welcome contributions to improve this documentation!
 **Ready to get started?** 🚀
 
 Choose your path:
-- [🔌 Start with API Integration](./guides/api-integration.md)
-- [🏪 Install Your First App](./guides/app-installation.md)  
-- [🔄 Migrate from Classic](./guides/migration.md)
+- [🔌 Setup Plugin Version Integration](https://github.com/easyparcel/nextgen-integration-doc/tree/a6da87c901f72776d75b5702fb4b785c2c6478ff/plugin(Seamless))
+- [🏪 Setup Import Version Integration](https://github.com/easyparcel/nextgen-integration-doc/tree/a6da87c901f72776d75b5702fb4b785c2c6478ff/Import)  
+- [🔄 Migrate Your E-Commerce Store from Classic to NextGen](https://github.com/easyparcel/nextgen-integration-doc/tree/a6da87c901f72776d75b5702fb4b785c2c6478ff/NextGenSwitches)
