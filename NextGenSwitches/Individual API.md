@@ -30,6 +30,6 @@ To get your own API key, you may need to refer to the following steps:
 <img width="1243" height="492" alt="Pasted Graphic" src="https://github.com/easyparcel/nextgen-integration-doc/blob/007be8922b423500fff3d92604a6b873f059b34c/Pictures/API3.png" />
 
 ## Postman Reference
-You may refer and downlaod our postman for testing with using your own API key:
+To use the API key that you have copied, you may refer and downlaod our postman for testing with using your own API key:
 
 https://www.postman.com/testingeasyparcel/easyparcel-s-public-workspace/request/cpbucc9/submit-order
