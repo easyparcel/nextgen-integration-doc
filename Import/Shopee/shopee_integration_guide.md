@@ -6,16 +6,46 @@
 This guide will walk you through integrating NextGen EasyParcel with Shopee. With this integration, you'll import orders from Shopee into your EasyParcel account for fulfillment.
 
 ---
+## What is Non‑Shopee Supported Logistics (Non‑SSL)?
+1. Non‑SSL refers to logistics providers not officially integrated with Shopee, such as EasyParcel.
+2. Orders must be manually booked in the external system, and tracking numbers manually or automatically updated back to Shopee.
+3. Some automated features (like waybill printing or direct Shopee tracking display) may not function the same as SSL.
 
-### How to access to NextGen EasyParcel
+## What is Shopee Supported Logistics (SSL)?
+1. SSL refers to logistics providers that are officially supported and integrated by Shopee (e.g., Pos Laju, Shopee Xpress, J&T Express).
+2. Orders with SSL can automatically print waybills, sync tracking numbers, and shipping fees are settled directly through Shopee.
+3. SSL is suitable for standard Shopee orders, offering automated processes, full tracking, and simplified workflow.
 
-**Step 1:** [Log in to your EasyParcel account](https://account.easyparcel.com/login?client_id=c575e8cd-aa46-46db-8308-e18d25bb76c6&redirect_uri=https%3A%2F%2Fapp.easyparcel.com%2Feasyaccount%2Fcallback&state=eyJjbGllbnRfaWQiOiI1M2FmYmQzMS05OGI2LTQ3ODctOWYzOC1kMDY5ZGRkN2RiM2QiLCJyZWRpcmVjdF91cmkiOiJodHRwczovL2FwcC5lYXN5cGFyY2VsLmNvbS9sb2dpbi9vYXV0aC9jYWxsYmFjayIsInN0YXRlIjoie30iLCJjb3VudHJ5IjoibXkiLCJsYW5nIjoiZW4ifQ%3D%3D&country=my)
+## Comparison
+| Feature          | Shopee Supported Logistics (SSL) | EasyParcel (Non‑SSL)                     |
+| ---------------- | -------------------------------- | ---------------------------------------- |
+| Fee settlement   | Paid through Shopee              | Deducted from EasyParcel account balance |
+| Tracking display | Automatically in Shopee          | Tracking synced back after booking       |
+| Waybill printing | Directly in Shopee               | Must print in EasyParcel                 |
 
-**Step 2: After login, find and click on the Switch to NextGen (Beta).**
 
-<img width="1258" height="416" alt="Screenshot 2025-08-28 at 5 43 26 PM" src="https://github.com/user-attachments/assets/32e4d15b-eb87-4662-9892-8dc37a4ae529" />
+## Requirement
+Before integrating your Shopee store with EasyParcel, please ensure that the following requirement are met:
+### 1. Must Apply for “Other Logistics Provider” in Shopee Seller Centre
+Before you can integrate EasyParcel and fulfil orders with Non‑SSL logistics, you must submit an application to Shopee for the Non‑Shopee Supported Logistics (Other Logistics Provider) option. Shopee must approve this application before you can connect EasyParcel to your store.
 
-## Set Up Shopee Integration
+[guideline for register non-SSL Application](https://seller.shopee.com.my/edu/article/16238)
+
+[FAQ Non-SSL](https://seller.shopee.com.my/edu/article/26364)
+
+[How to use EasyParcel as Non-Shopee Supported Logistics (Non-SSL)?](https://helpcentre-my.easyparcel.com/support/solutions/articles/9000238317-how-to-use-easyparcel-as-non-shopee-supported-logistics-non-ssl-)
+
+### 2. Meet Shopee’s Eligibility Criteria for Non‑SSL Logistics
+Shopee’s platform has conditions for allowing Non‑SSL logistics:
+
+✔ Provide Business Registration Documents (e.g., trading license like SSM in Malaysia). Sellers often need to submit valid proof.
+
+✔ Provide reasons for using Non‑SSL logistics (e.g., selling bulky items that Shopee’s supported couriers can’t handle, special delivery needs, etc.) — this makes your application more likely to be approved.
+
+✔ Maintain good seller performance — Shopee may revoke Non‑SSL access if performance standards drop or if no Non‑SSL orders occur in a period of time.
+
+
+## 3. Once Approved, Integrate Your Shopee Account with EasyParcel
 #### **Step 1:** Under EasyConnect section, click on "Add Ecommerce App", find "Shopee" and click on "Install App"
 
 <img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/72a73b67-5dcb-4b02-b6e0-eeb6e5336d13" />
@@ -66,6 +96,6 @@ This guide will walk you through integrating NextGen EasyParcel with Shopee. Wit
 ## Conclusion
 You've successfully set up EasyParcel Shopee integration using the Import Version! You will now can fulfill orders after importing to EasyParcel NextGen website.
 
-**You may proceed to checkout our [Shopee Import Fulfilment Steps](https://github.com/easyparcel/nextgen-integration-doc/blob/main/AppHub/shopee/shopee_fulfilment.md)**
+**You may proceed to checkout our [Shopee Import Fulfilment Steps](https://github.com/easyparcel/nextgen-integration-doc/blob/c33489763a3b572fc0d09f01d6b84e72328a62f8/Import/Shopee/shopee_fulfilment.md)**
 
 If you have any questions or need further assistance, [check out our other articles](https://helpcentre-my.easyparcel.com/support/home) or reach out to our friendly support team. We're happy to help you every step of the way! 
