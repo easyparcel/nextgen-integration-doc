@@ -5,8 +5,8 @@ This guide will walk you through Orders Fulfilment NextGen EasyParcel with Wix u
 ---
 
 #### **Step 1:** Under "EasyConnect", click on "Installed Ecommerce Apps", find "Wix" and click on "Open App" button. Click on "Order", select the order date and order status and click on the "Search" button. The order will be imported and shown in the list below. Then, click the "Fulfill" button on the order you want to fulfill.
+<img width="1437" height="694" alt="552515692-43984a7d-ed5a-4b5a-aa4f-a054f557e137 (1)" src="https://github.com/user-attachments/assets/f26e5784-19d7-4cbc-a417-8d98f15cffab" />
 
-<img width="1440" height="717" alt="Screenshot 2026-02-20 at 1 16 56 PM" src="https://github.com/user-attachments/assets/43984a7d-ed5a-4b5a-aa4f-a054f557e137" />
 
 
 ---
