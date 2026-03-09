@@ -33,8 +33,6 @@ Before you can integrate EasyParcel and fulfil orders with Non‑SSL logistics, 
 
 [FAQ Non-SSL](https://seller.shopee.com.my/edu/article/26364)
 
-[How to use EasyParcel as Non-Shopee Supported Logistics (Non-SSL)?](https://helpcentre-my.easyparcel.com/support/solutions/articles/9000238317-how-to-use-easyparcel-as-non-shopee-supported-logistics-non-ssl-)
-
 ### 2. Meet Shopee’s Eligibility Criteria for Non‑SSL Logistics
 Shopee’s platform has conditions for allowing Non‑SSL logistics:
 
