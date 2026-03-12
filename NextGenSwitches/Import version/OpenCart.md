@@ -3,6 +3,8 @@ To migrate your EasyParcel import version integration with your OpenCart from Cl
 
 🧭 Navigation path:        
 **Login your EasyParcel Account -> Integration -> Installed Ecommerce Apps -> Cube Cart -> Open App -> Select your Store**
+<img width="1280" height="800" alt="Screenshot 2026-03-12 at 5 27 16 PM" src="https://github.com/user-attachments/assets/90fa87db-7659-42cc-8eb3-677048303113" />
+
 
 You will be directed to this page. After that, click the **Order** button.
 <img width="1005" height="563" alt="Screenshot 2026-03-12 at 3 24 42 PM" src="https://github.com/user-attachments/assets/21960841-a954-40c2-b165-193b7d508118" />
@@ -19,3 +21,5 @@ Click to the message, and click the reauthorize button
 <img width="1280" height="630" alt="image" src="https://github.com/user-attachments/assets/5a6fe2c3-998e-4e81-827c-ec2615d40404" />
 
 ### Migration Done✅, you are able to import your OpenCart Order into your EasyParcel NextGen Account.
+<img width="999" height="566" alt="Screenshot 2026-03-12 at 5 28 28 PM" src="https://github.com/user-attachments/assets/507b442f-2d93-46c6-99ab-e93522fefde0" />
+
