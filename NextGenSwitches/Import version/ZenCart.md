@@ -3,6 +3,7 @@ To migrate your EasyParcel import version integration with your ZenCart from Cla
 
 🧭 Navigation path:        
 **Login your EasyParcel Account -> Integration -> Installed Ecommerce Apps -> Cube Cart -> Open App -> Select your Store**
+<img width="1280" height="800" alt="Screenshot 2026-03-12 at 5 29 34 PM" src="https://github.com/user-attachments/assets/2cdf3bcd-7d66-48ff-a0a4-09b8dff7dc0c" />
 
 You will be directed to this page. After that, click the **Order** button.
 <img width="1005" height="563" alt="Screenshot 2026-03-12 at 3 24 42 PM" src="https://github.com/user-attachments/assets/21960841-a954-40c2-b165-193b7d508118" />
@@ -20,3 +21,4 @@ Click to the message, and click the reauthorize button
 
 
 ### Migration Done✅, you are able to import your ZenCart Order into your EasyParcel NextGen Account.
+<img width="1008" height="569" alt="Screenshot 2026-03-12 at 3 18 25 PM" src="https://github.com/user-attachments/assets/9c01fda7-f4f3-483b-99af-22b92be45812" />
