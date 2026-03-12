@@ -17,3 +17,5 @@ Click the install button.
 ### Migration Done✅, you are able to import your Shopify Order into your EasyParcel NextGen Account.
 <img width="1008" height="569" alt="Screenshot 2026-03-12 at 3 18 25 PM" src="https://github.com/user-attachments/assets/9e57a5d3-776c-406e-8abb-7c0b18c614b5" />
 
+To fulfill your Shopify orders in EasyParcel you may [click here](https://github.com/easyparcel/nextgen-integration-doc/blob/7bda3dc74aead2ccaf5e29576ee93df62e2f1b84/Import/Shopify/shopify_import_fulfilment.md) for steps.
+
