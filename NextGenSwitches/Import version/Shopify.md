@@ -1,7 +1,7 @@
 # Shopify Migration
 To migrate your Classic EasyParcel import version integration with your Shopify Store to NextGen version. You need to follow this file for the setup steps.
 
-Navigation path:        
+### Navigation path:        
 **Login your EasyParcel Account -> Integration -> Installed Ecommerce Apps -> Shopify Import -> Open App -> Select your Store**
 
 You will be directed to this page. After that, click the **Order** button.
