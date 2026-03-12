@@ -3,6 +3,8 @@ To migrate your EasyParcel import version integration with your cubecart from Cl
 
 🧭 Navigation path:        
 **Login your EasyParcel Account -> Integration -> Installed Ecommerce Apps -> Cube Cart -> Open App -> Select your Store**
+<img width="1280" height="800" alt="Screenshot 2026-03-12 at 5 14 12 PM" src="https://github.com/user-attachments/assets/b559c5e9-205e-40ee-9fc2-c37bf755c110" />
+
 
 You will be directed to this page. After that, click the **Order** button.
 <img width="1005" height="563" alt="Screenshot 2026-03-12 at 3 24 42 PM" src="https://github.com/user-attachments/assets/21960841-a954-40c2-b165-193b7d508118" />
@@ -19,3 +21,4 @@ Click to the message, and click the reauthorize button
 <img width="1440" height="712" alt="Screenshot 2026-02-24 at 8 42 33 AM" src="https://github.com/user-attachments/assets/215aea7c-8aeb-454d-98e7-c07474c5ac7d" />
 
 ### Migration Done✅, you are able to import your CubeCart Order into your EasyParcel NextGen Account.
+<img width="1011" height="595" alt="Screenshot 2026-03-12 at 5 16 01 PM" src="https://github.com/user-attachments/assets/b3e0ad6c-dc37-4119-9127-cf5ca68fbbb4" />
