@@ -18,3 +18,6 @@ Click the re-authorize button, to re-authorize your Import version integration f
 ### Migration Done✅, you are able to import your Lazada Order into your EasyParcel NextGen Account.
 <img width="1006" height="559" alt="Screenshot 2026-03-12 at 5 24 28 PM" src="https://github.com/user-attachments/assets/89187c25-de8b-4687-8b6b-003c972415fe" />
 
+📝 To fulfill your ZenCart Orders, you may click and refer below for steps:
+ 1. [Single Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/8f9216393115fdedd353ec48fa7aec7f2ab5d8cb/Import/lazada/lazada_import_fulfilment.md)
+ 2. [Bulk Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/8f9216393115fdedd353ec48fa7aec7f2ab5d8cb/Import/lazada/Lazada_BulkFulfilment.md)   
