@@ -23,3 +23,9 @@ Click to the message, and click the reauthorize button
 ### Migration Done✅, you are able to import your OpenCart Order into your EasyParcel NextGen Account.
 <img width="999" height="566" alt="Screenshot 2026-03-12 at 5 28 28 PM" src="https://github.com/user-attachments/assets/507b442f-2d93-46c6-99ab-e93522fefde0" />
 
+📝 To fulfill your ZenCart Orders, you may click and refer below for steps:
+ 1. [Single Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/b292b79affb642a3f56a20e08665550086bd420e/Import/opencart/Single%20Fulfillment%20steps.md)
+ 2. [Bulk Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/b292b79affb642a3f56a20e08665550086bd420e/Import/opencart/Bulk%20Fulfillment.md)   
+
+
+
