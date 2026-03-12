@@ -22,3 +22,14 @@ Click to the message, and click the reauthorize button
 
 ### Migration Done✅, you are able to import your CubeCart Order into your EasyParcel NextGen Account.
 <img width="1011" height="595" alt="Screenshot 2026-03-12 at 5 16 01 PM" src="https://github.com/user-attachments/assets/b3e0ad6c-dc37-4119-9127-cf5ca68fbbb4" />
+
+📝 To fulfill your ZenCart Orders, you may click and refer below for steps:
+ 1. [Single Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/064b8a26ad560a55d24a48e9fe79c123d60062bc/Import/cubecart/Single%20Fulfillment%20steps.md)
+ 2. [Bulk Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/064b8a26ad560a55d24a48e9fe79c123d60062bc/Import/cubecart/Bulk%20Fulfillment.md)   
+
+
+
+
+
+
+
