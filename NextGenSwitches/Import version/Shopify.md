@@ -13,6 +13,6 @@ Click the re-authorize button, to re-authorize your Import version integration f
 Click the install button.
 <img width="651" height="511" alt="Screenshot 2026-03-12 at 3 02 04 PM" src="https://github.com/user-attachments/assets/400d9e20-c9eb-4da2-af19-cdfec847a411" />
 
-Done✅, you are able to import your Shopify Order into your EasyParcel NextGen Account.
+Migration Done✅, you are able to import your Shopify Order into your EasyParcel NextGen Account.
 <img width="1008" height="569" alt="Screenshot 2026-03-12 at 3 18 25 PM" src="https://github.com/user-attachments/assets/9e57a5d3-776c-406e-8abb-7c0b18c614b5" />
 
