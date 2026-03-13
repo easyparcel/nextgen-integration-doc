@@ -49,3 +49,5 @@ This guide will walk you through integrating NextGen EasyParcel with Ebay. With 
 
 
 **Done ! You have successfully setup Ebay app in easyparcel.**
+
+Visit [Fulfillment steps](https://easyparcel.github.io/nextgen-integration-doc/Import/Ebay/ebay_import_fulfilment) guide to start the fulfillment process.
