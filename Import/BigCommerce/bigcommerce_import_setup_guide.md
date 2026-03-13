@@ -37,7 +37,7 @@ This guide will walk you through integrating NextGen EasyParcel with BigCommerce
 
 ### Setup Integrated App
 **Step 1:** Under **EasyConnect**, click on **Installed Ecommerce Apps**, find **BigCommerce** you may find your BigCommerce app successfully install.
-<img width="1439" height="713" alt="Screenshot 2026-03-09 at 9 27 57 PM" src="https://github.com/user-attachments/assets/d3ca26bf-2af0-4f6f-a38d-e3bd4d5812a2" />
+<img width="1439" height="713" alt="560311308-d3ca26bf-2af0-4f6f-a38d-e3bd4d5812a2" src="https://github.com/user-attachments/assets/402d4c79-76e1-43c9-a24c-877d961622eb" />
 
 
 **Step 2:** In the store, click **Sender Address** and key in your sender details and click on the **Update** button.
