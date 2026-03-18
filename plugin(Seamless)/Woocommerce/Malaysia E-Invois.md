@@ -1,4 +1,4 @@
-# Malaysia E-Invios Setup 
+# Malaysia E-Invios Setup(Woocommerce)
 With the integration of **Lembaga Hasil Dalam Negeri Malaysia (LHDN) MyInvois**, EasyParcel acts as an intermediary to help you generate, validate, and store e-Invoices directly from your WooCommerce platform.
 
 By completing this setup, your invoices will be automatically submitted to LHDN for validation, ensuring compliance with Malaysia’s e-Invoice requirements while simplifying your business operations.
