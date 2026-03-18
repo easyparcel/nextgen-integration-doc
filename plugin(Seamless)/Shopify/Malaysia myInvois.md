@@ -1,4 +1,4 @@
-# Malaysia E-Invios Setup 
+# Malaysia E-Invios Setup(Shopify)
 With the integration of LHDN MyInvois, EasyParcel acts as an intermediary to help you generate, validate, and store e-Invoices directly from your Shopify platform.  
 
 By completing this setup, your invoices will be automatically submitted for validation, ensuring compliance with Malaysia’s e-Invoice requirements while simplifying your business operations.
