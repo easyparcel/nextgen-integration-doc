@@ -15,7 +15,7 @@ By completing this setup, your invoices will be automatically submitted to LHDN 
 **Step 3:** Click the **“OK”** button if you want the system to automatically update and submit invoices to your MyInvois. Otherwise, click **“Cancel.”**
 <img width="1302" height="543" alt="Screenshot 2026-03-17 at 2 48 11 PM" src="https://github.com/user-attachments/assets/a78e158c-54c5-40bf-93e1-6612d28ebffa" />
 
-**Step 4:** If you click **"Ok"** in the previous step, Follow the steps from the image, once done click the **"Done Stting, Continue to Verification"** button.
+**Step 4:** If you click **"Ok"** in the previous step, Follow the steps in the image, once done click the **"Done Stting, Continue to Verification"** button.
 <img width="1257" height="725" alt="Screenshot 2026-03-17 at 2 48 39 PM" src="https://github.com/user-attachments/assets/99e4e268-7641-4148-b9a4-6b3b9ffb44f8" />
 
 **Step 5:** The success message will be pop out.
