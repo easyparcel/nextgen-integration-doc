@@ -44,3 +44,6 @@ This guide will walk you through integrating NextGen EasyParcel with Wix. With t
 
 
 **Done ! You have successfully setup Wix app in easyparcel.**
+
+📝 To fulfill your Tiktok Shop Orders, you may click and refer below for steps:
+ 1. [Single Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/379d4e8c58ed2d6c61e8656e039db6c1adda5c8e/Import/Wix/wix_import_fulfilment.md)
