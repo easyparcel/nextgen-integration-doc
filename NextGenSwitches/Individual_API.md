@@ -35,4 +35,4 @@ To get your own API key, you may need to refer to the following steps:
 ## Postman Reference
 To use the API key that you have copied, you may refer and downlaod our postman for testing with using your own API key:
 
-https://www.postman.com/testingeasyparcel/easyparcel-s-public-workspace/request/cpbucc9/submit-order
+[POSTMAN](https://www.postman.com/testingeasyparcel/easyparcel-s-public-workspace/request/cpbucc9/submit-order)
