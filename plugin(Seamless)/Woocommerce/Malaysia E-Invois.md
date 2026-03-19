@@ -1,7 +1,7 @@
 # Malaysia E-Invios Setup(Woocommerce)
 With the integration of **Lembaga Hasil Dalam Negeri Malaysia (LHDN) MyInvois**, EasyParcel acts as an intermediary to help you generate, validate, and store e-Invoices directly from your WooCommerce platform.
 
-By completing this setup, your invoices will be automatically submitted to LHDN for validation, ensuring compliance with Malaysia’s e-Invoice requirements while simplifying your business operations.
+By completing this setup, your invoices will be automatically submitted to LHDN for validation whenever an order is fulfilled through the EasyParcel plugin integration in your Woocommerce Store, ensuring compliance with Malaysia’s e-Invoice requirements and simplifying your business operations.
 
 ## Navigation Path:
 **Login your Woocommerce store -> Woocommerce -> Settings -> Shipping -> E-Invoice Profile**
@@ -12,7 +12,7 @@ By completing this setup, your invoices will be automatically submitted to LHDN 
 **Step 2:** Click the **"Update"** button to update the information that you have filled in.
 <img width="1437" height="695" alt="Screenshot 2026-03-17 at 2 47 18 PM" src="https://github.com/user-attachments/assets/1096f84f-62b6-4ec6-bf99-c3775d3b7868" />
 
-**Step 3:** Click the **“OK”** button if you want the system to automatically update and submit invoices to your MyInvois. Otherwise, click **“Cancel.”**
+**Step 3:** Click **“OK”** if you want the system to automatically update and submit invoices to your **MyInvois** account whenever an order is fulfilled through the **EasyParcel** plugin integration. Otherwise, click **“Cancel.”**
 <img width="1302" height="543" alt="Screenshot 2026-03-17 at 2 48 11 PM" src="https://github.com/user-attachments/assets/a78e158c-54c5-40bf-93e1-6612d28ebffa" />
 
 **Step 4:** If you click **"Ok"** in the previous step, Follow the steps in the image, once done click the **"Done Stting, Continue to Verification"** button.
