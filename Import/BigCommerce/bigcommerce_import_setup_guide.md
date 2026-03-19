@@ -44,4 +44,9 @@ This guide will walk you through integrating NextGen EasyParcel with BigCommerce
 <img width="1387" height="461" alt="Screenshot 2026-01-26 at 9 52 18 PM" src="https://github.com/user-attachments/assets/7980f34e-6fa1-4073-a599-fc823753a84e" />
 
 
-**Done ! You have successfully setup BigCommerce app in easyparcel.**
+## Conclusion
+**Done ! You have successfully setup BigCommerce app in easyparcel.** You will now can fulfill orders after importing to EasyParcel NextGen website.
+
+You may proceed to checkout our [BigCommerce Import Fulfilment Steps](https://github.com/easyparcel/nextgen-integration-doc/blob/4f13a577cbe63107150a67d256d3b532487c73d4/Import/BigCommerce/bigcommerce_import_fulfilment.md)
+
+
