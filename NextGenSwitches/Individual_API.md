@@ -17,7 +17,7 @@ Our developer documentation includes:
 
 ## How To Get your Own API key?
 To get your own API key, you may need to refer to the following steps:
-1. Log into your easyparcel account -> go to **EasyConnect** -> **add Ecommerce App** -> Find **Individual API**-> CLick the **Install App**
+1. Log into your easyparcel account -> go to **EasyConnect** -> **add Ecommerce App** -> Find **Individual API**-> Click the **Install App**
 <img width="1275" height="576" alt="API" src="https://github.com/user-attachments/assets/8e131da2-0631-4ceb-9e8b-a2f02252055c" />
 
 
