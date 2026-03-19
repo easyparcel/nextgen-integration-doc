@@ -31,7 +31,7 @@
 
    <img width="1440" height="712" alt="Screenshot 2026-02-24 at 8 42 33 AM" src="https://github.com/user-attachments/assets/215aea7c-8aeb-454d-98e7-c07474c5ac7d" />
 
-📝 To fulfill your ZenCart Orders, you may click and refer below for steps:
+📝 To fulfill your CubeCart Orders, you may click and refer below for steps:
  1. [Single Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/064b8a26ad560a55d24a48e9fe79c123d60062bc/Import/cubecart/Single%20Fulfillment%20steps.md)
  2. [Bulk Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/064b8a26ad560a55d24a48e9fe79c123d60062bc/Import/cubecart/Bulk%20Fulfillment.md)   
    
