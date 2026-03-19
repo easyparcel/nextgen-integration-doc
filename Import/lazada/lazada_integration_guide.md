@@ -60,7 +60,7 @@ This guide will walk you through integrating NextGen EasyParcel with Lazada. Wit
 ## Conclusion
 You've successfully set up EasyParcel Lazada integration using the Import Version! You will now can fulfill orders after importing to EasyParcel NextGen website.
 
-📝 To fulfill your ZenCart Orders, you may click and refer below for steps:
+📝 To fulfill your Lazada Orders, you may click and refer below for steps:
  1. [Single Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/8f9216393115fdedd353ec48fa7aec7f2ab5d8cb/Import/lazada/lazada_import_fulfilment.md)
  2. [Bulk Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/8f9216393115fdedd353ec48fa7aec7f2ab5d8cb/Import/lazada/Lazada_BulkFulfilment.md)   
 
