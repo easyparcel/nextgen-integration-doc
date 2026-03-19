@@ -1,5 +1,5 @@
 # Malaysia E-Invois Setup(Import version)
-The EasyParcel Import Version Integration with **LHDN MyInvois** allows you to submit your orders and invoices in bulk through file import, while automatically generating and storing e-Invoices in compliance with Malaysia’s e-Invoice regulations. 
+The **EasyParcel Import Version Integration** with **LHDN MyInvois** allows you to submit your orders and invoices automatically through the **Import Version** integration, while generating and storing e-Invoices in compliance with Malaysia’s e-Invoice regulations.
 
 ## Navigation Path:
 **Login your EasyParcel Account -> Integration -> Installed Ecommerce Apps -> Select your Ecommerce store that includes the word "Import".**
@@ -16,6 +16,7 @@ The EasyParcel Import Version Integration with **LHDN MyInvois** allows you to s
 Follow the steps in the image, once done click the **"Done Stting, Continue to Verification"** button.
 <img width="1153" height="618" alt="Screenshot 2026-03-17 at 11 39 47 AM" src="https://github.com/user-attachments/assets/0cd1e90c-dd86-482f-a1fa-eb719d99392c" />
 
+By completing this setup, your invoices will be automatically submitted to LHDN for validation when the order fulfilment through EasyPArcel Import verion Integration, ensuring compliance with Malaysia’s e-Invoice requirements while simplifying your business operations.
 
 
 
