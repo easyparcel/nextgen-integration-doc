@@ -18,16 +18,19 @@ Our developer documentation includes:
 ## How To Get your Own API key?
 To get your own API key, you may need to refer to the following steps:
 1. Log into your easyparcel account -> go to **EasyConnect** -> **add Ecommerce App** -> Find **Individual API**-> CLick the **Install App**
-<img width="1243" height="492" alt="Pasted Graphic" src="https://github.com/easyparcel/nextgen-integration-doc/blob/007be8922b423500fff3d92604a6b873f059b34c/Pictures/API.png" />
+<img width="1275" height="576" alt="API" src="https://github.com/user-attachments/assets/8e131da2-0631-4ceb-9e8b-a2f02252055c" />
+
 
 2. Click the **Allow Acess** button
-<img width="1243" height="492" alt="Pasted Graphic" src="https://github.com/easyparcel/nextgen-integration-doc/blob/007be8922b423500fff3d92604a6b873f059b34c/Pictures/API2.png" />
+<img width="1272" height="578" alt="API2" src="https://github.com/user-attachments/assets/62763704-99cb-458a-b85c-29bf6bc3b15d" />
 
-3. Fill in **Name, Contact Number and Email Address**
-<img width="1243" height="492" alt="Pasted Graphic" src="https://github.com/easyparcel/nextgen-integration-doc/blob/00689fd6af7d1676662d136e8b7078aa1075d629/Pictures/API20.png" />
 
-4. there you may get your api key
-<img width="1243" height="492" alt="Pasted Graphic" src="https://github.com/easyparcel/nextgen-integration-doc/blob/007be8922b423500fff3d92604a6b873f059b34c/Pictures/API3.png" />
+4. Fill in **Name, Contact Number and Email Address**
+<img width="792" height="476" alt="API20" src="https://github.com/user-attachments/assets/3602025a-ca02-42fd-9c4b-b8d7794758d3" />
+
+
+5. there you may get your api key
+<img width="1268" height="563" alt="API3" src="https://github.com/user-attachments/assets/ece37bc6-5d45-4738-8e0f-6970462a6a8c" />
 
 ## Postman Reference
 To use the API key that you have copied, you may refer and downlaod our postman for testing with using your own API key:
