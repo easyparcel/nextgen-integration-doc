@@ -82,3 +82,7 @@ This is required because:
 
 
 **Done ! You have successfully setup TikTok Shop app in easyparcel.**
+
+📝 To fulfill your Tiktok Shop Orders, you may click and refer below for steps:
+ 1. [Single Fulfillment](https://github.com/easyparcel/nextgen-integration-doc/blob/3b5c2de8b073969b06f15c19d8fec22d7b061496/Import/TiktokShop/tiktokshop_import_fulfilment.md)
+   
