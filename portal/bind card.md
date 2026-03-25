@@ -1,5 +1,5 @@
 # How add bind card?
-Howdy people! Do you know that by adding a debit or credit cards on your EasyParcel account, it could make your life more easier as you can book your shipment or purchase any packaging materials from our [EasyParcel shop](https://app.easyparcel.com/dashboard) with a faster way!
+Howdy people! Do you know that by adding a debit or credit cards on your EasyParcel account.
 
 Moreover, register a debit/credit card is a MUST to kick start an international delivery. It’s simple, here’s how you can do it by simply log in to your EasyParcel account:
 
