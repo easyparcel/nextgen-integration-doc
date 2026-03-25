@@ -1,4 +1,4 @@
-# How bind card in your EasyParcel Account?
+# How to bind card in your EasyParcel Account?
 Howdy people! Do you know that by adding a debit or credit cards on your EasyParcel account.
 
 Moreover, register a debit/credit card is a MUST to kick start an international delivery. It’s simple, here’s how you can do it by simply log in to your EasyParcel account:
