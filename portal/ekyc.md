@@ -8,7 +8,7 @@ There are so many features you can enjoy when you verify your account. EasyParce
 ## How to verify my account (eKYIC)?
 **Step 1:** When you're required to verify your account, a QR code will pop up, which you'll need to scan with your phone to proceed to verification 🤳.
 
-👉[Click here to Start](https://app.easyparcel.com/account/verification/qr)👈
+👉 <a href="https://app.easyparcel.com/account/verification/qr" target="_blank">Click here to Start</a> 👈
 
 **📋 Notes for Laptop user:** this when you click 👆 in your laptop, you will get the QR code which need to scan with your phone to proceed to verification.
 <img width="1279" height="736" alt="Screenshot 2026-03-25 at 10 39 01 AM" src="https://github.com/user-attachments/assets/14fcd4b8-3dfe-4e67-967c-cfda10bd0100" />
