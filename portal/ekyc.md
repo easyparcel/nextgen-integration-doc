@@ -14,24 +14,30 @@ There are so many features you can enjoy when you verify your account. EasyParce
 <img width="1279" height="736" alt="Screenshot 2026-03-25 at 10 39 01 AM" src="https://github.com/user-attachments/assets/14fcd4b8-3dfe-4e67-967c-cfda10bd0100" />
 
 **Step 2:** You will be prompted to log into your account.
-![Login](https://github.com/user-attachments/assets/d0e0ab85-230b-4e0f-b6e3-b3f68f172306)
+<img width="341" height="616" alt="Screenshot 2026-03-25 at 2 37 33 PM" src="https://github.com/user-attachments/assets/c2324dc1-80bd-4198-86b0-b75c0febf7c8" />
+
 
 **Step 3:** Once logged in, you may read the reminder given, then click on "Let's Get Started".
-![lets start](https://github.com/user-attachments/assets/c2d4e89e-4bc7-4ea7-8b1d-d84975d5feb4)
+<img width="249" height="526" alt="Screenshot 2026-03-25 at 2 37 56 PM" src="https://github.com/user-attachments/assets/3f21e2a9-50c4-4e69-9514-64f72cc66a2e" />
+
 
 **Step 4:** Click on the button to start taking photos of your NRIC (front and back).
 
 **Note:** Make sure the photos are clear and do not capture any lighting on them.
-![Verify IC](https://github.com/user-attachments/assets/6a73f6ab-c5aa-421a-9944-c3bd80530237)
+<img width="249" height="530" alt="Screenshot 2026-03-25 at 2 38 12 PM" src="https://github.com/user-attachments/assets/453bd9af-74ad-454a-bfd0-73439a21bdff" />
+
 
 **Step 5:** Take note of the information displayed and ensure everything is correct before clicking "Confirm".
-![detail](https://github.com/user-attachments/assets/5e40a2d7-d651-4c84-9f8a-7cbdc34d092a)
+<img width="244" height="521" alt="Screenshot 2026-03-25 at 2 38 26 PM" src="https://github.com/user-attachments/assets/7e72f063-02d2-47f1-9996-d3b392854a55" />
+
 
 **Step 6:** It's time to take a selfie, and make sure to avoid flash lighting and that your photo is in the frame. Then click "Submit Photo"
-![Selfie](https://github.com/user-attachments/assets/5baed51f-8e9f-40a7-a5ca-84d1a06d5d91)
+<img width="245" height="519" alt="Screenshot 2026-03-25 at 2 38 35 PM" src="https://github.com/user-attachments/assets/eb0b4ce6-1536-4947-bb38-dc128abfdbad" />
+
 
 **Step 7:** Yayy! Your account has been verified, you can now click "Proceed" and it will take you back to your account.
-![Sucess](https://github.com/user-attachments/assets/68e27ea2-3fe7-4f0b-bb0f-6b1d4cb15e1d)
+<img width="247" height="366" alt="Screenshot 2026-03-25 at 2 38 44 PM" src="https://github.com/user-attachments/assets/998d0d49-e0d5-423e-8908-6a055204bc20" />
+
 
 
 
