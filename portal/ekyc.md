@@ -12,17 +12,18 @@ There are so many features you can enjoy when you verify your account. EasyParce
 
 **📋 Notes for Laptop user:** this when you click 👆 in your laptop, you will get the QR code which need to scan with your phone to proceed to verification.
 
-<img width="1279" height="736" alt="Screenshot 2026-03-25 at 10 39 01 AM" src="https://github.com/user-attachments/assets/14fcd4b8-3dfe-4e67-967c-cfda10bd0100" />
+<img width="807" height="432" alt="Screenshot 2026-03-25 at 2 59 05 PM" src="https://github.com/user-attachments/assets/d922f7f9-510f-4ac4-89b9-d28d54fbe273" />
+
 
 **Step 2:** You will be prompted to log into your account.
 
-<img width="341" height="616" alt="Screenshot 2026-03-25 at 2 37 33 PM" src="https://github.com/user-attachments/assets/c2324dc1-80bd-4198-86b0-b75c0febf7c8" />
+<img width="271" height="456" alt="Screenshot 2026-03-25 at 2 59 13 PM" src="https://github.com/user-attachments/assets/472b4175-4b72-45b0-87b9-4d0b767df9a3" />
 
 ---
 
 **Step 3:** Once logged in, you may read the reminder given, then click on "Let's Get Started".
 
-<img width="249" height="526" alt="Screenshot 2026-03-25 at 2 37 56 PM" src="https://github.com/user-attachments/assets/3f21e2a9-50c4-4e69-9514-64f72cc66a2e" />
+<img width="203" height="398" alt="Screenshot 2026-03-25 at 2 59 20 PM" src="https://github.com/user-attachments/assets/3d6043c7-503a-4c9a-8d07-2ee301d4e219" />
 
 ---
 
@@ -36,19 +37,19 @@ There are so many features you can enjoy when you verify your account. EasyParce
 
 **Step 5:** Take note of the information displayed and ensure everything is correct before clicking "Confirm".
 
-<img width="244" height="521" alt="Screenshot 2026-03-25 at 2 38 26 PM" src="https://github.com/user-attachments/assets/7e72f063-02d2-47f1-9996-d3b392854a55" />
+<img width="196" height="390" alt="Screenshot 2026-03-25 at 2 59 30 PM" src="https://github.com/user-attachments/assets/70dc4f4a-6699-4068-ac25-0c11323971bb" />
 
 ---
 
 **Step 6:** It's time to take a selfie, and make sure to avoid flash lighting and that your photo is in the frame. Then click "Submit Photo"
 
-<img width="245" height="519" alt="Screenshot 2026-03-25 at 2 38 35 PM" src="https://github.com/user-attachments/assets/eb0b4ce6-1536-4947-bb38-dc128abfdbad" />
+<img width="191" height="393" alt="Screenshot 2026-03-25 at 2 59 38 PM" src="https://github.com/user-attachments/assets/a01daa0a-3760-4b92-ab06-71ab5bfc60ed" />
 
 ---
 
 **Step 7:** Yayy! Your account has been verified, you can now click "Proceed" and it will take you back to your account.
 
-<img width="247" height="366" alt="Screenshot 2026-03-25 at 2 38 44 PM" src="https://github.com/user-attachments/assets/998d0d49-e0d5-423e-8908-6a055204bc20" />
+<img width="191" height="273" alt="Screenshot 2026-03-25 at 2 59 46 PM" src="https://github.com/user-attachments/assets/55302085-af5a-4ba8-b877-ad9143d57719" />
 
 
 
