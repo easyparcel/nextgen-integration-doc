@@ -18,4 +18,5 @@
 ![EasyParcel Ulive Step 6](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/ulive4.png)
 
 
-
+## Fulfillment Flow
+Kindly visit the [Fulfillment tutorial](https://helpcentre-my.easyparcel.com/support/solutions/articles/9000267985-how-to-integrate-easyparcel-with-ulive#store-integrations)
