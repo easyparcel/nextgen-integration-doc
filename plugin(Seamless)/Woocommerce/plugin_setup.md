@@ -28,3 +28,9 @@
 **Note:** The API key copied from EasyParcel will be placed as the Integration ID here.
 ![EasyParcel WooCommerce Step 7](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce7.png)
 ![EasyParcel WooCommerce Step 8](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/woocommerce8.png)
+
+📝 To fulfill your Woocommerce Orders with usiing EasyParcel plugin, you may click and refer below for steps:
+ 1. [Single Fulfillment](https://github.com/easyparcel/classic-integration-doc/blob/83802472f501a21929f5a90f7c1b599b900c7169/my/wc/wc_single_fulfilment.md)
+ 2. [Bulk Fulfillment](https://github.com/easyparcel/classic-integration-doc/blob/83802472f501a21929f5a90f7c1b599b900c7169/my/wc/wc_bulk_fulfilment.md)
+ 3. [Auto Fulfillment](https://github.com/easyparcel/classic-integration-doc/blob/83802472f501a21929f5a90f7c1b599b900c7169/my/wc/wc_auto_fulfilment.md)   
+
