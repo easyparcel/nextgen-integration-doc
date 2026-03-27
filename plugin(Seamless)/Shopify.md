@@ -35,3 +35,8 @@
 ![EasyParcel Shopify Step 10](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify10.png)
 ![EasyParcel Shopify Step 11](https://github.com/easyparcel/nextgen-integration-doc/raw/main/Pictures/shopify11.png)
 
+📝 To fulfill your Shopify Orders with usiing EasyParcel plugin, you may click and refer below for steps:
+ 1. [Single Fulfillment](https://github.com/easyparcel/classic-integration-doc/blob/83802472f501a21929f5a90f7c1b599b900c7169/my/shopify/shopify_single_fulfilment.md)
+ 2. [Bulk Fulfillment](https://github.com/easyparcel/classic-integration-doc/blob/main/my/shopify/shopify_bulk_fulfilment.md)
+ 3. [Auto Fulfillment](https://github.com/easyparcel/classic-integration-doc/blob/83802472f501a21929f5a90f7c1b599b900c7169/my/shopify/shopify_auto_fulfilment.md)   
+
