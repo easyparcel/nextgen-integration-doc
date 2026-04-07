@@ -5,7 +5,7 @@ This guide will walk you through Orders Fulfilment NextGen EasyParcel with AllVa
 ---
 
 #### **Step 1:** Under "Integration", click on "Installed Ecommerce Apps", find "AllValue" and click on "Open App" button. 
-<img width="1439" height="543" alt="Screenshot 2026-04-03 at 3 37 49 PM" src="https://github.com/user-attachments/assets/e9fcac46-46ab-43b9-8926-7174ba50cf7a" />
+<img width="1440" height="717" alt="Screenshot 2026-04-07 at 11 51 29 AM" src="https://github.com/user-attachments/assets/646f3010-2397-45ea-88cc-66c6377986c0" />
 
 
 #### **Step 2:** Click on "Order", select the order date and order status and click on the "Search" button. The order will be imported and shown in the list below. Then, click the "Fulfill" button on the order you want to fulfill.
