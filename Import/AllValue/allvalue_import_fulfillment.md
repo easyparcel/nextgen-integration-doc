@@ -1,7 +1,7 @@
 # How do I import and fulfill my AllValue orders by using EasyParcel?
 
 This guide will walk you through Orders Fulfilment NextGen EasyParcel with AllValue using the **Import Version** method. With this integration, you'll import and fulfil orders from AllValue into your EasyParcel account for fulfillment.
-
+ 
 ---
 
 #### **Step 1:** Under "Integration", click on "Installed Ecommerce Apps", find "AllValue" and click on "Open App" button. 
