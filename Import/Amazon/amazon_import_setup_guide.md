@@ -49,5 +49,5 @@ This guide will walk you through integrating NextGen EasyParcel with Amazon. Wit
 
 ---
 📝 To fulfill your Amazon Orders, you may click and refer below for steps:
- 1. [Single Fulfillment](https://easyparcel.github.io/nextgen-integration-doc/Import/Amazon/Amazon_import_fulfillment)
+ 1. [Single Fulfillment](https://easyparcel.github.io/nextgen-integration-doc/Import/Amazon/amazon_import_fulfillment)
    
