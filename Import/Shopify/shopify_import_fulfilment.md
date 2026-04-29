@@ -4,7 +4,7 @@ This guide will walk you through Orders Fulfilment NextGen EasyParcel with Shopi
 
 ---
 
-#### **Step 1:** Under "EasyConnect", click on "Installed Ecommerce Apps", find "Shopify Import" and click on "Open App" button. Click on "Order", select the order date and order status and click on the "Search" button. The order will be imported and shown in the list below. Then, click the "Fulfill" button on the order you want to fulfill.
+#### **Step 1:** Under "Integration", click on "Installed Ecommerce Apps", find "Shopify Import" and click on "Open App" button. Click on "Order", select the order date and order status and click on the "Search" button. The order will be imported and shown in the list below. Then, click the "Fulfill" button on the order you want to fulfill.
 
 <img width="1280" height="668" alt="image" src="https://github.com/user-attachments/assets/29971d77-c621-4ef2-93f5-2bb576c96ca2" />
 
