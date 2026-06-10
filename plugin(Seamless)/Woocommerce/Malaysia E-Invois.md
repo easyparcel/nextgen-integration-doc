@@ -125,7 +125,7 @@ The panel shows:
 # Frequently Asked Questions
 
 **Do I have to enable buyer details to submit e-Invoices?**
-No. With buyer details disabled (or not provided by the buyer), orders are still submitted as general public — the original behaviour.
+No. With buyer details disabled (or not provided by the buyer), orders are still submitted as general public
 
 **The buyer e-Invoice fields don't appear at checkout. Why?**
 Confirm all three conditions: sender country is **MY**, an **E-Invoice Profile** exists, and **Buyer E-Invoice at Checkout** is ticked in the profile.
