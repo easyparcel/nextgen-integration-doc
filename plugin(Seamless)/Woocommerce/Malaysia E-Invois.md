@@ -10,7 +10,7 @@ By completing this setup, your invoices will be automatically submitted to LHDN 
 <img width="100%" alt="Screenshot 2026-03-17 at 2 46 53 PM" src="https://github.com/user-attachments/assets/7771084b-adb7-41f6-9653-687894bc49a1" />
 
 **Step 2:** Click the **"Update"** button to update the information that you have filled in.
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/9fa18aed-e903-4e55-87fd-4b761d18f976" />
+<img width="100%" alt="Screenshot 2026-06-11 at 2 09 19 PM" src="https://github.com/user-attachments/assets/e7279dca-8311-4942-b8d2-d15fdbe366d5" />
 
 
 **Step 3:** Click **"OK"** if you want the system to automatically update and submit invoices to your **MyInvois** account whenever an order is fulfilled through the **EasyParcel** plugin integration. Otherwise, click **"Cancel."**
