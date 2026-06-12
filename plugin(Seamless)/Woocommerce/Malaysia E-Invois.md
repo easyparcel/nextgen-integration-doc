@@ -72,7 +72,7 @@ An **E-Invoice (Malaysia)** section appears with a **"Request e-invoice (Malaysi
 
 ### Saved for next time
 
-For **logged-in** customers, the details are remembered and **pre-filled automatically** on their next checkout, so they don't need to re-type them. (Guests are not pre-filled, as there is no account to save against.)
+For **logged-in** customers, the details are remembered and **pre-filled automatically** on their next checkout, so they don't need to re-type them.
 
 ---
 
@@ -113,7 +113,6 @@ The panel shows:
 - Selecting the same value as the profile default removes the override, so the item simply follows the profile again.
 
 **Step 3:** Click the **"Retry Submit E-Invoice"** button.
-<!-- screenshot: editable buyer details + item classification -->
 
 ### Result
 
