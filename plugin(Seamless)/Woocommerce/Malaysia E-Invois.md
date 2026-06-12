@@ -30,7 +30,7 @@ By completing this setup, your invoices will be automatically submitted to LHDN 
 # Default Classification Code
 
 Every line item submitted to LHDN needs a **classification code**. Instead of setting it on every order, you choose a default once in your **E-Invoice Profile** (the same form as **Step 1** above).
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/dec7e24b-1ba6-4a2b-b775-5a692404f911" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/d0c90848-311e-442b-9293-4e866cc4f587" />
 
 **How it is used:**
 - The selected code becomes the default for **every line item** (products and shipping) on every order.
