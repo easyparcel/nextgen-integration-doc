@@ -41,7 +41,7 @@ Every line item submitted to LHDN needs a **classification code**. Instead of se
 
 # Buyer E-Invoice at Checkout
 
-When enabled, your buyers can choose to request an e-Invoice at checkout and enter their own tax details (TIN, ID, name, address, etc.). Those details are then issued on the e-Invoice instead of *general public*. When unticked, no e-Invoice fields appear at checkout and every order is submitted as general public.
+You can choose to enable or disable Buyer E-Invoice at Checkoutin your E-Invoice Profile. When enabled, your buyers can choose to request an e-Invoice at checkout and enter their own tax details (TIN, ID, name, address, etc.). Those details are then issued on the e-Invoice instead of *general public*. When unticked, no e-Invoice fields appear at checkout and every order is submitted as general public.
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/19f74608-eac5-47f7-aa3b-021dfec2da8e" />
 
 
