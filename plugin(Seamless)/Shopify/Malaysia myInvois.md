@@ -6,12 +6,15 @@ By completing this setup, your invoices will be automatically submitted to **LHD
 ## Navigation path
 **Login your Shopify Store -> Apps -> EasyParcel -> Settings -> E-Invoice Profile**
 
-**Step 1:** Fill in all fields marked with **"*"**, as they are compulsory. Then, click the **"Update"** button to ensure your information is saved. After that, click **"Enable Auto Submit E-Invoice to LHDN"** if you wish to enable this feature.
+**Step 1:** Fill in all fields marked with **"*"**, as they are compulsory. Then, click the **"Update"** button to ensure your information is saved. 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/6d63c108-1d63-49ef-a46a-fb058ca9a566" />
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/e6e91fcb-fadb-429b-ad75-9479d5de137a" />
 
+**Step 2:** After that, click **"Enable Auto Submit E-Invoice to LHDN"** if you wish to enable the auto submit E-invoice feature.
+<img width="100%" alt="Screenshot 2026-06-16 at 4 04 06 PM" src="https://github.com/user-attachments/assets/e1325aaf-0cec-4c04-92f0-67fbdfc5c03a" />
 
-**Step 2:** Follow the steps shown in the image. Once completed, click the **"Done Setting, Continue to Verification"** button.  
+
+**Step 3:** Follow the steps shown in the image. Once completed, click the **"Done Setting, Continue to Verification"** button.  
 
 Once this feature is enabled, the system will automatically submit invoices to your **MyInvois** account once an order is fully fulfilled — whether through the **EasyParcel** app or marked as **Fulfilled** in Shopify.
 <img width="100%" alt="Screenshot 2026-06-16 at 2 32 58 PM" src="https://github.com/user-attachments/assets/96ddff06-8496-45ab-940f-227f17c541c1" />
@@ -45,14 +48,12 @@ Your buyers can optionally request an e-Invoice during checkout and enter their 
 On Shopify this is enabled by **adding the EasyParcel e-invoice block to your checkout** (there is no on/off toggle in the profile):
 
 ## Add the block to your checkout
-**Login your Shopify Store -> Settings -> Checkout -> Edit**
-<img width="100%" alt="Screenshot 2026-06-16 at 3 13 56 PM" src="https://github.com/user-attachments/assets/329b2006-9c09-4c83-9eed-3f4f981460ff" />
+1. Login your Shopify Store -> Settings -> Checkout -> Edit**
+   <img width="100%" alt="Screenshot 2026-06-16 at 3 13 56 PM" src="https://github.com/user-attachments/assets/329b2006-9c09-4c83-9eed-3f4f981460ff" />
 
-
-1. In the checkout editor, add the **EasyParcel E-Invoice Buyer Details** app block (e.g. just after the **Contact** section).
+2. In the checkout editor, add the **EasyParcel E-Invoice Buyer Details** app block (e.g. just after the **Contact** section).
    <img width="100%"  alt="Screenshot 2026-06-16 at 3 27 31 PM" src="https://github.com/user-attachments/assets/6663a790-e970-4e50-9fa9-3006b43d4c4e" />
 
-   
 3. Turn on **"Allow app to block checkout"** so the required fields are enforced. Click **Save** so the block goes live on your checkout.
    <img width="100%" alt="Screenshot 2026-06-16 at 3 28 24 PM" src="https://github.com/user-attachments/assets/f20d6d3f-d7eb-40f7-ae46-d815e772cd19" />
 
