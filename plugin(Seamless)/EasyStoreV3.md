@@ -2,7 +2,6 @@
 
 **Version**: 1.0  
 **Last updated**: 2026-06-23  
-**Applies to**: EasyParcel Malaysia (easyparcel-my)
 
 ---
 
