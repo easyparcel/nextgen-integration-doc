@@ -70,7 +70,8 @@ Fill in your store's **name** and **web address (URL)**, then click **Add**.
 
 EasyParcel generates a unique **Integration ID (API key)** for your store. Copy this key — you will paste it into the EasyParcel for EasyStore app in the next section.
 
-> **[SCREENSHOT PLACEHOLDER: Integration — Integration ID displayed with Copy button]**
+<img alt="image" src="https://github.com/user-attachments/assets/980d51fd-a5d5-42bd-986b-849be768f7a5" />
+
 
 > **Keep this key safe.** It gives access to your EasyParcel account. Do not share it publicly.
 
