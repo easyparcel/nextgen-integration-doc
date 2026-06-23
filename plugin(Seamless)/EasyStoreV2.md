@@ -50,7 +50,7 @@ Don't have an EasyParcel account yet? [Sign up here](https://p3x.cc/pv0t4R) firs
 
 Go to [www.easyparcel.com](https://www.easyparcel.com) and log in to your account.
 
-<img width="100" height="auto" alt="Screenshot 2026-06-23 at 4 59 34 PM" src="https://github.com/user-attachments/assets/401898fc-8b62-4250-81ea-ecc9b5a44194" />
+<img alt="Screenshot 2026-06-23 at 4 59 34 PM" src="https://github.com/user-attachments/assets/401898fc-8b62-4250-81ea-ecc9b5a44194" />
 
 
 ### Step 2 — Go to Integration and Add EasyStore
