@@ -81,25 +81,17 @@ EasyParcel generates a unique **Integration ID (API key)** for your store. Copy 
 
 ### Step 1 — Find the App
 
-Go to your EasyStore admin → **Apps** → search for **EasyParcel Malaysia** → click **Install**.
+Click [here](https://www.easystore.co/en-my/apps/easyparcel-1) to go directly to the EasyParcel Malaysia app page on EasyStore, then click **Install this app**.
+<img alt="image" src="https://github.com/user-attachments/assets/daa02cdb-dcd3-4d6d-a7cd-087c9d8b10c4" />
 
-> **[SCREENSHOT PLACEHOLDER: App Store listing — EasyParcel Malaysia card]**
 
 ### Step 2 — Authorize the App
 
-EasyStore will show a permission screen listing what the app needs access to (orders, fulfillments, shipping, locations). Click **Install App** to authorize.
+EasyStore will show a permission screen listing what the app needs access to (orders, fulfillments, shipping, locations). Click **Install** to authorize.
 
-> **[SCREENSHOT PLACEHOLDER: OAuth permission screen]**
+<img alt="image" src="https://github.com/user-attachments/assets/622f1f6d-4f4d-4580-8248-cd27bcc79ef1" />
 
-The app needs the following permissions to work correctly:
 
-| Permission | Why it's needed |
-|---|---|
-| Read & write orders | Fetch order details and mark orders as fulfilled |
-| Read & write fulfillments | Create fulfillment records and update tracking status |
-| Read locations | Auto-populate your pickup address |
-| Read & write shipping | Register shipping rate webhooks |
-| Read customers & products | Display order details on the fulfillment page |
 
 ### Step 3 — Complete Setup
 
