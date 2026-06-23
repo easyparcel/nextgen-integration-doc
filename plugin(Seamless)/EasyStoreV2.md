@@ -51,19 +51,21 @@ Don't have an EasyParcel account yet? [Sign up here](https://p3x.cc/pv0t4R) firs
 
 Go to [www.easyparcel.com](https://www.easyparcel.com) and log in to your account.
 
-> **[SCREENSHOT PLACEHOLDER: EasyParcel login page]**
+<img width="1443" height="787" alt="Screenshot 2026-06-23 at 4 59 34 PM" src="https://github.com/user-attachments/assets/401898fc-8b62-4250-81ea-ecc9b5a44194" />
+
 
 ### Step 2 — Go to Integration and Add EasyStore
 
 From the dashboard, navigate to **Integration** and select it. Then click **Add Ecommerce App**, find **EasyStore** in the list, and click **Install App**.
 
-> **[SCREENSHOT PLACEHOLDER: Integration — Add Ecommerce App page with EasyStore selected]**
+<img width="1443" height="733" alt="Screenshot 2026-06-23 at 4 22 55 PM" src="https://github.com/user-attachments/assets/9553dedd-e37e-4ac2-8c6e-068af319a1bc" />
+
 
 ### Step 3 — Enter Your Store Details
 
 Fill in your store's **name** and **web address (URL)**, then click **Add**.
+<img width="1462" height="710" alt="Screenshot 2026-06-23 at 4 42 28 PM" src="https://github.com/user-attachments/assets/a80b3241-3202-40a3-a2fc-c3428983f264" />
 
-> **[SCREENSHOT PLACEHOLDER: Integration — store name and URL form]**
 
 ### Step 4 — Copy Your Integration ID
 
