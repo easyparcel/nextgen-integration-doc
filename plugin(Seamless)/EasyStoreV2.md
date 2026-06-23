@@ -97,7 +97,8 @@ EasyStore will show a permission screen listing what the app needs access to (or
 
 After authorization you are taken to the **Settings page**. Complete all sections (Integration ID, sender details, pickup location) before the app is ready to use.
 
-> **[SCREENSHOT PLACEHOLDER: Settings page after fresh install — empty state]**
+<img alt="Screenshot 2026-06-23 at 5 41 56 PM" src="https://github.com/user-attachments/assets/0895ec50-03fe-4b98-b63a-5fba9e800141" />
+
 
 ---
 
@@ -121,12 +122,8 @@ Follow the steps in [Section 2 — Before You Begin](#2-before-you-begin--get-yo
 2. Click **Save** at the bottom of the page
 3. The app will verify the ID against EasyParcel and display your current **credit balance** (e.g. "Balance: RM 25.00")
 
-> **[SCREENSHOT PLACEHOLDER: Integration ID field — valid key with balance badge]**
-
 **Error: "Invalid integration ID. Please double check."**  
 Your Integration ID did not pass verification. Check that you copied it completely and that your EasyParcel account is active.
-
-> **[SCREENSHOT PLACEHOLDER: Integration ID field — inline error state]**
 
 ---
 
@@ -141,7 +138,6 @@ This information appears on your Air Waybills as the sender/return address.
 | Mobile Number | Malaysian format: 01X-XXXXXXXX | Yes |
 | Company Name | Optional — appears on the AWB | No |
 
-> **[SCREENSHOT PLACEHOLDER: Sender Details section filled in]**
 
 ---
 
@@ -155,8 +151,6 @@ This section links your **EasyStore Location** as the parcel pickup address. Eas
 2. In the app Settings, open the **Company Information** section
 3. Select your location from the **Location** dropdown
 4. The address fields (Address, City, Postcode, State, Country) will auto-populate from EasyStore
-
-> **[SCREENSHOT PLACEHOLDER: Company Information — location dropdown with address auto-filled]**
 
 > **Important:** If no location is selected, your customers will not see shipping rates at checkout and the fulfillment page will show a configuration error.
 
@@ -175,7 +169,6 @@ The master toggle that turns EasyParcel shipping rates on or off.
 | **ON** | Live rates from EasyParcel (Pos Laju, J&T, DHL, etc.) |
 | **OFF** | No EasyParcel rates — checkout shows "No shipping options" (or other shipping methods you have set up) |
 
-> **[SCREENSHOT PLACEHOLDER: Enable EasyParcel Rate toggle — ON state]**
 
 #### With Dropoff (sub-option)
 
@@ -191,8 +184,6 @@ When EasyParcel rates are enabled, select your preferred courier from the dropdo
 #### Enable International Shipping Rate
 
 Turn this on if you ship outside Malaysia. When enabled, EasyParcel will show international shipping rates to customers with non-Malaysian delivery addresses.
-
-> **[SCREENSHOT PLACEHOLDER: International rate toggle — enabled]**
 
 ---
 
@@ -224,7 +215,6 @@ If the cart subtotal is RM 150.00 or above (and your free-shipping threshold is 
 
 Same three fields, applied when any product in the cart is tagged as **Fragile** in EasyStore. Expand this section by clicking the **Fragile** heading.
 
-> **[SCREENSHOT PLACEHOLDER: Fragile section expanded with values entered]**
 
 ---
 
@@ -243,7 +233,6 @@ Shown for domestic (Malaysian) orders when EasyParcel returns no rates.
 | Fallback Name | Displayed as the shipping option name (e.g. "Standard Delivery") |
 | Short Description | Subtitle shown under the name (e.g. "3–5 business days") |
 
-> **[SCREENSHOT PLACEHOLDER: Local Fallback section filled in]**
 
 #### International Fallback
 
@@ -259,7 +248,6 @@ Click the **Save** button at the bottom of the page. The app will:
 2. Verify your Integration ID with EasyParcel
 3. Save all settings and show a green "Settings saved." confirmation
 
-> **[SCREENSHOT PLACEHOLDER: Settings page with green success toast]**
 
 ---
 
@@ -271,11 +259,14 @@ When an order is ready to ship, you fulfill it directly from EasyStore without l
 
 1. Go to EasyStore admin → **Orders**
 2. Open the order you want to fulfill
-3. Click **Fulfill** → select **EasyParcel Malaysia**
+3. Click **Fulfill** → select **Fulfill with EasyParcel**
+<img  alt="image" src="https://github.com/user-attachments/assets/d819a2cc-ff3b-475b-b14b-8491c3826eb7" />
+
 
 EasyStore opens the EasyParcel fulfillment page inside your admin.
 
-> **[SCREENSHOT PLACEHOLDER: EasyStore order page — Fulfill button with EasyParcel option]**
+<img width="1469" height="726" alt="Screenshot 2026-06-23 at 5 50 09 PM" src="https://github.com/user-attachments/assets/9af71455-c7fb-4c2c-9a32-7329b7b056ec" />
+
 
 ### Step 2: Review the Order Summary
 
@@ -285,7 +276,6 @@ The top of the page shows a read-only summary pulled from EasyStore:
 - Customer name and delivery address
 - Number of items and total weight
 
-> **[SCREENSHOT PLACEHOLDER: Fulfillment page — order summary header]**
 
 ### Step 3: Set Parcel Details
 
@@ -301,7 +291,9 @@ The top of the page shows a read-only summary pulled from EasyStore:
 | HS Code | Shown for international orders only. Required for customs clearance. |
 | SMS Notification | Toggle on to send the recipient an SMS when EasyParcel picks up the parcel. |
 
-> **[SCREENSHOT PLACEHOLDER: Fulfillment page — parcel details section filled in]**
+<img alt="Screenshot 2026-06-23 at 5 50 09 PM" src="https://github.com/user-attachments/assets/a62609ae-9271-40f6-ad5b-dbdd955582fd" />
+<img alt="Screenshot 2026-06-23 at 5 52 37 PM" src="https://github.com/user-attachments/assets/7f9716e7-120d-40cc-bce8-f46cd88215b5" />
+
 
 ### Step 4: Get a Rate Quote
 
