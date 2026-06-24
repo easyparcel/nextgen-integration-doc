@@ -345,7 +345,7 @@ The EasyStore order timeline is automatically updated with the tracking number a
 
 ## 6. Fulfilling Multiple Orders at Once (Bulk)
 
-If you have several orders to ship on the same day, bulk fulfillment lets you book and pay for all of them in one go — no need to open each order individually.
+Bulk fulfillment works the same as single order fulfillment (see [Section 5](#5-fulfilling-an-order)), with two differences in how you start it.
 
 ### Step 1 — Select Orders in EasyStore
 
@@ -353,62 +353,22 @@ If you have several orders to ship on the same day, bulk fulfillment lets you bo
 2. Tick the checkboxes next to the orders you want to fulfill
 3. Click **Send Parcel** (or **Fulfill**) → select **EasyParcel Malaysia**
 
-EasyStore opens the bulk fulfillment page inside your admin showing all selected orders.
+EasyStore opens the bulk fulfillment page inside your admin.
 
 > **[SCREENSHOT PLACEHOLDER: EasyStore orders list — multiple orders ticked, Send Parcel button highlighted]**
 
 ### Step 2 — Review Selected Orders
 
-The page header shows the total number of orders being fulfilled and lists all order numbers (e.g. #1001, #1002, #1003).
+Instead of a single order summary, the page header shows the total number of orders being fulfilled and lists all order numbers (e.g. #1001, #1002, #1003). The parcel details, rate quote, and confirm steps are the same as single fulfillment — the settings you enter apply to all orders in the batch.
 
 > **[SCREENSHOT PLACEHOLDER: Bulk fulfillment page — order count header with order numbers listed]**
 
-### Step 3 — Set Shared Parcel Details
-
-The settings below apply to **all orders** in the batch:
-
-| Field | Description |
-|---|---|
-| Pickup Date | Date EasyParcel collects all parcels |
-| Delivery Option | **Pickup** or **Drop off** — applied to all orders |
-| Drop-off Point | Shown when Drop off is selected; same point for all orders |
-| Custom Weight | Toggle on to set a single weight (kg) applied to all orders |
-| Parcel Dimensions | L × W × H (cm) — applied to all orders |
-| Parcel Category | Category applied to all orders |
-| SMS Notification | Toggle on to notify all recipients by SMS |
-
-> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment page — parcel details section]**
-
-> **Note:** Declared value is taken automatically from each individual order's subtotal — it is not a shared field.
-
-### Step 4 — Get a Rate Quote
-
-Click **[Quote Shipping Rate]**. The app fetches rates from EasyParcel and shows a shared rate list. Select the courier and service you want — it will be applied to every order in the batch.
-
-> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment page — rate list with one option selected]**
-
-### Step 5 — Fulfill All Orders
-
-Click **[Fulfill All X Orders]**. The app processes the batch in the background and shows a live progress screen:
-
-```
-Fulfilling orders: 2 / 3 completed
-  ✅ #1001 — Booked successfully
-  ✅ #1002 — Booked successfully
-  ⏳ #1003 — Processing...
-```
-
-> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment progress screen — partially complete]**
-
-Each order is booked, paid, and pushed to EasyStore automatically. If an individual order fails (e.g. insufficient balance mid-batch), it is marked as failed and the remaining orders continue processing.
-
-### Step 6 — Download All AWBs
-
-Once the batch is complete, click **[Download All AWBs]** to get a single merged PDF containing labels for all successfully fulfilled orders.
+From here, follow **Steps 3 to 6** from [Section 5](#5-fulfilling-an-order). Once complete, click **[Download All AWBs]** to get a single merged PDF containing labels for all successfully fulfilled orders.
 
 > **[SCREENSHOT PLACEHOLDER: Bulk fulfillment — completion screen with Download All AWBs button]**
 
 ---
+
 
 ## 7. Printing Air Waybills (AWB)
 
