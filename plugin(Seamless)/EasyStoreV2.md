@@ -300,9 +300,9 @@ The top of the page shows a read-only summary pulled from EasyStore:
 
 ### Step 4: Get a Rate Quote
 
-Click **[Quote Shipping Rate]**. The app queries EasyParcel and displays available courier options with prices and estimated delivery times.
-
-> **[SCREENSHOT PLACEHOLDER: Fulfillment page — rate list showing multiple couriers]**
+Click **[Courier Service Section]**. The app queries EasyParcel and displays available courier options with prices and estimated delivery times.
+<img alt="image" src="https://github.com/user-attachments/assets/b893f5e9-60cc-4fb6-8b6b-2b8af376468e" />
+<img alt="Screenshot 2026-06-24 at 9 50 33 AM" src="https://github.com/user-attachments/assets/a6e3350d-3d14-4850-a979-ef42c6b8310a" />
 
 Each rate shows:
 - Courier logo and name (e.g. Pos Laju)
@@ -317,13 +317,14 @@ If your EasyParcel credit balance is too low, a banner will appear. You can top 
 
 ### Step 5: Confirm the Booking
 
-Click **[Fulfill Order]**. In a single step the app will:
+Click **[Fulfill now]**. In a single step the app will:
 
 1. Book the parcel with EasyParcel
 2. Pay for the parcel using your EasyParcel balance
 3. Update the order on EasyStore with the tracking number
+<img alt="image" src="https://github.com/user-attachments/assets/be9fffb6-50d9-4123-812a-be79166ba7d9" />
+<img alt="image" src="https://github.com/user-attachments/assets/13affe53-c32e-47a4-b2fc-a13e332c4aec" />
 
-> **[SCREENSHOT PLACEHOLDER: Fulfillment page — loading state after clicking Fulfill Order]**
 
 ### Step 6: View the Result
 
@@ -333,8 +334,10 @@ After a successful fulfillment, the success screen shows:
 - Courier and service name
 - Tracking URL (clickable link)
 - **[Download Air Waybill]** button
+<img alt="Screenshot 2026-06-24 at 9 59 29 AM" src="https://github.com/user-attachments/assets/5ffd111f-f6e9-43a6-889b-17ed19af3d4e" />
+<img alt="Screenshot 2026-06-24 at 10 03 25 AM" src="https://github.com/user-attachments/assets/c0229591-a3d0-4afc-86a7-db18324e6834" />
 
-> **[SCREENSHOT PLACEHOLDER: Fulfillment page — success screen with tracking number]**
+
 
 The EasyStore order timeline is automatically updated with the tracking number and courier details.
 
