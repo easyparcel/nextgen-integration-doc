@@ -18,10 +18,13 @@
    - 4.5 [Handling Fees & Free Shipping](#45-handling-fees--free-shipping)
    - 4.6 [Fallback Shipping Rates](#46-fallback-shipping-rates)
 5. [Fulfilling an Order](#5-fulfilling-an-order)
-6. [Printing Air Waybills (AWB)](#6-printing-air-waybills-awb)
-7. [Tracking Parcel Status](#7-tracking-parcel-status)
-8. [Uninstalling the App](#8-uninstalling-the-app)
-9. [Troubleshooting](#9-troubleshooting)
+6. [Fulfilling Multiple Orders at Once (Bulk)](#6-fulfilling-multiple-orders-at-once-bulk)
+7. [Printing Air Waybills (AWB)](#7-printing-air-waybills-awb)
+   - 7.1 [Single Order AWB](#71-single-order-awb)
+   - 7.2 [Bulk AWB Download](#72-bulk-awb-download)
+8. [Tracking Parcel Status](#8-tracking-parcel-status)
+9. [Uninstalling the App](#9-uninstalling-the-app)
+10. [Troubleshooting](#10-troubleshooting)
 
 ---
 
@@ -337,15 +340,86 @@ The EasyStore order timeline is automatically updated with the tracking number a
 
 ---
 
-## 6. Printing Air Waybills (AWB)
+## 6. Fulfilling Multiple Orders at Once (Bulk)
 
-The Air Waybill is the shipping label you attach to your parcel.
+If you have several orders to ship on the same day, bulk fulfillment lets you book and pay for all of them in one go — no need to open each order individually.
 
-### From the Fulfillment Success Screen
+### Step 1 — Select Orders in EasyStore
+
+1. Go to EasyStore admin → **Orders**
+2. Tick the checkboxes next to the orders you want to fulfill
+3. Click **Send Parcel** (or **Fulfill**) → select **EasyParcel Malaysia**
+
+EasyStore opens the bulk fulfillment page inside your admin showing all selected orders.
+
+> **[SCREENSHOT PLACEHOLDER: EasyStore orders list — multiple orders ticked, Send Parcel button highlighted]**
+
+### Step 2 — Review Selected Orders
+
+The page header shows the total number of orders being fulfilled and lists all order numbers (e.g. #1001, #1002, #1003).
+
+> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment page — order count header with order numbers listed]**
+
+### Step 3 — Set Shared Parcel Details
+
+The settings below apply to **all orders** in the batch:
+
+| Field | Description |
+|---|---|
+| Pickup Date | Date EasyParcel collects all parcels |
+| Delivery Option | **Pickup** or **Drop off** — applied to all orders |
+| Drop-off Point | Shown when Drop off is selected; same point for all orders |
+| Custom Weight | Toggle on to set a single weight (kg) applied to all orders |
+| Parcel Dimensions | L × W × H (cm) — applied to all orders |
+| Parcel Category | Category applied to all orders |
+| SMS Notification | Toggle on to notify all recipients by SMS |
+
+> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment page — parcel details section]**
+
+> **Note:** Declared value is taken automatically from each individual order's subtotal — it is not a shared field.
+
+### Step 4 — Get a Rate Quote
+
+Click **[Quote Shipping Rate]**. The app fetches rates from EasyParcel and shows a shared rate list. Select the courier and service you want — it will be applied to every order in the batch.
+
+> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment page — rate list with one option selected]**
+
+### Step 5 — Fulfill All Orders
+
+Click **[Fulfill All X Orders]**. The app processes the batch in the background and shows a live progress screen:
+
+```
+Fulfilling orders: 2 / 3 completed
+  ✅ #1001 — Booked successfully
+  ✅ #1002 — Booked successfully
+  ⏳ #1003 — Processing...
+```
+
+> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment progress screen — partially complete]**
+
+Each order is booked, paid, and pushed to EasyStore automatically. If an individual order fails (e.g. insufficient balance mid-batch), it is marked as failed and the remaining orders continue processing.
+
+### Step 6 — Download All AWBs
+
+Once the batch is complete, click **[Download All AWBs]** to get a single merged PDF containing labels for all successfully fulfilled orders.
+
+> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment — completion screen with Download All AWBs button]**
+
+---
+
+## 7. Printing Air Waybills (AWB)
+
+The Air Waybill (AWB) is the shipping label you attach to your parcel before handing it to the courier.
+
+---
+
+### 7.1 Single Order AWB
+
+#### From the Fulfillment Success Screen
 
 Click **[Download Air Waybill]** immediately after fulfillment. The AWB opens in a new browser tab as a PDF.
 
-### From an Existing Order (Reprint)
+#### From an Existing Order (Reprint)
 
 1. Go to EasyStore admin → **Orders** → open the fulfilled order
 2. Click **Print AWB** → select **EasyParcel Malaysia**
@@ -354,7 +428,7 @@ The AWB page opens inside EasyStore admin.
 
 > **[SCREENSHOT PLACEHOLDER: EasyStore order page — Print AWB button]**
 
-### Choosing a Format
+#### Choosing a Format
 
 At the top of the AWB page, select your preferred format:
 
@@ -373,7 +447,35 @@ Click the format you need, then click **[Download Air Waybill]**. The PDF opens 
 
 ---
 
-## 7. Tracking Parcel Status
+### 7.2 Bulk AWB Download
+
+After bulk fulfillment you can download all AWBs as a single merged PDF — one print job covers all your labels.
+
+#### From the Bulk Fulfillment Completion Screen
+
+Click **[Download All AWBs]** on the bulk fulfillment completion screen. See [Section 6 — Step 6](#step-6--download-all-awbs) for details.
+
+#### From Existing Orders (Reprint)
+
+1. Go to EasyStore admin → **Orders**
+2. Tick the checkboxes next to the fulfilled orders
+3. Click **Print AWB** → select **EasyParcel Malaysia**
+
+The bulk AWB page opens and validates that all selected orders were fulfilled via EasyParcel.
+
+> **[SCREENSHOT PLACEHOLDER: Bulk AWB page — order list with format selector]**
+
+#### Format and Download
+
+Select **A4** or **Sticker 4"×6"**, then click **[Download All AWBs (PDF)]**. A single merged PDF containing all labels downloads to your browser.
+
+> **[SCREENSHOT PLACEHOLDER: Bulk AWB page — Download All AWBs button]**
+
+> **Note:** If some selected orders were not fulfilled via EasyParcel, the page will warn you and offer to download only the ones that are available.
+
+---
+
+## 8. Tracking Parcel Status
 
 Once an order is fulfilled, the app automatically monitors the parcel and keeps your EasyStore order timeline up to date — no manual action required.
 
@@ -406,7 +508,7 @@ When the parcel status reaches **Delivered**, EasyStore automatically sends a no
 
 ---
 
-## 8. Uninstalling the App
+## 9. Uninstalling the App
 
 To remove the app from your store:
 
@@ -416,7 +518,7 @@ Your settings, fulfillment history, and tracking logs are **retained**. If you r
 
 ---
 
-## 9. Troubleshooting
+## 10. Troubleshooting
 
 ### No shipping rates appear at checkout
 
@@ -471,3 +573,4 @@ The tracking poll runs every 30 minutes. If the status has not changed for more 
 ---
 
 *For further help, visit the [EasyStore Help Centre](https://support.easystore.co) or contact EasyParcel support.*
+
