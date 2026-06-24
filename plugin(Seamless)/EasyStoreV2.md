@@ -268,7 +268,7 @@ When an order is ready to ship, you fulfill it directly from EasyStore without l
 
 EasyStore opens the EasyParcel fulfillment page inside your admin.
 
-<img width="1469" height="726" alt="Screenshot 2026-06-23 at 5 50 09 PM" src="https://github.com/user-attachments/assets/9af71455-c7fb-4c2c-9a32-7329b7b056ec" />
+<img alt="Screenshot 2026-06-23 at 5 50 09 PM" src="https://github.com/user-attachments/assets/9af71455-c7fb-4c2c-9a32-7329b7b056ec" />
 
 
 ### Step 2: Review the Order Summary
