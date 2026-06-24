@@ -351,21 +351,24 @@ Bulk fulfillment works the same as single order fulfillment (see [Section 5](#5-
 
 1. Go to EasyStore admin → **Orders**
 2. Tick the checkboxes next to the orders you want to fulfill
-3. Click **Send Parcel** (or **Fulfill**) → select **EasyParcel Malaysia**
+3. Click **Fulfill** → select **Fulfill with EasyParcel**
 
 EasyStore opens the bulk fulfillment page inside your admin.
 
-> **[SCREENSHOT PLACEHOLDER: EasyStore orders list — multiple orders ticked, Send Parcel button highlighted]**
+<img alt="Screenshot 2026-06-24 at 10 10 42 AM" src="https://github.com/user-attachments/assets/3e11acda-0e21-479a-912a-c20373791dbc" />
+
 
 ### Step 2 — Review Selected Orders
 
 Instead of a single order summary, the page header shows the total number of orders being fulfilled and lists all order numbers (e.g. #1001, #1002, #1003). The parcel details, rate quote, and confirm steps are the same as single fulfillment — the settings you enter apply to all orders in the batch.
 
-> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment page — order count header with order numbers listed]**
+<img alt="Screenshot 2026-06-24 at 10 13 39 AM" src="https://github.com/user-attachments/assets/d2849d97-ee8a-410b-a9b7-88789be50e87" />
+
 
 From here, follow **Steps 3 to 6** from [Section 5](#5-fulfilling-an-order). Once complete, click **[Download All AWBs]** to get a single merged PDF containing labels for all successfully fulfilled orders.
 
-> **[SCREENSHOT PLACEHOLDER: Bulk fulfillment — completion screen with Download All AWBs button]**
+<img alt="Screenshot 2026-06-24 at 10 17 17 AM" src="https://github.com/user-attachments/assets/50d9a299-0811-4a56-8433-b79cdb960b3f" />
+
 
 ---
 
@@ -385,28 +388,12 @@ Click **[Download Air Waybill]** immediately after fulfillment. The AWB opens in
 #### From an Existing Order (Reprint)
 
 1. Go to EasyStore admin → **Orders** → open the fulfilled order
-2. Click **Print AWB** → select **EasyParcel Malaysia**
+2. Click **More actions** → select **Download EasyParcel AWB**
 
 The AWB page opens inside EasyStore admin.
 
-> **[SCREENSHOT PLACEHOLDER: EasyStore order page — Print AWB button]**
+<img alt="image" src="https://github.com/user-attachments/assets/08ad9676-ced1-4ad4-b097-6eed6d8ea97e" />
 
-#### Choosing a Format
-
-At the top of the AWB page, select your preferred format:
-
-| Format | Best for |
-|---|---|
-| **A4** (default) | Standard laser or inkjet printers |
-| **Sticker 4"×6"** | Thermal label printers (Zebra, Brother, HPRT, etc.) |
-
-Click the format you need, then click **[Download Air Waybill]**. The PDF opens in a new tab.
-
-> **[SCREENSHOT PLACEHOLDER: AWB page — format selector with A4 selected]**
-
-> **[SCREENSHOT PLACEHOLDER: AWB page — format selector with Sticker 4"×6" selected]**
-
-> **Note:** You can reprint the AWB at any time — there is no limit on reprints.
 
 ---
 
@@ -422,17 +409,11 @@ Click **[Download All AWBs]** on the bulk fulfillment completion screen. See [Se
 
 1. Go to EasyStore admin → **Orders**
 2. Tick the checkboxes next to the fulfilled orders
-3. Click **Print AWB** → select **EasyParcel Malaysia**
+3. Click **Print** → select **Download EasyParcel AWB**
 
 The bulk AWB page opens and validates that all selected orders were fulfilled via EasyParcel.
 
-> **[SCREENSHOT PLACEHOLDER: Bulk AWB page — order list with format selector]**
-
-#### Format and Download
-
-Select **A4** or **Sticker 4"×6"**, then click **[Download All AWBs (PDF)]**. A single merged PDF containing all labels downloads to your browser.
-
-> **[SCREENSHOT PLACEHOLDER: Bulk AWB page — Download All AWBs button]**
+<img alt="image" src="https://github.com/user-attachments/assets/fbec56b3-3c11-4f46-84e0-1632df85113e" />
 
 > **Note:** If some selected orders were not fulfilled via EasyParcel, the page will warn you and offer to download only the ones that are available.
 
@@ -467,7 +448,8 @@ When the parcel status reaches **Delivered**, EasyStore automatically sends a no
 2. The order timeline shows the current status and tracking number
 3. Click the tracking URL to view the full EasyParcel tracking page
 
-> **[SCREENSHOT PLACEHOLDER: EasyStore order timeline — tracking status entries]**
+<img alt="Screenshot 2026-06-24 at 10 28 12 AM" src="https://github.com/user-attachments/assets/86c0aab2-5741-4e1a-b18f-b7dc17798777" />
+
 
 ---
 
