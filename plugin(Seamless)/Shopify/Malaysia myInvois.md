@@ -48,6 +48,9 @@ Your buyers can optionally request an e-Invoice during checkout and enter their 
 On Shopify this is enabled by **adding the EasyParcel e-invoice block to your checkout** (there is no on/off toggle in the profile):
 
 ## Add the block to your checkout
+> ⚠️ **Note:** This step requires a **Shopify Plus** plan, as checkout customization using Checkout Extensions is only available to Shopify Plus merchants.  
+> More details: https://shopify.dev/docs/api/checkout-extensions
+
 1. Login your Shopify Store -> Settings -> Checkout -> Edit**
    <img width="100%" alt="Screenshot 2026-06-16 at 3 13 56 PM" src="https://github.com/user-attachments/assets/329b2006-9c09-4c83-9eed-3f4f981460ff" />
 
