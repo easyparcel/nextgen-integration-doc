@@ -322,6 +322,9 @@ The top of the page shows a read-only summary pulled from EasyStore:
 
 **Ship from (multi-region stores only):** if you have more than one region, a **Ship from** selector appears. The app pre-selects the region that matches the order's pickup location (falling back to your default region). Use the selector to change which EasyParcel account/region ships this order.
 
+<img alt="Screenshot 2026-07-01 at 3 36 38 PM" src="https://github.com/user-attachments/assets/8ba2cfb6-b914-41ea-bcc1-f48d501b9fd6" />
+
+
 ### Step 3: Set Parcel Details
 
 | Field | Description |
