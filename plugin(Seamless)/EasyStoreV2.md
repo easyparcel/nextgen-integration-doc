@@ -36,7 +36,7 @@
 
 - Display **live shipping rates** from EasyParcel at your checkout
 - **Fulfill orders** (book + pay for a parcel shipment) without leaving EasyStore admin
-- **Print Air Waybills (AWB)** in A4 or 4"×6" sticker format
+- **Print Air Waybills (AWB)**
 - Automatically **track parcels** and push status updates back to your EasyStore order timeline
 
 Everything happens inside your EasyStore admin — no switching between apps.
@@ -72,7 +72,8 @@ From the dashboard, navigate to **Integration** and select it. Then click **Add 
 ### Step 3 — Enter Your Store Details
 
 Fill in your store's **name** and **web address (URL)**, then click **Add**.
-<img alt="Screenshot 2026-06-23 at 4 42 28 PM" src="https://github.com/user-attachments/assets/a80b3241-3202-40a3-a2fc-c3428983f264" />
+<img alt="Screenshot 2026-07-01 at 3 31 08 PM" src="https://github.com/user-attachments/assets/7dbbdfaa-1b0d-4858-bec3-c243bca66d74" />
+
 
 
 ### Step 4 — Copy Your Integration ID
