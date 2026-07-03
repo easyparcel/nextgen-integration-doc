@@ -233,15 +233,15 @@ Applied to all standard (non-fragile) products.
 | Field | Description | Example |
 |---|---|---|
 | Handling Fee | Fixed fee added to every rate | RM 2.00 |
-| Percentage | Percentage adjustment on top of the rate + fixed fee. Positive marks up; a negative value discounts. | 10% |
+| Percentage | Percentage adjustment applied to the **base EasyParcel rate** (not the handling fee). Positive marks up; a negative value discounts. | 10% |
 | Free Shipping Above | Order subtotal threshold for free shipping (0 = disabled) | RM 150.00 |
 
 **Calculation example:**
 
 > EasyParcel rate: RM 8.50  
 > + Handling Fee RM 2.00 → RM 10.50  
-> + 10% → RM 11.55  
-> Customer sees: **RM 11.55**
+> + 10% of the RM 8.50 rate (RM 0.85) → RM 11.35  
+> Customer sees: **RM 11.35**
 
 If the cart subtotal is RM 150.00 or above (and your free-shipping threshold is RM 150.00):  
 > Customer sees: **RM 0.00**
