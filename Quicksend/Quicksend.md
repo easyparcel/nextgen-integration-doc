@@ -28,6 +28,7 @@ Supported Platforms:
 - XiaoHongShu
 - Other platforms
 
+---
 
 ## 2. Why EasyParcel Quicksend?
 
@@ -51,6 +52,7 @@ All customer orders collected through Quicksend can be managed from the EasyParc
 
 The Quicksend link can be shared through multiple social media and communication platforms, allowing merchants to reach customers easily.
 
+---
 
 # 3. How to Use EasyParcel Quicksend?
 
@@ -64,24 +66,30 @@ To access EasyParcel Quicksend:
 - Orders
 - Payout
 
+---
 
 # Form
 
 The Form section allows merchants to create a customised order form for collecting customer orders and delivery details.
 
+---
 
 ## Step 1: Create Order Form
 
 Click on the "Create Order Form" button to start creating a new Quicksend form.
 
+<p align="center">
+<img src="images/form-interface.png" alt="Form Interface" width="500">
+</p>
 
-(images/form-interface.png)
-
+---
 
 ## Step 2: Form Information
 
 Fill in the basic information of your order form.
-(images/form-info.png)
+<p align="center">
+<img src="images/form-info.png" alt="Form Information" width="500">
+</p>
 
 ### Platform
 
@@ -105,11 +113,15 @@ Enter a name for your form to help identify the order source.
 
 Example: ```Tiktok Live Monday```
 
-## Step 4: Branding & Invoicing
+---
+
+## Step 3: Branding & Invoicing
 
 ### Store
 Select a store for this order form.
-(images/branding-invoicing.png)
+<p align="center">
+<img src="images/branding-invoicing.png" alt="Branding and Invoicing" width="500">
+</p>
 
 ### Order Success Message
 Configure the message displayed after a customer successfully places an order.
@@ -118,10 +130,14 @@ Configure the message displayed after a customer successfully places an order.
 ### e-Invoice
 Optionally enable e-Invoice for your customers.
 
-## Step 5: Product Setup
+---
+
+## Step 4: Product Setup
 
 ### Product
-<img src="images/product-setup.png" alt="Product Setup" width="700">
+<p align="center">
+<img src="images/product-setup.png" alt="Product Setup" width="500">
+</p>
 
 ### How Should Buyers Choose Products?
 
@@ -153,3 +169,92 @@ Optionally provide additional information about your products, such as:
 - Product details
 - Ordering instructions
 - Important notes
+
+---
+
+## Step 5: Sender Configuration
+
+<p align="center">
+  <img src="images/sender-configuration.png" alt="Sender Configuration" width="500">
+</p>
+
+### Sender Details
+
+Enter the sender's information:
+
+### Smart Address
+
+Use the **Smart Address** feature to automatically populate address information and reduce manual data entry.
+
+### Address Book
+
+Click **Address Book** to select a previously saved sender address.
+
+### Save to Address Book
+
+Enable **Save to address book** to save the sender information for future use.
+
+### Delivery Charges Payment
+
+The merchant pays the delivery charges, allowing customers to enjoy free shipping.
+
+---
+
+## Step 6: Payment Setup
+
+Configure how customers will make payments for orders submitted through your QuickSend form.
+
+<p align="center">
+  <img src="images/payment-setup.png" alt="Payment Setup" width="900">
+</p>
+
+### Payment Method
+
+Choose one of the available payment methods.
+
+#### Manual Payment (Offline)
+
+Customers can make payments manually and upload proof of payment for verification.
+
+Optional settings include:
+
+- Bank Account
+- Alipay QR Code
+- DuitNow QR Code
+- TNG QR Code
+- Payment Instructions
+
+#### Online Payment (EasyParcel)
+
+Customers can make payments automatically through EasyParcel using:
+
+- Credit Cards
+- E-Wallets
+- FPX
+
+> **Note**
+>
+> Online Payment is not available when **Buyers describe their own order** is selected under Product Setup. To enable Online Payment, configure your products using **Sellers list products for selection**.
+
+### Bank Account
+
+Optionally select a bank account to display your banking information to customers.
+
+### Payment QR Codes
+
+Optionally upload payment QR codes to allow customers to make digital payments through:
+
+- Alipay
+- DuitNow
+- Touch 'n Go (TNG)
+
+### Payment Instructions
+
+Optionally provide additional instructions, such as:
+
+- Payment reference requirements
+- Verification instructions
+- Payment deadlines
+- Additional notes for customers
+
+---
