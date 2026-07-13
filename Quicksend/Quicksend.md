@@ -62,6 +62,6 @@ To access EasyParcel Quicksend:
 2. Navigate to Quicksend from the dashboard.
 3. Quicksend contains three main sections:
 
-- Form
-- Orders
-- Payout
+- [QuickSend Form](Form.md)
+- [QuickSend Orders](Orders.md)
+- [QuickSend Payout](Payout.md)

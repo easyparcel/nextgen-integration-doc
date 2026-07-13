@@ -4,7 +4,7 @@ The Orders module allows you to manage and monitor all orders submitted through 
 
 View orders from all QuickSend forms under your account in one place and easily track their status.
 
-  <img src="images/orders-interface.png" alt="QuickSend Orders" width="500">
+  <img src="images/orders-interface.png" alt="QuickSend Orders" width="1000">
 
 ## Available Features
 

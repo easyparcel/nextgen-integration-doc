@@ -8,7 +8,7 @@ The Form section allows merchants to create a customised order form for collecti
 
 Click on the "Create Order Form" button to start creating a new Quicksend form.
 
-<img src="images/form-interface.png" alt="Form Interface" width="500">
+<img src="images/form-interface.png" alt="Form Interface" width="1000">
 
 ---
 
@@ -16,7 +16,7 @@ Click on the "Create Order Form" button to start creating a new Quicksend form.
 
 Fill in the basic information of your order form.
 
-<img src="images/form-info.png" alt="Form Information" width="500">
+<img src="images/form-info.png" alt="Form Information" width="1000">
 
 
 ### Platform
@@ -48,7 +48,7 @@ Example: ```Tiktok Live Monday```
 ### Store
 Select a store for this order form.
 
-<img src="images/branding-invoicing.png" alt="Branding and Invoicing" width="500">
+<img src="images/branding-invoicing.png" alt="Branding and Invoicing" width="1000">
 
 
 ### Order Success Message
@@ -64,7 +64,7 @@ Optionally enable e-Invoice for your customers.
 
 ### Product
 
-<img src="images/product-setup.png" alt="Product Setup" width="500">
+<img src="images/product-setup.png" alt="Product Setup" width="1000">
 
 
 ### How Should Buyers Choose Products?
@@ -103,7 +103,7 @@ Optionally provide additional information about your products, such as:
 ## Step 5: Sender Configuration
 
 
-  <img src="images/sender-configuration.png" alt="Sender Configuration" width="500">
+  <img src="images/sender-configuration.png" alt="Sender Configuration" width="1000">
 
 
 ### Sender Details
@@ -132,7 +132,7 @@ The merchant pays the delivery charges, allowing customers to enjoy free shippin
 
 Configure how customers will make payments for orders submitted through your QuickSend form.
 
-  <img src="images/payment-setup.png" alt="Payment Setup" width="500">
+  <img src="images/payment-setup.png" alt="Payment Setup" width="1000">
 
 
 ### Payment Method
@@ -184,7 +184,7 @@ Optionally provide additional payment instructions.
 
 Configure your preferred shipping options. QuickSend will automatically use the selected settings when booking orders.
 
-  <img src="images/courier-setting.png" alt="Courier Setting" width="500">
+  <img src="images/courier-setting.png" alt="Courier Setting" width="1000">
 
 ### Send By
 
@@ -212,7 +212,7 @@ You drop off the parcel at the courier's designated branch or drop-off point.
 
 Enhance your brand visibility and improve customer communication by enabling the available marketing tools.
 
-  <img src="images/marketing-tools.png" alt="Marketing Tools" width="900">
+  <img src="images/marketing-tools.png" alt="Marketing Tools" width="1000">
 
 ### Air Waybill Branding
 
