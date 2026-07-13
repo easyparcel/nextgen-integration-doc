@@ -4,8 +4,8 @@ The Payout module allows you to track your QuickSend earnings and withdraw funds
 
 Payout consists of two sections:
 
-- Pending Withdrawal
-- Payout History
+- 💸 [Pending Withdrawal](#pending-withdrawal)
+- 📄 [Payout History](#payout-history)
 
 ---
 
@@ -36,6 +36,7 @@ Choose where you would like to receive your payouts.
 Example:
 
 - EasyParcel Credits
+- Bank Account
 
 #### Payout Breakdown
 
