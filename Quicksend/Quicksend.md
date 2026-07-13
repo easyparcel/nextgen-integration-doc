@@ -72,24 +72,22 @@ To access EasyParcel Quicksend:
 
 The Form section allows merchants to create a customised order form for collecting customer orders and delivery details.
 
----
+<br>
 
 ## Step 1: Create Order Form
 
 Click on the "Create Order Form" button to start creating a new Quicksend form.
 
-<p align="center">
 <img src="images/form-interface.png" alt="Form Interface" width="500">
-</p>
 
 ---
 
 ## Step 2: Form Information
 
 Fill in the basic information of your order form.
-<p align="center">
+
 <img src="images/form-info.png" alt="Form Information" width="500">
-</p>
+
 
 ### Platform
 
@@ -119,9 +117,9 @@ Example: ```Tiktok Live Monday```
 
 ### Store
 Select a store for this order form.
-<p align="center">
+
 <img src="images/branding-invoicing.png" alt="Branding and Invoicing" width="500">
-</p>
+
 
 ### Order Success Message
 Configure the message displayed after a customer successfully places an order.
@@ -135,9 +133,9 @@ Optionally enable e-Invoice for your customers.
 ## Step 4: Product Setup
 
 ### Product
-<p align="center">
+
 <img src="images/product-setup.png" alt="Product Setup" width="500">
-</p>
+
 
 ### How Should Buyers Choose Products?
 
@@ -174,9 +172,9 @@ Optionally provide additional information about your products, such as:
 
 ## Step 5: Sender Configuration
 
-<p align="center">
+
   <img src="images/sender-configuration.png" alt="Sender Configuration" width="500">
-</p>
+
 
 ### Sender Details
 
@@ -204,9 +202,8 @@ The merchant pays the delivery charges, allowing customers to enjoy free shippin
 
 Configure how customers will make payments for orders submitted through your QuickSend form.
 
-<p align="center">
   <img src="images/payment-setup.png" alt="Payment Setup" width="900">
-</p>
+
 
 ### Payment Method
 
@@ -222,7 +219,6 @@ Optional settings include:
 - Alipay QR Code
 - DuitNow QR Code
 - TNG QR Code
-- Payment Instructions
 
 #### Online Payment (EasyParcel)
 
@@ -250,11 +246,7 @@ Optionally upload payment QR codes to allow customers to make digital payments t
 
 ### Payment Instructions
 
-Optionally provide additional instructions, such as:
-
-- Payment reference requirements
-- Verification instructions
-- Payment deadlines
-- Additional notes for customers
+Optionally provide additional payment instructions.
 
 ---
+
