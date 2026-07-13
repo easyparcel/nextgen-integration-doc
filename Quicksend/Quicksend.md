@@ -202,7 +202,7 @@ The merchant pays the delivery charges, allowing customers to enjoy free shippin
 
 Configure how customers will make payments for orders submitted through your QuickSend form.
 
-  <img src="images/payment-setup.png" alt="Payment Setup" width="900">
+  <img src="images/payment-setup.png" alt="Payment Setup" width="500">
 
 
 ### Payment Method
@@ -250,3 +250,67 @@ Optionally provide additional payment instructions.
 
 ---
 
+## Step 7: Courier Setting
+
+Configure your preferred shipping options. QuickSend will automatically use the selected settings when booking orders.
+
+  <img src="images/courier-setting.png" alt="Courier Setting" width="500">
+
+### Send By
+
+Choose how the courier service should be selected.
+
+#### Cheapest Service
+Automatically selects the lowest shipping rate available for the shipment.
+
+#### Courier Company
+Allows you to select a specific courier company for all orders created through the form.
+
+### Courier Service Type
+
+Choose how parcels will be handed over to the courier.
+
+#### Pick Up
+The courier collects the parcel from your sender address.
+
+#### Drop Off
+You drop off the parcel at the courier's designated branch or drop-off point.
+
+---
+
+## Step 9: Marketing Tools
+
+Enhance your brand visibility and improve customer communication by enabling the available marketing tools.
+
+  <img src="images/marketing-tools.png" alt="Marketing Tools" width="900">
+
+### Air Waybill Branding
+
+Promote your brand by displaying your latest promotion, banner, or custom message on the air waybill.
+
+### Tracking SMS
+
+Send tracking information to customers via SMS once the order has been created.
+
+### Tracking Email
+
+Send tracking information to customers via email once the order has been created.
+
+### Tracking WhatsApp
+
+Send tracking information to customers via WhatsApp once the order has been created.
+
+---
+
+## Step 10: Publish & Preview 🚀
+
+You're almost there!
+
+Click **Publish & Preview** to:
+
+- 🚀 Publish your QuickSend order form
+- 👀 Preview the customer ordering experience
+- 🔗 Generate your shareable QuickSend link
+- ✅ Double-check everything before going live
+
+🎉 Your QuickSend form is now ready to share with your customers!
