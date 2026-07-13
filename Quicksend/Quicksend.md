@@ -75,13 +75,13 @@ The Form section allows merchants to create a customised order form for collecti
 Click on the "Create Order Form" button to start creating a new Quicksend form.
 
 
-![Create Order Form](images/form-interface.png)
+(images/form-interface.png)
 
 
 ## Step 2: Form Information
 
 Fill in the basic information of your order form.
-![Form Information](images/form-info.png)
+(images/form-info.png)
 
 ### Platform
 
@@ -109,7 +109,7 @@ Example: ```Tiktok Live Monday```
 
 ### Store
 Select a store for this order form.
-![Store](images/branding-invoicing.png)
+(images/branding-invoicing.png)
 
 ### Order Success Message
 Configure the message displayed after a customer successfully places an order.
@@ -121,7 +121,7 @@ Optionally enable e-Invoice for your customers.
 ## Step 5: Product Setup
 
 ### Product
-![Product](images/product-setup.png)
+<img src="images/product-setup.png" alt="Product Setup" width="700">
 
 ### How Should Buyers Choose Products?
 
