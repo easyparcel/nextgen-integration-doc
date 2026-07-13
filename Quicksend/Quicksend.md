@@ -75,7 +75,7 @@ The Form section allows merchants to create a customised order form for collecti
 Click on the "Create Order Form" button to start creating a new Quicksend form.
 
 
-![Create Order Form](images/quicksend-create-form.png)
+![Create Order Form](images/form-interface.png)
 
 
 ## Step 2: Form Information
@@ -102,5 +102,5 @@ Available platforms:
 
 Enter a name for your form to help identify the order source.
 
-Example:
+Example: ```Tiktok Live Monday```
 
