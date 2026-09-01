@@ -36,7 +36,7 @@ Before setting up international shipping, you will need to create an internation
 
 2. Click Create market.
 
-  <img src="easyparcel/nextgen-integration-doc/Pictures/create-market.png" alt="Create Market" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/create-market.png">
 
 3. Enter a market name.
 
@@ -49,7 +49,7 @@ For example:
 
 5. Click Save.
 
-  <img src="easyparcel/nextgen-integration-doc/Pictures/add-market.png" alt="Add Market" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/add-market.png">
 
 ### Understanding Market Settings
 
@@ -78,17 +78,17 @@ For shipping setup, the important part is making sure the correct countries are 
 
 After creating your International Market, Shopify will prompt that shipping rates are not set up yet.
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/manage-shipping.png" alt="Shopify international market shipping warning" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/manage-shipping.png">
 
 Click Manage shipping. This will redirect you to the Shipping and delivery settings page.
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/shipping-page.png" alt="Shopify shipping profile" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/shipping-page.png">
 
 ### Add International Shipping Zone
 
 1. Select the shipping profile that you want to add international shipping to.
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/shipping-profile.png" alt="Shopify shipping profile" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/shipping-profile.png">
 
 2. Click Add zone.
 
@@ -96,23 +96,23 @@ Click Manage shipping. This will redirect you to the Shipping and delivery setti
 
 4. Click Add shipping option.
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/add-zone.png" alt="Shopify shipping profile" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/add-zone.png">
 
 5. Under Rate Type, select:
 
-Carrier or app calculated
+    Carrier or app calculated
 
 6. Under Carrier or app, select:
 
-EasyParcel (via app)
+    EasyParcel (via app)
 
 7. Click Done, the shipping option will be added to your international shipping zone. 
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/shipping-option.png" alt="EasyParcel carrier calculated shipping rate" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/shipping-option.png">
 
 8. Click Save.
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/save-setting.png" alt="EasyParcel carrier calculated shipping rate" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/save-setting.png">
 
 🎉 Your Shopify store is now connected with EasyParcel for international shipping!
 
@@ -126,7 +126,7 @@ After setting up Shopify shipping rates, you will need to configure the internat
 
 2. Click Add Zone.
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/ep-courier.png" alt="EasyParcel courier zone setup" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/ep-courier.png">
 
 3. Enter your Zone Name.
 
@@ -140,7 +140,7 @@ For example:
 
 5. Click Save.
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/ep-addzone.png" alt="EasyParcel courier zone setup" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/ep-addzone.png">
 
 ### Add Courier Service
 
@@ -152,9 +152,9 @@ After saving the zone, add the available courier services for that zone.
 
 3. Click Save.
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/ep-addcourier1.png" alt="EasyParcel courier service setup" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/ep-addcourier1.png">
 
-<img src="easyparcel/nextgen-integration-doc/Pictures/ep-addcourier2.png" alt="EasyParcel courier service setup" width="1000">
+<img src="https://raw.githubusercontent.com/easyparcel/nextgen-integration-doc/main/Pictures/ep-addcourier2.png">
 
 🎉 You're all set!
 
