@@ -17,16 +17,23 @@ This guide will walk you through integrating NextGen EasyParcel with Wix. With t
 **Step 3:** Click **Allow Access** to authorize EasyParcel to access your Wix store data
 <img width="1020" height="517" alt="Screenshot 2026-01-26 at 9 28 15 PM" src="https://github.com/user-attachments/assets/04460516-5f6c-40f6-9d4d-3e39a2ca1c34" />
 
-**Step 4:** Enter your store name and store url, then click **Connect**
-<img width="100%" alt="Screenshot 2026-01-26 at 9 33 42 PM" src="https://github.com/user-attachments/assets/06c3c3ba-2435-49c9-83ba-dd92e3210c53" />
+**Step 4:** Enter your store name and store url, then click **Open the install link**
+<img  alt="image" src="https://github.com/user-attachments/assets/8fd4d204-d0ed-4e2d-9f42-8344a33edd08" />
 
-**Step 5:** You will be redirected to wix to grant app permissions. Select the store you wish to integrate
-<img width="1440" height="713" alt="Screenshot 2026-02-20 at 12 41 18 PM" src="https://github.com/user-attachments/assets/ed676f7e-13c2-4e7f-9a8f-426a3f10748e" />
+**Step 5:** Click **Add to Site** and select the site to install the app, click **Continue**
+<img  alt="Screenshot 2026-09-21 at 10 40 30 AM" src="https://github.com/user-attachments/assets/493c07ce-8aaf-435d-9965-1f9a2d157a52" />
+<img  alt="Screenshot 2026-09-21 at 10 41 23 AM" src="https://github.com/user-attachments/assets/a15b3daf-580d-4548-8dbc-e367fa78a25c" />
 
 **Step 6:** Grant the app permission by clicking **Agree & Add**
-<img width="1438" height="713" alt="Screenshot 2026-02-20 at 12 50 05 PM" src="https://github.com/user-attachments/assets/6769ed75-1c29-4bc0-8f80-570c206bfbff" />
+<img  alt="image" src="https://github.com/user-attachments/assets/df5ceb76-5b79-4b46-b489-251f6f90b00e" />
 
-**Step 7:** You will be redirected back to EasyParcel, now the integration is complete
+
+**Step 7:** A new tab will opened to show your store id, copy it and paste to the store id field, then click **Connect** to complete the installation
+<img  alt="image" src="https://github.com/user-attachments/assets/cd49f8d9-0e48-4ccd-9c43-c27bba7181ac" />
+<img width="2880" height="2322" alt="image" src="https://github.com/user-attachments/assets/03c73aaf-322b-47fa-861b-cfb8aba2e979" />
+
+
+**Step 8:** The page will refreshed, now the integration is complete
 <img width="1440" height="711" alt="Screenshot 2026-02-20 at 12 56 01 PM" src="https://github.com/user-attachments/assets/52d0b819-5627-467f-b66c-1c9eccdd91fa" />
 
 
