@@ -168,6 +168,10 @@ route at that time — a common and legitimate answer, not an error.
 | `estimate_durations` | Courier's own estimate. May contain `<br/>` between lines |
 | `estimate_price` | Total payable, tax included, in `currency` |
 | `currency` | ISO currency code |
+| `addon_sms_notification_price` | Tracking sms charges if enabled |
+| `addon_email_notification_price` | Tracking email charges if enabled |
+| `addon_whatsapp_notification_price` | Tracking whatsapp charges if enabled |
+
 
 A quote is an estimate at that moment. Prices move with demand and distance; re-quote if the user
 sits on the screen before booking.
@@ -194,6 +198,10 @@ Charges the account and dispatches the booking to the courier.
 | `pickup_date` | no | `YYYY-MM-DD` |
 | `pickup_time` | no | `HH:MM:SS` |
 | `coupon_codes` | no | array of coupon code strings |
+| `addon_tracking_sms_enabled` | no | Enable tracking sms |
+| `addon_tracking_email_enabled` | no | Enable tracking email |
+| `addon_tracking_whatsapp_enabled` | no | Enable tracking whatsapp |
+
 
 Each `waypoint` item:
 
@@ -276,6 +284,11 @@ This action returns its fields at the **top level**, not under `result`:
 | `order_number` | **Store this.** It is the handle for details and cancellation |
 | `price` | What the account was charged, tax included |
 | `tracking_url` | Courier's live tracking page. May be `null` until a driver is allocated |
+| `addon_sms_notification_price` | Tracking sms charges |
+| `addon_email_notification_price` | Tracking email charges |
+| `addon_whatsapp_notification_price` | Tracking whatsapp charges |
+
+
 
 A booking succeeded only when `order_number` is present **and** `error_code` is `0`. Persist
 `order_number` before you do anything else — without it you cannot look the booking up or cancel it,
