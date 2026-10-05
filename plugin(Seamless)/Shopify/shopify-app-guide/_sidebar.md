@@ -5,4 +5,5 @@
   - [Auto fulfillment](auto-fulfillment.md)
 - [Integration](Integration-Guide.md)
   - [Settings](Settings-Guide.md)
+  - [Courier Setting](Courier-Setting.md)
   - [Live rates](live-rates.md)
