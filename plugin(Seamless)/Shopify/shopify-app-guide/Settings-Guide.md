@@ -109,9 +109,9 @@ There are **three ways** to fulfil your orders. Pick the one that fits your vibe
 
 | Style | Best for… | Guide |
 |---|---|---|
-| 🧍 **Single Fulfillment** | Shipping one order at a time, with full control | 👉 [Single Fulfillment Guide](./EasyParcel-Single-Fulfillment-Guide.md) |
-| 👯 **Bulk Fulfillment** | Shipping lots of orders in one go (hello, sale days! 🛍️) | 👉 [Bulk Fulfillment Guide](./EasyParcel-Bulk-Fulfillment-Guide.md) |
-| 🤖 **Auto Fulfillment** | Hands-free shipping — orders process themselves | 👉 [Auto Fulfillment Guide](./EasyParcel-Auto-Fulfillment-Guide.md) |
+| 🧍 **Single Fulfillment** | Shipping one order at a time, with full control | 👉 [Single Fulfillment Guide](single-fulfillment.md) |
+| 👯 **Bulk Fulfillment** | Shipping lots of orders in one go (hello, sale days! 🛍️) | 👉 [Bulk Fulfillment Guide](bulk-fulfillment.md) |
+| 🤖 **Auto Fulfillment** | Hands-free shipping — orders process themselves | 👉 [Auto Fulfillment Guide](auto-fulfillment.md) |
 
 > 🤔 **Not sure where to start?** Try **Single Fulfillment** first to get the hang of it, then level up to Bulk or Auto. 📈
 
@@ -123,7 +123,7 @@ Want your customers to see **real-time courier rates** and pick their own courie
 
 It's a great way to be upfront about shipping costs and give your customers more choice.
 
-### 👉 [Set Up Live Rates at Checkout](./EasyParcel-Live-Rates-Guide.md)
+### 👉 [Set Up Live Rates at Checkout](live-rates.md)
 
 ---
 
