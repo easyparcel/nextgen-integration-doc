@@ -2,7 +2,7 @@
 - [Orders](Orders-Page.md)
   - [Single fulfillment](single-fulfillment.md)
   - [Bulk fulfillment](bulk-Orders.md)
-  - [Auto fulfilment](auto-fulfillment.md)
+  - [Auto fulfillment](auto-fulfillment.md)
 - [Settings](Settings-Guide.md)
   - [Integration](integration-guide.md)
   - [Live rates](live-rates.md)
