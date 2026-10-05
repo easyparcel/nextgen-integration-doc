@@ -3,6 +3,6 @@
   - [Single fulfillment](single-fulfillment.md)
   - [Bulk fulfillment](bulk-fulfillment.md)
   - [Auto fulfillment](auto-fulfillment.md)
-- [Settings](Settings-Guide.md)
-  - [Integration](Integration-Guide.md)
+- [Integration](Integration-Guide.md)
+  - [Settings](Settings-Guide.md)
   - [Live rates](live-rates.md)
