@@ -65,7 +65,7 @@ Here's the EasyParcel menu at a glance:
  
 ---
 
-## 🔌 5. Haven't Completed Integration? Let's Get Straight to It!
+## 🔌 4. Haven't Completed Integration? Let's Get Straight to It!
  
 Seeing empty cards on your Dashboard, or no orders showing up? 🤔 Chances are your store isn't fully connected to EasyParcel yet.
  
@@ -77,7 +77,7 @@ No worries — it only takes a few minutes, and once it's done, your orders will
  
 ---
  
- ## 🙋 4. Need a Hand?
+ ## 🙋 5. Need a Hand?
  
 We're real humans, and we like helping. 💗
  
