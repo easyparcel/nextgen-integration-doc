@@ -10,7 +10,11 @@ Grab a kopi. ☕ Let's go.
 
 ## 🗺️ Table of Contents
 
-1. test
+1. [Getting In: Opening the App](#-1-getting-in-opening-the-app)
+2. [The Grand Tour: What You're Looking At](#-2-the-grand-tour-what-youre-looking-at)
+3. [Pro Tips & Common Oopsies](#-3-pro-tips--common-oopsies)
+4. [Haven't Completed Integration? Let's Get Straight to It!](#-4-havent-completed-integration-lets-get-straight-to-it)
+5. [Need a Hand?](#-5-need-a-hand)
 
 ---
 
