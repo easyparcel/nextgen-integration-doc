@@ -13,8 +13,8 @@ Pick the way that fits your vibe:
 | Style | Best for… | Guide |
 |---|---|---|
 | 🧍 **Single Fulfillment** | One order at a time, full control | 👉 [Single Fulfillment Guide](single-fulfillment.md) |
-| 👯 **Bulk Fulfillment** | Lots of orders in one go | 👉 [Bulk Fulfillment Guide](./EasyParcel-Bulk-Fulfillment-Guide.md) |
-| 🤖 **Auto Fulfillment** | Hands-free, orders ship themselves | 👉 [Auto Fulfillment Guide](./EasyParcel-Auto-Fulfillment-Guide.md) |
+| 👯 **Bulk Fulfillment** | Lots of orders in one go | 👉 [Bulk Fulfillment Guide](bulk-fulfillment.md) |
+| 🤖 **Auto Fulfillment** | Hands-free, orders ship themselves | 👉 [Auto Fulfillment Guide](auto-fulfillment.md) |
 
 ---
 
