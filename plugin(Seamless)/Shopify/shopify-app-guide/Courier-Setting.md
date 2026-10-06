@@ -29,8 +29,7 @@ Time to choose which couriers deliver where. 🗺️ Set this up once, and the r
 
 ---
 
-<a id="what-are-zones"></a>
-## 🗺️ What Are Zones?
+## 📍 What Are Zones?
 
 Click the **Courier Setting** tab at the top of the **Setting** page.
 
@@ -48,8 +47,7 @@ You'll see your **zones**: groups of places you ship to, each with its own couri
 
 ---
 
-<a id="keep-west-east-separate"></a>
-## ⚠️ Important: Keep West and East Malaysia Separate!
+## 🚨 Important: Keep West and East Malaysia Separate!
 
 We **highly recommend** creating **two separate zones** for West Malaysia and East Malaysia. 🇲🇾
 
