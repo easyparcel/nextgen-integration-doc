@@ -12,8 +12,8 @@ Time to choose which couriers deliver where. 🗺️ Set this up once, and the r
 ## 🧾 Table of Contents
 
 1. [Before You Start](#-before-you-start)
-2. [What Are Zones?](#%EF%B8%8F-what-are-zones)
-3. [Important: Keep West and East Malaysia Separate!](#%EF%B8%8F-important-keep-west-and-east-malaysia-separate)
+2. [What Are Zones?](#what-are-zones)
+3. [Important: Keep West and East Malaysia Separate!](#keep-west-east-separate)
 4. [Step 1: Add a Zone](#-step-1-add-a-zone)
 5. [Step 2: Add Your Preferred Couriers](#-step-2-add-your-preferred-couriers)
 6. [Step 3: Repeat for Your Other Zones](#-step-3-repeat-for-your-other-zones)
@@ -29,6 +29,7 @@ Time to choose which couriers deliver where. 🗺️ Set this up once, and the r
 
 ---
 
+<a id="what-are-zones"></a>
 ## 🗺️ What Are Zones?
 
 Click the **Courier Setting** tab at the top of the **Setting** page.
@@ -47,6 +48,7 @@ You'll see your **zones**: groups of places you ship to, each with its own couri
 
 ---
 
+<a id="keep-west-east-separate"></a>
 ## ⚠️ Important: Keep West and East Malaysia Separate!
 
 We **highly recommend** creating **two separate zones** for West Malaysia and East Malaysia. 🇲🇾
