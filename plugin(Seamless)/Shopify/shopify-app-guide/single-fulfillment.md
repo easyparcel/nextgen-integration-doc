@@ -13,8 +13,8 @@ Single fulfilment is the best way to learn the ropes. 🎓 You see every detail,
  
 Quick checklist so nothing trips you up:
  
-- 🔌 Your store is **integrated** ([Integration Guide](./EasyParcel-Integration-Guide.md))
-- 📍 Your **Sender Details** and **courier zones** are set up ([Settings Guide](./EasyParcel-Settings-Guide.md))
+- 🔌 Your store is **integrated** ([Integration Guide](Integration-Guide.md))
+- 📍 Your **Sender Details** and **courier zones** are set up ([Settings Guide](Settings-Guide.md))
 - 💳 The order is marked **Paid**
 - 💰 You have enough **EasyParcel credit** in your wallet
 ---
@@ -161,8 +161,8 @@ Got the hang of it? Try these next:
  
 | Next level | Why you'll love it |
 |---|---|
-| 👯 [Bulk Fulfillment](./EasyParcel-Bulk-Fulfillment-Guide.md) | Ship many orders in one go |
-| 🤖 [Auto Fulfillment](./EasyParcel-Auto-Fulfillment-Guide.md) | Let orders ship themselves |
+| 👯 [Bulk Fulfillment](bulk-fulfillment.md) | Ship many orders in one go |
+| 🤖 [Auto Fulfillment](auto-fulfillment.md) | Let orders ship themselves |
  
 ---
 
