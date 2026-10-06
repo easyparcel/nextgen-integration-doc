@@ -9,6 +9,19 @@ Time to choose which couriers deliver where. 🗺️ Set this up once, and the r
 
 ---
 
+## 🧾 Table of Contents
+
+1. [Before You Start](#-before-you-start)
+2. [What Are Zones?](#%EF%B8%8F-what-are-zones)
+3. [Important: Keep West and East Malaysia Separate!](#%EF%B8%8F-important-keep-west-and-east-malaysia-separate)
+4. [Step 1: Add a Zone](#-step-1-add-a-zone)
+5. [Step 2: Add Your Preferred Couriers](#-step-2-add-your-preferred-couriers)
+6. [Step 3: Repeat for Your Other Zones](#-step-3-repeat-for-your-other-zones)
+7. [You're Ready to Ship!](#-youre-ready-to-ship)
+8. [Bonus: Want Live Shipping Rates at Checkout?](#-bonus-want-live-shipping-rates-at-checkout)
+
+---
+
 ## ✅ Before You Start
 
 - 🔌 Your store is **integrated** ([Integration Guide](Integration-Guide.md))
