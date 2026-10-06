@@ -11,11 +11,11 @@ Got a mountain of orders? 🏔️ Don't ship them one by one like it's 2005. Bul
  
 ## ✅ Before You Start
  
-- 🔌 Your store is **integrated** ([Integration Guide](./EasyParcel-Integration-Guide.md))
-- 📍 Your **Sender Details** and **courier zones** are set up ([Settings Guide](./EasyParcel-Settings-Guide.md))
+- 🔌 Your store is **integrated** ([Integration Guide](Integration-Guide.md))
+- 📍 Your **Sender Details** and **courier zones** are set up ([Settings Guide](Settings-Guide.md))
 - 💳 All orders are marked **Paid**
 - 💰 You have **enough credit** to cover *all* the orders (bulk adds up fast! 💸)
-> 🆕 **First time shipping?** Try the [Single Fulfillment Guide](./EasyParcel-Single-Fulfillment-Guide.md) once first. Bulk works the same way, just with more orders.
+> 🆕 **First time shipping?** Try the [Single Fulfillment Guide](single-fulfillment.md) once first. Bulk works the same way, just with more orders.
  
 ---
  
