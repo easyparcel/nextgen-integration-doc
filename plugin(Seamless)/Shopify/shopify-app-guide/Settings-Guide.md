@@ -1,8 +1,8 @@
-# ⚙️ Settings Guide: Get Ready to Ship
+# ⚙️ Account Settings Guide: Get Ready to Ship
 
-> **TL;DR:** Tell us where you're shipping *from* (Sender Details) → tell us which couriers to use *where* (Courier Setting) → start shipping. 🚀
+> **TL;DR:** Tell us who you are and where you're shipping *from*, then fine-tune your account settings. 🚀
 
-You're connected — nice work! 🙌 Now let's teach the app a few things about your business so every parcel goes out smoothly.
+You're connected, nice work! 🙌 Now let's teach the app a few things about your business so every parcel goes out smoothly.
 
 ⏱️ **Time needed:** About 5–10 minutes
 📍 **Where:** EasyParcel app in Shopify → **Setting**
@@ -11,14 +11,16 @@ You're connected — nice work! 🙌 Now let's teach the app a few things about 
 
 ## 🗺️ Table of Contents
 
-1. [Part 1: Sender Details — Where Are You Shipping From?](#-part-1-sender-details--where-are-you-shipping-from)
-2. [Part 2: Courier Setting — Pick Your Delivery Squad](#-part-2-courier-setting--pick-your-delivery-squad)
-3. [You're Ready to Ship!](#-youre-ready-to-ship)
-4. [Bonus: Want Live Shipping Rates at Checkout?](#-bonus-want-live-shipping-rates-at-checkout)
+1. [Sender Details: Where Are You Shipping From?](#-sender-details-where-are-you-shipping-from)
+2. [Tracking Notifications](#-tracking-notifications)
+3. [On-Demand Map Provider (Optional)](#-on-demand-map-provider-optional)
+4. [Order and AWB Preferences](#-order-and-awb-preferences)
+5. [Parcel Value Settings](#-parcel-value-settings)
+6. [What's Next?](#-whats-next)
 
 ---
 
-## 🏠 Part 1: Sender Details — Where Are You Shipping From?
+## 🏠 Sender Details: Where Are You Shipping From?
 
 Right after you verify your Integration ID, stay on the **Shipping Setting** tab and **scroll down**. 👇 You'll find **Sender Details**.
 
@@ -35,7 +37,7 @@ This is the info couriers use to know who you are and where to pick up your parc
 | **Name** \* | The sender's name |
 | **Contact Number** \* | A number couriers can reach you on |
 
-> 💡 **Fields marked with \* are required.** Make sure the contact number is one you actually pick up — couriers may call before a pickup!
+> 💡 **Fields marked with \* are required.** Make sure the contact number is one you actually pick up. Couriers may call before a pickup!
 
 ### 📍 Your pickup addresses
 
@@ -44,86 +46,99 @@ Here's the fun part: **you can add more than one address!** 🎉 Perfect if you 
 | Button | What it does |
 |---|---|
 | ➕ **Add Location** | Add a new pickup address manually |
-| 📄 **Load EasyParcel Profile Address** | Pull in the address you already saved in your EasyParcel account — no retyping! |
+| 📄 **Load EasyParcel Profile Address** | Pull in the address you already saved in your EasyParcel account. No retyping! |
 | 📄 **Load Location** (under Shopify Locations) | Pull in the locations you've already set up in Shopify |
 | ⭐ **Set as Default** | Make this your main shipping-from address |
 | ✏️ / 🗑️ | Edit or delete an address |
 
 > 🎯 **Pro tip:** Set your most-used address as **Default**. It'll be picked automatically, so you won't have to choose every time.
 
-### 🔍 There's more down there!
-
-Keep scrolling and you'll find even more features to fine-tune your shipping. Feel free to explore at your own pace. 🧭
-
-For now, let's move on to the important bit: **couriers**. 🚚
-
 ---
 
-## 🚚 Part 2: Courier Setting — Pick Your Delivery Squad
+## 🔔 Tracking Notifications
 
-Time to choose which couriers deliver where. Click the **Courier Setting** tab at the top.
+Keep scrolling down to **Add On Service Settings**. Here you can send your customers tracking updates automatically, so they always know where their parcel is. 📲
 
-You'll see your **zones** — groups of places you ship to, each with its own couriers.
+![Add On Service Settings with tracking email, SMS and WhatsApp, and the On-Demand Map Provider section](./images/settings-04-tracking-map.png)
 
-![Courier Setting tab showing zones for West Malaysia, East Malaysia, Europe Test and Singapore, with an Add Zone button](./images/settings-02-courier-zones.png)
-
-### ⚠️ Important: Keep West and East Malaysia Separate!
-
-We **highly recommend** creating **two separate zones** for West Malaysia and East Malaysia. 🇲🇾
-
-Why? Shipping from the Peninsula to Sabah or Sarawak is priced very differently from shipping within the Peninsula. Keeping them separate makes sure the **correct shipping rate is returned** every time. No surprises for you or your customers. 💸
-
-| Zone | States to include |
+| Option | What your customer gets |
 |---|---|
-| 🌴 **West Malaysia** | Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Selangor, Terengganu, Kuala Lumpur, Putrajaya |
-| 🌺 **East Malaysia** | Sabah, Sarawak, Labuan |
+| 📧 **Enable tracking email** | Tracking updates by email |
+| 💬 **Enable tracking SMS** | Tracking updates by SMS |
+| 🟢 **Enable tracking WhatsApp** | Tracking updates on WhatsApp |
 
-### ➕ Add a Zone
-
-1. Click **+ Add Zone**.
-2. Give it a **Zone Name** (e.g. "West Malaysia").
-3. In the **Destination** box, type and select the states or countries for this zone. Each one appears as a little tag.
-
-> 💡 **Added the wrong state?** Just click the **✕** on its tag to remove it.
-
-### 🚛 Add Your Preferred Couriers
-
-1. Scroll down to **Courier Service**.
-2. Click **+ Add Courier Service**.
-3. Pick the courier(s) you'd like to use for this zone.
-4. Make sure the **Enabled** box is ticked ✅ for each one you want active.
-
-![Zone Details page with zone name, destination tags, courier service list and Add Courier Service button](./images/settings-03-zone-details.png)
-
-> 🎯 **Want options?** Add a few couriers per zone. That way you (or your customers) can choose between faster, cheaper, or drop-off vs pickup.
-
-Repeat for your **East Malaysia** zone (and any other places you ship to, like Singapore 🇸🇬). Done? Click the **←** back arrow to return to your zone list.
+Click **Activate** on the ones you'd like to turn on.
+ 
+> 💸 **Heads up: these are paid add-ons.** Each tracking notification comes with an **additional charge** once it's activated. Only turn on the ones your customers will really use. You can **Deactivate** them anytime.
+ 
+> 💡 **How to tell if something is on:** A green **Activate** button means the feature is currently **off**. A white **Deactivate** button means it's already **on**. This works the same for every on/off setting on this page.
 
 ---
 
-## 🎉 You're Ready to Ship!
+## 📍 On-Demand Map Provider (Optional)
 
-That's it — your store is officially set up! 🥳 Time to send out your first parcel.
+This one is optional, and most merchants can skip it. 😉
 
-There are **three ways** to fulfil your orders. Pick the one that fits your vibe:
+The app already has a built-in address search for **On-Demand delivery**. If you'd rather use your own **Google Maps API key**, paste it into the field and click **Save key**.
 
-| Style | Best for… | Guide |
-|---|---|---|
-| 🧍 **Single Fulfillment** | Shipping one order at a time, with full control | 👉 [Single Fulfillment Guide](single-fulfillment.md) |
-| 👯 **Bulk Fulfillment** | Shipping lots of orders in one go (hello, sale days! 🛍️) | 👉 [Bulk Fulfillment Guide](bulk-fulfillment.md) |
-| 🤖 **Auto Fulfillment** | Hands-free shipping — orders process themselves | 👉 [Auto Fulfillment Guide](auto-fulfillment.md) |
-
-> 🤔 **Not sure where to start?** Try **Single Fulfillment** first to get the hang of it, then level up to Bulk or Auto. 📈
+| Good to know | |
+|---|---|
+| 💳 **Billing** | The key uses your own Google quota and billing |
+| ⚙️ **Setup** | Make sure the **Geocoding API** is enabled on your key |
+| ✅ **No key?** | Leave it blank to keep using EasyParcel's built-in geocoder |
 
 ---
 
-## ✨ Bonus: Want Live Shipping Rates at Checkout?
+## 🔧 Order and AWB Preferences
 
-Want your customers to see **real-time courier rates** and pick their own courier when they check out? 🛒
+A handful of switches to make your day-to-day shipping smoother. ✨
 
-It's a great way to be upfront about shipping costs and give your customers more choice.
+![Order Status Update, AWB Link Update, Parcel Value Currency Conversion and Packing List settings](./images/settings-05-order-awb-currency.png)
 
-### 👉 [Set Up Live Rates at Checkout](live-rates.md)
+| Setting | What it does |
+|---|---|
+| 🔄 **Order Status Update** | Automatically updates your Shopify order status as your parcels move along |
+| 🔗 **AWB Link Update** | Once an order is fulfilled, the AWB download link is added to the order's note attributes in Shopify. Handy for finding it later! |
+| 📋 **Packing List** | Turns on packing lists, so you know exactly what goes into each parcel |
+| 🔢 **Order Number On AWB** | Prints the order number on the AWB, so you can match parcels to orders at a glance |
+| 🏷️ **Shipping Label Rename** | Turns on shipping label renaming and its rename setting |
+
+![Order Number On AWB, Shipping Label Rename and Parcel Value Calculation Method settings](./images/settings-06-awb-label-value.png)
+
+> 🎯 **Pro tip:** Turn on **Order Number On AWB** if you pack lots of parcels at once. No more guessing which label goes on which box! 📦
+
+---
+
+## 💰 Parcel Value Settings
+
+These control how the **declared value** of your parcels is worked out.
+
+### 🧮 Parcel Value Calculation Method
+
+Choose how the default parcel value is calculated when you fulfil an order:
+
+| Option | Uses… |
+|---|---|
+| **Original item price** | The item's full price, before any discounts |
+| **Discounted item price** | The price your customer actually paid, after discounts |
+
+### 💱 Parcel Value Currency Conversion
+
+Selling in a currency other than MYR/SGD? Enter a **Conversion Rate** so your parcel value is converted correctly.
+
+**The formula:** Default EasyParcel account currency × Conversion Rate
+
+> 🧮 **Example:** If your store sells in USD and you enter a rate of **4.2**, an item worth USD 10 is declared as **MYR 42**.
+
+> ✅ **Store already in MYR/SGD?** Leave this empty.
+
+---
+
+## 🚚 What's Next?
+
+Your account is all set! Now let's choose which couriers deliver where.
+
+### 👉 [Set Up Your Couriers](Courier-Setting.md)
 
 ---
 
