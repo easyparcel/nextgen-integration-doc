@@ -7,3 +7,4 @@
   - [Account Settings](Settings-Guide.md)
   - [Courier Setting](Courier-Setting.md)
   - [Live rates](live-rates.md)
+  - [FAQ](faq.md)
