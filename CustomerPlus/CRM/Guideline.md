@@ -530,8 +530,6 @@ The account owner and team members can use CRM. A team member's role must be abl
 
 ## Troubleshooting and FAQ
 
-**I don't see CRM in the app menu.**
-CRM is open to invited accounts. Contact us (see below) if you'd like it for your account. If your login has several accounts, check that you're on the right one.
 
 **It says "CRM isn't available for your role".**
 Your role sees only its own shipments, and CRM shows customers from the whole account. Ask your account owner to give your role access to all shipments under **Team Management**.
