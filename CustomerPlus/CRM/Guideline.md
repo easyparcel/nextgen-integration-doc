@@ -2,8 +2,6 @@
 
 CRM (Customer Relationship Management) builds a list of the customers you ship to, from what is already in your EasyParcel account: your **Address Book**, your **shipments** and your store orders in **Imported Orders**. Use it to see who buys from you again, who has gone quiet and who your best customers are, and to follow up with them. You can also add, import and edit customers yourself.
 
-This guide works for both **Malaysia (MYR)** and **Singapore (SGD)** accounts.
-
 > CRM is open to invited accounts. If you don't see **CRM** in your app menu, contact us (see [Need help?](#need-help)).
 
 > All screenshots in this guide use demo data. Your own screens show your company name, customers and amounts.
