@@ -92,7 +92,7 @@ Click **See Coverage** to see, for each store and booking method, how many of it
 
 ![Coverage](images/crm-07-coverage.png)
 
-> Your own sender, pickup and return addresses, and your account's own phone and email, are never counted as a customer.
+> Your account's own phone and email, your saved sender, pickup and return addresses, and your team members' phones are never counted as a customer. Everyone else you ship to is, even if they also send parcels with you.
 
 ### Search
 
@@ -111,7 +111,7 @@ Click **Filters**, choose what you need, then click **Apply Filters**. **Reset A
 | **Last order** | Who last ordered within 30, 90 or 180 days, more than 180 days ago, or in a custom range |
 | **Orders** / **Spend** | With a number of orders, or a total spend, between a minimum and a maximum |
 | **Channel** | Who ordered from one store or booking method, or whom you **added** or **imported** |
-| **Latest delivery result** | Whose latest parcel was Delivered, In transit, Returned or COD returned, or who has no parcel yet |
+| **Latest delivery result** | Whose latest parcel was Delivered, In transit, Returned, COD returned or Cancelled, or who has no parcel yet |
 | **Tags** | With **any** of the tags you pick |
 | **Without tags** | Without any of the tags you pick |
 | **Country**, **State**, **Postcode** | By their main address. Postcode matches the start, so `119` finds `11950`. Separate several postcodes with commas. |
@@ -174,17 +174,23 @@ At the top:
 | **History since** | The earliest shipment CRM has for your account |
 | **Added** | How the customer came in: from your orders, your Address Book, by hand or from an import |
 | **Contact details** | Every phone, email and address they have used, main one first, with when each was last used. Use the **copy** icon to copy one, or the **WhatsApp** icon beside a phone to chat. |
-| **Orders, Spend, Average order, First order, Last order** | Their key numbers |
-| **Delivery results** | Their parcels by result: **Delivered**, **In transit**, **Returned** and **COD returned**, plus how many parcels had a **failed attempt** |
+| **Orders, Spend, Average order, First order, Last order** | Their key numbers. Cancelled orders aren't counted; when a customer has some, **Orders** says how many it leaves out, for example *Excludes 1 cancelled order*. |
+| **Delivery results** | Their parcels by result: **Delivered**, **In transit**, **Returned**, **COD returned** and **Cancelled**, plus how many parcels had a **failed attempt** |
 
 > **Phones can't be edited.** A phone is what identifies a customer. If someone changes their number, add a customer with the new number, then merge the two.
 
 ### Orders tab
 
-Every order this customer has made, newest first. Filter by delivery result, channel or whether the order has a shipment yet. Click **>** on an order to see its parcels: the courier, tracking number, delivery result, any failed attempts, and the name, phone and address it was shipped to.
+Every order this customer has made, newest first, cancelled ones included. Click **>** on an order to see its parcels: the courier, tracking number, delivery result, any failed attempts, and the name, phone and address it was shipped to.
+
+- **Search:** type part of an **order number**, **shipment number** (`ES-…`) or **tracking number** to find an order.
+- **Delivery result:** show only the orders with a Delivered, In transit, Returned, COD returned or Cancelled parcel, or a failed attempt. Each choice shows how many orders it has.
+- **Channel** and **Shipment:** show only one store or booking method, or only orders that have (or don't have yet) a shipment.
+- When nothing matches, **Clear Filters** empties the search and the filters together.
 
 ![Orders, with one order opened](images/crm-15-orders.png)
 
+- A **cancelled** order says **Not counted** under its value and **Cancelled** as its delivery result. It doesn't add to the customer's orders or spend.
 - A **failed attempt** is a delivery try that didn't reach the customer, for example nobody was home. The parcel may still be delivered later, so it is shown beside the result.
 - A few couriers don't report failed attempts. Their parcels say **Not reported**.
 - **Cash on delivery** is shown under the channel for COD parcels.
@@ -484,7 +490,7 @@ CRM matches everything **by phone number**: one phone belongs to one customer in
 | Source | What it adds |
 |---|---|
 | **Address Book** | Your saved receivers, with their names, phones, emails, addresses and labels. A saved receiver who hasn't ordered yet is marked **No orders yet**. |
-| **Shipments** | Every parcel you book: single bookings, bulk uploads and bookings from your apps. Each brings the receiver's details, the courier, the delivery result and any failed attempts. |
+| **Shipments** | Every parcel you book: single bookings, bulk uploads and bookings from your apps, cancelled ones included. Each brings the receiver's details, the courier, the delivery result and any failed attempts. |
 | **Store orders** | Orders from the stores you connected in **Imported Orders**, such as Shopify or Shopee, with each order's grand total. |
 | **Customers you add** | Customers you add by hand or import from a file. They're marked **Added by hand** or **Imported**, and **No orders yet** until they buy or you ship to them. |
 
@@ -493,7 +499,7 @@ CRM matches everything **by phone number**: one phone belongs to one customer in
 - **Orders:** one order is one sale. A store order counts once however many parcels it took. A booking with no store order is one order.
 - **Spend:** a store order adds its **grand total**. A booking adds the **declared parcel value as entered**. Only orders in your account's currency add to spend; orders in other currencies still count as orders.
 - **Delivery results** count **parcels**, not orders.
-- A cancelled store order stays in the customer's history but isn't counted.
+- A **cancelled** order, whether a store order or a booking, stays in the customer's history marked **Cancelled**, but isn't counted in orders or spend. A cancelled booking's parcel counts as **Cancelled** in delivery results. Someone whose only booking was cancelled is still in your list, with **Cancelled** as their latest delivery result.
 
 ---
 
@@ -554,6 +560,12 @@ Split it: **⋯ → Split Customer**. If they share one phone, it stays one cust
 
 **One person has two profiles.**
 Merge them: **⋯ → Merge**.
+
+**I cancelled a booking. Why is it still on the customer's profile?**
+A cancelled booking stays in their history, marked **Cancelled**, so you can see it happened. It isn't counted in their orders or spend, and **Orders** on the profile says how many cancelled orders it leaves out. To see only those, pick **Cancelled** in the Orders tab's **Delivery result** filter.
+
+**Someone I ship to also sends parcels with me. Are they a customer?**
+Yes. Everyone you ship to is a customer. Only your account's own phone and email, your saved sender, pickup and return addresses, and your team members' phones are left out.
 
 **The spend doesn't match my store.**
 For a booking, CRM adds the declared parcel value as you entered it, which may be a placeholder. For a store order it adds the grand total. Only orders in your account's currency add to spend.
