@@ -16,11 +16,11 @@ This guide will walk you through integrating NextGen EasyParcel with BigCommerce
 
 
 **Step 3:** Click **Allow Access** to authorize EasyParcel to access your BigCommerce store data
-<img alt="Screenshot 2026-03-09 at 9 07 06 PM" src="https://github.com/user-attachments/assets/f439a2dc-f2c6-4de5-a2b0-090f91a52b01" />
+<img alt="Screenshot 2026-10-21 at 11 46 19 AM" src="https://github.com/user-attachments/assets/f29b59a1-fd82-4bdb-b871-85334d6f52d9" />
 
 
 **Step 4:** Enter your store name and store url, then click **Connect**
-<img alt="Screenshot 2026-03-09 at 9 07 48 PM" src="https://github.com/user-attachments/assets/ee6fb4ed-1456-4fd7-8bbb-6922c221de6c" />
+<img alt="Screenshot 2026-10-21 at 11 40 38 AM" src="https://github.com/user-attachments/assets/f568ea0e-a130-4a4e-8cbe-5a887e79b2c1" />
 
 
 **Step 5:** Key in your "API Path" and "Access Token" and click on the "Submit" button.
