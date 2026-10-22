@@ -56,13 +56,26 @@ EasyParcel asks for two values. You create them in your BigCommerce control pane
      > ℹ️ EasyParcel only needs the **API Path** and the **Access Token**. You do not need to enter the Client ID or Client Secret.
      
   5. There, you may go back to the EasyParcel portal, fill in the **API Path** and **Access Token**, and press **Submit**. Paste the API Path exactly as BigCommerce shows it. It looks like `https://api.bigcommerce.com/stores/abc123/v3/`.
-     <img alt="Screenshot 2026-10-21 at 11 06 08 AM" src="https://github.com/user-attachments/assets/c5be9854-76c5-4283-ad54-bbf083e12b14" />
-     > ⚠️ If EasyParcel shows an error instead, it tells you what to check:
-     > - **"This API account is missing these permissions"**: the API account was saved without one of the three permissions above. Create a new API account with the right permissions and enter its values.
-     > - **"BigCommerce did not accept this Access Token"**: check that the API Path and Access Token come from the same API account, and that the account has not been deleted.
-     > - **"That API Path does not look right"** or **"No BigCommerce store was found at this API Path"**: copy the API Path again, exactly as BigCommerce shows it.
-     > - **"This API account belongs to a different BigCommerce store"**: you are reconnecting a store with an API account from another store. Create the API account in the store you are reconnecting.
-     > ⚠️ Keep this API account in BigCommerce. If you delete it, your store is disconnected from EasyParcel and new orders stop coming in. To fix this, create a new API account and connect your store again with its values
+
+     **Storefront channel ID (optional).** Only fill this in if your BigCommerce store has **more than one storefront** and you want EasyParcel to import orders from just one of them. Leave it blank to import orders from every storefront.
+
+     - Your default storefront is always **1**.
+     - For another storefront, go to **Channel Manager** in your BigCommerce control panel and open that storefront. Its channel ID is the number after `/manage/channel/` in your browser's address bar. For example, `…/manage/channel/123456/overview` means the channel ID is **123456**.
+     <img  alt="Screenshot 2026-10-22 at 1 43 16 PM" src="https://github.com/user-attachments/assets/5b1fc2ac-6962-43ad-be71-8c29113665a3" />
+
+       > ⚠️ Each storefront you connect needs its own **Store URL**, and the storefront **cannot be changed** after you connect. To import orders from another storefront later, add it as a new store with that storefront's own website address.
+  
+       > ⚠️ If EasyParcel shows an error instead, it tells you what to check:
+       > - **"This API account is missing these permissions"**: the API account was saved without one of the three permissions above. Create a new API account with the right permissions and enter its values.
+       > - **"BigCommerce did not accept this Access Token"**: check that the API Path and Access Token come from the same API account, and that the account has not been deleted.
+       > - **"That API Path does not look right"** or **"No BigCommerce store was found at this API Path"**: copy the API Path again, exactly as BigCommerce shows it.
+       > - **"This API account belongs to a different BigCommerce store"**: you are reconnecting a store with an API account from another store. Create the API account in the store you are reconnecting.
+       > - **"The Storefront channel ID must be a whole number"**: enter only the number from the address bar, such as `123456`, or leave the field blank.
+       > - **"This store is connected to storefront channel …, and that cannot be changed"**: this store already imports from one storefront. To import from a different storefront, add it as a new store with its own Store URL.
+       > - **"Another BigCommerce store on your account already uses the Store URL …"**: two storefronts can't share a Store URL, or their orders would mix. Add this storefront again using its own website address.
+  
+       > ⚠️ Keep this API account in BigCommerce. If you delete it, your store is disconnected from EasyParcel and new orders stop coming in. To fix this, create a new API account and connect your store again with its values.
+
 
 **Step 6:** You will be redirected back to the setting page, now the integration is complete
 <img alt="Screenshot 2026-03-09 at 9 24 44 PM" src="https://github.com/user-attachments/assets/ddce9307-884e-4d11-a02a-a415d5eb697f" />
